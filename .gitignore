@@ -16,3 +16,10 @@ claude_code_updates.zip
 
 # Firebase browser config — supplied via NEXT_PUBLIC_* env vars instead
 firebase-applet-config.json
+
+# Bun lockfiles are kept local only. Cloud Run buildpacks run a newer Bun than
+# local, and `bun install --frozen-lockfile` rejects a lockfile written by an
+# older Bun, failing the build. package-lock.json drives the production install
+# instead; its resolved versions match the local Bun install exactly.
+bun.lock
+bun.lockb
