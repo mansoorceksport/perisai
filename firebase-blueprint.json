@@ -1,0 +1,63 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "User profile document storing preference and timestamps",
+      "type": "object",
+      "properties": {
+        "preferredLang": {
+          "type": "string",
+          "description": "User's chosen language code (id or en)",
+          "enum": ["id", "en"]
+        },
+        "lastLogin": {
+          "type": "string",
+          "description": "ISO timestamp of last activity",
+          "maxLength": 64
+        }
+      },
+      "required": ["preferredLang", "lastLogin"]
+    },
+    "Case": {
+      "title": "Case",
+      "description": "User audit case history for compliance inquiries",
+      "type": "object",
+      "properties": {
+        "userId": {
+          "type": "string",
+          "description": "Owner user UID",
+          "maxLength": 128
+        },
+        "type": {
+          "type": "string",
+          "description": "Type of investigation case",
+          "enum": ["lender_check", "rate_calc", "conduct_analysis", "complaint_gen"]
+        },
+        "input": {
+          "type": "object",
+          "description": "Raw inputs submitted for evaluation"
+        },
+        "verdict": {
+          "type": "object",
+          "description": "Deterministic or classified evaluation verdict"
+        },
+        "createdAt": {
+          "type": "string",
+          "description": "ISO timestamp of case creation",
+          "maxLength": 64
+        }
+      },
+      "required": ["userId", "type", "input", "verdict", "createdAt"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "Individual user preferences and metadata"
+    },
+    "/users/{userId}/cases/{caseId}": {
+      "schema": "Case",
+      "description": "Investigation cases belonging to a specific user"
+    }
+  }
+}

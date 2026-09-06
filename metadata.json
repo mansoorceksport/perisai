@@ -1,0 +1,6 @@
+{
+  "name": "Perisai",
+  "description": "Perisai helps Indonesians under pressure from online lenders (pinjol) with task-based regulatory checks for licensing, interest rate caps, and debt collection conduct.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

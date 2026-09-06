@@ -1,0 +1,1402 @@
+{
+  "source": "OJK — Direktori Industri LPBBTI (Pelaku LPBBTI Berizin per Juni 2026)",
+  "source_file": "Direktori_Industri_LPBBTI_-_Juni_2026.pdf",
+  "as_of": "2026-06",
+  "total": 94,
+  "lenders": [
+    {
+      "no": 1,
+      "business_type": "LPBBTI",
+      "company_name": "PT Pasar Dana Pinjaman",
+      "platform_name": "Danamas",
+      "license_number": "KEP-49/D.05/2017",
+      "license_date": "2017-07-06",
+      "license_date_raw": "06 Juli 2017",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://p2p.danamas.co.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 2,
+      "business_type": "LPBBTI",
+      "company_name": "PT Amartha Mikro Fintek",
+      "platform_name": "Amartha",
+      "license_number": "KEP-46/D.05/2019",
+      "license_date": "2019-05-13",
+      "license_date_raw": "13 Mei 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://amartha.com/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 3,
+      "business_type": "LPBBTI",
+      "company_name": "PT Indo Fin Tek",
+      "platform_name": "Dompet Kilat",
+      "license_number": "KEP-47/D.05/2019",
+      "license_date": "2019-05-13",
+      "license_date_raw": "13 Mei 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://dompetkilat.co.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 4,
+      "business_type": "LPBBTI",
+      "company_name": "PT Creative Mobile Adventure",
+      "platform_name": "Boost",
+      "license_number": "KEP-48/D.05/2019",
+      "license_date": "2019-05-13",
+      "license_date_raw": "13 Mei 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.myboost.co.id",
+      "operating_systems": []
+    },
+    {
+      "no": 5,
+      "business_type": "LPBBTI",
+      "company_name": "PT Toko Modal Mitra Usaha",
+      "platform_name": "Tokomodal",
+      "license_number": "KEP-49/D.05/2019",
+      "license_date": "2019-05-24",
+      "license_date_raw": "24 Mei 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.tokomodal.co.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 6,
+      "business_type": "LPBBTI",
+      "company_name": "PT Mitrausaha Indonesia Grup",
+      "platform_name": "Modalku",
+      "license_number": "KEP-81/D.05/2019",
+      "license_date": "2019-09-30",
+      "license_date_raw": "30-Sep-19",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://modalku.co.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 7,
+      "business_type": "LPBBTI",
+      "company_name": "PT Pendanaan Teknologi Nusa",
+      "platform_name": "KTA Kilat",
+      "license_number": "KEP-82/D.05/2019",
+      "license_date": "2019-09-30",
+      "license_date_raw": "30-Sep-19",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.pendanaan.com/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 8,
+      "business_type": "LPBBTI",
+      "company_name": "PT Kredit Pintar Indonesia",
+      "platform_name": "Kredit Pintar",
+      "license_number": "KEP-83/D.05/2019",
+      "license_date": "2019-09-30",
+      "license_date_raw": "30-Sep-19",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.kreditpintar.com/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 9,
+      "business_type": "LPBBTI",
+      "company_name": "PT Oriente Mas Sejahtera",
+      "platform_name": "Finmas",
+      "license_number": "KEP-85/D.05/2019",
+      "license_date": "2019-09-30",
+      "license_date_raw": "30-Sep-19",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.finmas.co.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 10,
+      "business_type": "LPBBTI",
+      "company_name": "PT Aman Cermat Cepat",
+      "platform_name": "KlikA2C",
+      "license_number": "KEP-87/D.05/2019",
+      "license_date": "2019-09-30",
+      "license_date_raw": "30-Sep-19",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://klika2c.co.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 11,
+      "business_type": "LPBBTI",
+      "company_name": "PT Akseleran Keuangan Inklusif Indonesia",
+      "platform_name": "Akseleran",
+      "license_number": "KEP-122/D.05/2019",
+      "license_date": "2019-12-13",
+      "license_date_raw": "13 Desember 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.akseleran.co.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 12,
+      "business_type": "LPBBTI",
+      "company_name": "PT Ammana Fintek Syariah",
+      "platform_name": "Ammana",
+      "license_number": "KEP-123/D.05/2019",
+      "license_date": "2019-12-13",
+      "license_date_raw": "13 Desember 2019",
+      "business_model": "Syariah",
+      "work_area": "Pusat",
+      "website": "https://ammana.id/",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 13,
+      "business_type": "LPBBTI",
+      "company_name": "PT Dana Pinjaman Inklusif",
+      "platform_name": "PinjamanGo",
+      "license_number": "KEP-124/D.05/2019",
+      "license_date": "2019-12-13",
+      "license_date_raw": "13 Desember 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://pinjamango.co.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 14,
+      "business_type": "LPBBTI",
+      "company_name": "PT Lunaria Annua Teknologi",
+      "platform_name": "KoinP2P",
+      "license_number": "KEP-125/D.05/2019",
+      "license_date": "2019-12-13",
+      "license_date_raw": "13 Desember 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://koinp2p.com/",
+      "operating_systems": []
+    },
+    {
+      "no": 15,
+      "business_type": "LPBBTI",
+      "company_name": "PT Pohon Dana Indonesia",
+      "platform_name": "Pohondana",
+      "license_number": "KEP-126/D.05/2019",
+      "license_date": "2019-12-13",
+      "license_date_raw": "13 Desember 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://pohondana.id/",
+      "operating_systems": []
+    },
+    {
+      "no": 16,
+      "business_type": "LPBBTI",
+      "company_name": "PT Mekar InvestamaTeknologi",
+      "platform_name": "Mekar",
+      "license_number": "KEP-127/D.05/2019",
+      "license_date": "2019-12-13",
+      "license_date_raw": "13 Desember 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://mekar.id",
+      "operating_systems": []
+    },
+    {
+      "no": 17,
+      "business_type": "LPBBTI",
+      "company_name": "PT Pembiayaan Digital Indonesia",
+      "platform_name": "AdaKami",
+      "license_number": "KEP-128/D.05/2019",
+      "license_date": "2019-12-13",
+      "license_date_raw": "13 Desember 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.adakami.id/",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 18,
+      "business_type": "LPBBTI",
+      "company_name": "PT Esta Kapital Fintek",
+      "platform_name": "Esta Kapital",
+      "license_number": "KEP-129/D.05/2019",
+      "license_date": "2019-12-13",
+      "license_date_raw": "13 Desember 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.estakapital.co.id",
+      "operating_systems": []
+    },
+    {
+      "no": 19,
+      "business_type": "LPBBTI",
+      "company_name": "PT Tri Digi Fin",
+      "platform_name": "KreditPro",
+      "license_number": "KEP-130/D.05/2019",
+      "license_date": "2019-12-13",
+      "license_date_raw": "13 Desember 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.kreditpro.id",
+      "operating_systems": []
+    },
+    {
+      "no": 20,
+      "business_type": "LPBBTI",
+      "company_name": "PT Fintegra Homido Indonesia",
+      "platform_name": "FINTAG",
+      "license_number": "KEP-131/D.05/2019",
+      "license_date": "2019-12-13",
+      "license_date_raw": "13 Desember 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://fintag.id",
+      "operating_systems": []
+    },
+    {
+      "no": 21,
+      "business_type": "LPBBTI",
+      "company_name": "PT Kredit Utama Fintech Indonesia",
+      "platform_name": "RupiahCepat",
+      "license_number": "KEP-132/D.05/2019",
+      "license_date": "2019-12-13",
+      "license_date_raw": "13 Desember 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.rupiahcepat.co.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 22,
+      "business_type": "LPBBTI",
+      "company_name": "PT Mediator Komunitas Indonesia",
+      "platform_name": "Crowdo",
+      "license_number": "KEP-133/D.05/2019",
+      "license_date": "2019-12-13",
+      "license_date_raw": "13 Desember 2019",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://crowdo.co.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 23,
+      "business_type": "LPBBTI",
+      "company_name": "PT Artha Dana Teknologi",
+      "platform_name": "Indodana Fintech",
+      "license_number": "KEP-15/D.05/2020",
+      "license_date": "2020-05-19",
+      "license_date_raw": "19 Mei 2020",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.indodanafintech.co.id/",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 24,
+      "business_type": "LPBBTI",
+      "company_name": "PT JULO Teknologi Finansial",
+      "platform_name": "JULO",
+      "license_number": "KEP-16/D.05/2020",
+      "license_date": "2020-05-19",
+      "license_date_raw": "19 Mei 2020",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.julo.co.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 25,
+      "business_type": "LPBBTI",
+      "company_name": "PT Progo Puncak Group",
+      "platform_name": "Pinjamin",
+      "license_number": "KEP-17/D.05/2020",
+      "license_date": "2020-05-19",
+      "license_date_raw": "19 Mei 2020",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://pinjamwinwin.com/",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 26,
+      "business_type": "LPBBTI",
+      "company_name": "PT Pindar Berbagi Bersama",
+      "platform_name": "DanaKredi",
+      "license_number": "KEP-18/D.05/2020",
+      "license_date": "2020-05-19",
+      "license_date_raw": "19 Mei 2020",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.danakredi.com/",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 27,
+      "business_type": "LPBBTI",
+      "company_name": "PT Indonusa Bara Sejahtera",
+      "platform_name": "OVO Finansial",
+      "license_number": "KEP-19/D.05/2020",
+      "license_date": "2020-05-19",
+      "license_date_raw": "19 Mei 2020",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://ovofinansial.com",
+      "operating_systems": []
+    },
+    {
+      "no": 28,
+      "business_type": "LPBBTI",
+      "company_name": "PT Finansial Integrasi Teknologi",
+      "platform_name": "PinjamModal",
+      "license_number": "KEP-20/D.05/2020",
+      "license_date": "2020-05-19",
+      "license_date_raw": "19 Mei 2020",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://pinjammodal.id/",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 29,
+      "business_type": "LPBBTI",
+      "company_name": "PT Alami Fintek Sharia",
+      "platform_name": "Alami",
+      "license_number": "KEP-21/D.05/2020",
+      "license_date": "2020-05-27",
+      "license_date_raw": "27 Mei 2020",
+      "business_model": "Syariah",
+      "work_area": "Pusat",
+      "website": "https://alamisharia.co.id/",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 30,
+      "business_type": "LPBBTI",
+      "company_name": "PT Simplefi Teknologi Indonesia",
+      "platform_name": "AwanTunai",
+      "license_number": "KEP-22/D.05/2020",
+      "license_date": "2020-05-27",
+      "license_date_raw": "27 Mei 2020",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://awantunai.co.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 31,
+      "business_type": "LPBBTI",
+      "company_name": "PT Dana Kini Indonesia",
+      "platform_name": "Danakini",
+      "license_number": "KEP-46/D.05/2020",
+      "license_date": "2020-10-16",
+      "license_date_raw": "16 Oktober 2020",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.danakini.co.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 32,
+      "business_type": "LPBBTI",
+      "company_name": "PT Abadi Sejahtera Finansindo",
+      "platform_name": "Singa",
+      "license_number": "KEP-47/D.05/2020",
+      "license_date": "2020-10-16",
+      "license_date_raw": "16 Oktober 2020",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://singa.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 33,
+      "business_type": "LPBBTI",
+      "company_name": "PT Intekno Raya",
+      "platform_name": "Danamerdeka",
+      "license_number": "KEP-48/D.05/2020",
+      "license_date": "2020-10-16",
+      "license_date_raw": "16 Oktober 2020",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://danamerdeka.co.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 34,
+      "business_type": "LPBBTI",
+      "company_name": "PT Indonesia Fintopia Technology",
+      "platform_name": "Easycash",
+      "license_number": "KEP-49/D.05/2020",
+      "license_date": "2020-10-16",
+      "license_date_raw": "16 Oktober 2020",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.easycash.id/",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 35,
+      "business_type": "LPBBTI",
+      "company_name": "PT Kuaikuai Tech Indonesia",
+      "platform_name": "Pinjamyuk",
+      "license_number": "KEP-2/D.05/2021",
+      "license_date": "2021-01-06",
+      "license_date_raw": "06 Januari 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.pinjamyuk.co.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 36,
+      "business_type": "LPBBTI",
+      "company_name": "PT Rezeki Bersama Teknologi",
+      "platform_name": "Finplus",
+      "license_number": "KEP-3/D.05/2021",
+      "license_date": "2021-01-06",
+      "license_date_raw": "06 Januari 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://finplus.co.id/",
+      "operating_systems": []
+    },
+    {
+      "no": 37,
+      "business_type": "LPBBTI",
+      "company_name": "PT Uangme Fintek Indonesia",
+      "platform_name": "Uangme",
+      "license_number": "KEP-4/D.05/2021",
+      "license_date": "2021-01-06",
+      "license_date_raw": "06 Januari 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.uangme.id/",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 38,
+      "business_type": "LPBBTI",
+      "company_name": "PT Stanford Teknologi Indonesia",
+      "platform_name": "PinjamDuit",
+      "license_number": "KEP-5/D.05/2021",
+      "license_date": "2021-01-06",
+      "license_date_raw": "06 Januari 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://pinjamduit.co.id/",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 39,
+      "business_type": "LPBBTI",
+      "company_name": "PT Dana Syariah Indonesia",
+      "platform_name": "DANA SYARIAH",
+      "license_number": "KEP-10/D.05/2021",
+      "license_date": "2021-02-23",
+      "license_date_raw": "23 Februari 2021",
+      "business_model": "Syariah",
+      "work_area": "Pusat",
+      "website": "http://danasyariah.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 40,
+      "business_type": "LPBBTI",
+      "company_name": "PT Berdayakan Usaha Indonesia",
+      "platform_name": "BATUMBU",
+      "license_number": "KEP-11/D.05/2021",
+      "license_date": "2021-02-23",
+      "license_date_raw": "23 Februari 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.batumbu.id",
+      "operating_systems": []
+    },
+    {
+      "no": 41,
+      "business_type": "LPBBTI",
+      "company_name": "PT Artha Permata Makmur",
+      "platform_name": "Cashcepat",
+      "license_number": "KEP-12/D.05/2021",
+      "license_date": "2021-02-23",
+      "license_date_raw": "23 Februari 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "http://cashcepat.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 42,
+      "business_type": "LPBBTI",
+      "company_name": "PT Pinjaman Kemakmuran Rakyat",
+      "platform_name": "klikUMKM",
+      "license_number": "KEP-13/D.05/2021",
+      "license_date": "2021-02-23",
+      "license_date_raw": "23 Februari 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.klikUMKM.co.id",
+      "operating_systems": []
+    },
+    {
+      "no": 43,
+      "business_type": "LPBBTI",
+      "company_name": "PT Kredit Plus Teknologi",
+      "platform_name": "Pinjam Gampang",
+      "license_number": "KEP-16/D.05/2021",
+      "license_date": "2021-03-16",
+      "license_date_raw": "16 Maret 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "http://www.kreditplusteknologi.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 44,
+      "business_type": "LPBBTI",
+      "company_name": "PT Cicil Solusi Mitra Teknologi",
+      "platform_name": "cicil",
+      "license_number": "KEP-20/D.05/2021",
+      "license_date": "2021-04-14",
+      "license_date_raw": "14 April 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.cicil.co.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 45,
+      "business_type": "LPBBTI",
+      "company_name": "PT Lumbung Dana Indonesia",
+      "platform_name": "lumbungdana",
+      "license_number": "KEP-21/D.05/2021",
+      "license_date": "2021-04-14",
+      "license_date_raw": "14 April 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "http://lumbungdana.co.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 46,
+      "business_type": "LPBBTI",
+      "company_name": "PT Inovasi Terdepan Nusantara",
+      "platform_name": "KrediOne",
+      "license_number": "KEP-22/D.05/2021",
+      "license_date": "2021-04-14",
+      "license_date_raw": "14 April 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.360kredi.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 47,
+      "business_type": "LPBBTI",
+      "company_name": "PT Kreditku Teknologi Indonesia",
+      "platform_name": "Kredinesia",
+      "license_number": "KEP-25/D.05/2021",
+      "license_date": "2021-04-21",
+      "license_date_raw": "21 April 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.kredinesia.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 48,
+      "business_type": "LPBBTI",
+      "company_name": "PT Pinduit Teknologi Indonesia",
+      "platform_name": "Pintek",
+      "license_number": "KEP-26/D.05/2021",
+      "license_date": "2021-04-21",
+      "license_date_raw": "21 April 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "http://pintek.id",
+      "operating_systems": []
+    },
+    {
+      "no": 49,
+      "business_type": "LPBBTI",
+      "company_name": "PT Modal Rakyat Indonesia",
+      "platform_name": "ModalRakyat",
+      "license_number": "KEP-27/D.05/2021",
+      "license_date": "2021-04-21",
+      "license_date_raw": "21 April 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "http://modalrakyat.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 50,
+      "business_type": "LPBBTI",
+      "company_name": "PT Anugerah Digital Indonesia",
+      "platform_name": "SOLUSIKU",
+      "license_number": "KEP-28/D.05/2021",
+      "license_date": "2021-04-21",
+      "license_date_raw": "21 April 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.solusi-ku.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 51,
+      "business_type": "LPBBTI",
+      "company_name": "PT Idana Solusi Sejahtera",
+      "platform_name": "Cairin",
+      "license_number": "KEP-29/D.05/2021",
+      "license_date": "2021-04-21",
+      "license_date_raw": "21 April 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.cairin.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 52,
+      "business_type": "LPBBTI",
+      "company_name": "PT Trust Teknologi Finansial",
+      "platform_name": "Danaku",
+      "license_number": "KEP-30/D.05/2021",
+      "license_date": "2021-04-21",
+      "license_date_raw": "21 April 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "http://danaku.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 53,
+      "business_type": "LPBBTI",
+      "company_name": "PT Harapan Fintech Indonesia",
+      "platform_name": "KLIK KAMI",
+      "license_number": "KEP-31/D.05/2021",
+      "license_date": "2021-04-21",
+      "license_date_raw": "21 April 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.klikkami.co.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 54,
+      "business_type": "LPBBTI",
+      "company_name": "PT Duha Madani Syariah",
+      "platform_name": "Duha SYARIAH",
+      "license_number": "KEP-32/D.05/2021",
+      "license_date": "2021-04-21",
+      "license_date_raw": "21 April 2021",
+      "business_model": "Syariah",
+      "work_area": "Pusat",
+      "website": "www.duhasyariah.com",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 55,
+      "business_type": "LPBBTI",
+      "company_name": "PT Sol Mitra Fintec",
+      "platform_name": "Invoila",
+      "license_number": "KEP-39/D.05/2021",
+      "license_date": "2021-05-11",
+      "license_date_raw": "11 Mei 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "http://invoila.co.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 56,
+      "business_type": "LPBBTI",
+      "company_name": "PT Satustop Finansial Solusi",
+      "platform_name": "Sanders One Stop Solution",
+      "license_number": "KEP-40/D.05/2021",
+      "license_date": "2021-05-11",
+      "license_date_raw": "11 Mei 2021",
+      "business_model": "Konvensional",
+      "work_area": "KOBD",
+      "website": "http://sanders.co.id",
+      "operating_systems": []
+    },
+    {
+      "no": 57,
+      "business_type": "LPBBTI",
+      "company_name": "PT Dana Bagus Indonesia",
+      "platform_name": "DanaBagus",
+      "license_number": "KEP-41/D.05/2021",
+      "license_date": "2021-05-11",
+      "license_date_raw": "11 Mei 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.danabagus.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 58,
+      "business_type": "LPBBTI",
+      "company_name": "PT Teknologi Merlin Sejahtera",
+      "platform_name": "UKU",
+      "license_number": "KEP-46/D.05/2021",
+      "license_date": "2021-06-02",
+      "license_date_raw": "2 Juni 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "ukuindo.com",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 59,
+      "business_type": "LPBBTI",
+      "company_name": "PT Fintek Digital Indonesia",
+      "platform_name": "KREDITO",
+      "license_number": "KEP-47/D.05/2021",
+      "license_date": "2021-06-02",
+      "license_date_raw": "2 Juni 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://kredito.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 60,
+      "business_type": "LPBBTI",
+      "company_name": "PT Info Tekno Siaga",
+      "platform_name": "AdaPundi",
+      "license_number": "KEP-48/D.05/2021",
+      "license_date": "2021-06-02",
+      "license_date_raw": "2 Juni 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.adapundi.com",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 61,
+      "business_type": "LPBBTI",
+      "company_name": "PT Lentera Dana Nusantara",
+      "platform_name": "Lentera Dana Nusantara",
+      "license_number": "KEP-49/D.05/2021",
+      "license_date": "2021-06-02",
+      "license_date_raw": "2 Juni 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.lenteradana.co.id/lender/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 62,
+      "business_type": "LPBBTI",
+      "company_name": "PT Solusi Teknologi Finansial",
+      "platform_name": "Modal Nasional",
+      "license_number": "KEP-50/D.05/2021",
+      "license_date": "2021-06-02",
+      "license_date_raw": "2 Juni 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.modalnasional.co.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 63,
+      "business_type": "LPBBTI",
+      "company_name": "PT Komunal Finansial Indonesia",
+      "platform_name": "Komunal",
+      "license_number": "KEP-51/D.05/2021",
+      "license_date": "2021-06-02",
+      "license_date_raw": "2 Juni 2021",
+      "business_model": "Konvensional",
+      "work_area": "KOSB",
+      "website": "www.komunal.co.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 64,
+      "business_type": "LPBBTI",
+      "company_name": "PT Cerita Teknologi Indonesia",
+      "platform_name": "Restock.ID",
+      "license_number": "KEP-52/D.05/2021",
+      "license_date": "2021-06-02",
+      "license_date_raw": "2 Juni 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.restock.id",
+      "operating_systems": []
+    },
+    {
+      "no": 65,
+      "business_type": "LPBBTI",
+      "company_name": "PT Grha Dana Bersama",
+      "platform_name": "Avantee",
+      "license_number": "KEP-66/D.05/2021",
+      "license_date": "2021-08-02",
+      "license_date_raw": "2 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.avantee.co.id",
+      "operating_systems": []
+    },
+    {
+      "no": 66,
+      "business_type": "LPBBTI",
+      "company_name": "PT Gradana Teknoruci Indonesia",
+      "platform_name": "Gradana",
+      "license_number": "KEP-67/D.05/2021",
+      "license_date": "2021-08-02",
+      "license_date_raw": "2 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "gradana.co.id",
+      "operating_systems": []
+    },
+    {
+      "no": 67,
+      "business_type": "LPBBTI",
+      "company_name": "PT Inclusive Finance Group",
+      "platform_name": "Danacita",
+      "license_number": "KEP-68/D.05/2021",
+      "license_date": "2021-08-02",
+      "license_date_raw": "2 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.danacita.co.id",
+      "operating_systems": []
+    },
+    {
+      "no": 68,
+      "business_type": "LPBBTI",
+      "company_name": "PT IKI Karunia Indonesia",
+      "platform_name": "Pijar",
+      "license_number": "KEP-69/D.05/2021",
+      "license_date": "2021-08-02",
+      "license_date_raw": "2 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.pijar.com",
+      "operating_systems": []
+    },
+    {
+      "no": 69,
+      "business_type": "LPBBTI",
+      "company_name": "PT Finansia Aira Teknologi",
+      "platform_name": "Ivoji",
+      "license_number": "KEP-73/D.05/2021",
+      "license_date": "2021-08-19",
+      "license_date_raw": "19 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.ivoji.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 70,
+      "business_type": "LPBBTI",
+      "company_name": "PT Bursa Akselerasi Indonesia",
+      "platform_name": "Indofund.id",
+      "license_number": "KEP-74/D.05/2021",
+      "license_date": "2021-08-19",
+      "license_date_raw": "19 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "indofund.id",
+      "operating_systems": []
+    },
+    {
+      "no": 71,
+      "business_type": "LPBBTI",
+      "company_name": "PT LinkAja Modalin Nusantara",
+      "platform_name": "iGrow",
+      "license_number": "KEP-75/D.05/2021",
+      "license_date": "2021-08-19",
+      "license_date_raw": "19 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "igrow.asia",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 72,
+      "business_type": "LPBBTI",
+      "company_name": "PT Adiwisista Finansial Teknologi",
+      "platform_name": "Danai.id",
+      "license_number": "KEP-76/D.05/2021",
+      "license_date": "2021-08-19",
+      "license_date_raw": "19 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "http://danai.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 73,
+      "business_type": "LPBBTI",
+      "company_name": "PT Fidac Inovasi Teknologi",
+      "platform_name": "DUMI",
+      "license_number": "KEP-78/D.05/2021",
+      "license_date": "2021-08-24",
+      "license_date_raw": "24 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "minjem.com",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 74,
+      "business_type": "LPBBTI",
+      "company_name": "PT Lampung Berkah Finansial Teknologi",
+      "platform_name": "LAHAN SIKAM",
+      "license_number": "KEP-79/D.05/2021",
+      "license_date": "2021-08-24",
+      "license_date_raw": "24 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "KOPG",
+      "website": "www.lahansikam.co.id",
+      "operating_systems": []
+    },
+    {
+      "no": 75,
+      "business_type": "LPBBTI",
+      "company_name": "PT Qazwa Mitra Hasanah",
+      "platform_name": "qazwa.id",
+      "license_number": "KEP-80/D.05/2021",
+      "license_date": "2021-08-24",
+      "license_date_raw": "24 Agustus 2021",
+      "business_model": "Syariah",
+      "work_area": "Pusat",
+      "website": "qazwa.id",
+      "operating_systems": []
+    },
+    {
+      "no": 76,
+      "business_type": "LPBBTI",
+      "company_name": "PT KrediFazz Digital Indonesia",
+      "platform_name": "KrediFazz",
+      "license_number": "KEP-81/D.05/2021",
+      "license_date": "2021-08-24",
+      "license_date_raw": "24 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.kredifazz.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 77,
+      "business_type": "LPBBTI",
+      "company_name": "PT Doeku Peduli Indonesia",
+      "platform_name": "KreditOK",
+      "license_number": "KEP-82/D.05/2021",
+      "license_date": "2021-08-24",
+      "license_date_raw": "24 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "http://kreditok.id/",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 78,
+      "business_type": "LPBBTI",
+      "company_name": "PT Aktivaku Investama Teknologi",
+      "platform_name": "Aktivaku",
+      "license_number": "KEP-83/D.05/2021",
+      "license_date": "2021-08-24",
+      "license_date_raw": "24 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "aktivaku.com",
+      "operating_systems": []
+    },
+    {
+      "no": 79,
+      "business_type": "LPBBTI",
+      "company_name": "PT Mulia Inovasi Digital",
+      "platform_name": "Danain",
+      "license_number": "KEP-84/D.05/2021",
+      "license_date": "2021-08-24",
+      "license_date_raw": "24 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.danain.co.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 80,
+      "business_type": "LPBBTI",
+      "company_name": "PT Indosaku Digital Teknologi",
+      "platform_name": "Indosaku",
+      "license_number": "KEP-86/D.05/2021",
+      "license_date": "2021-08-31",
+      "license_date_raw": "31 Agustus 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "indosaku.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 81,
+      "business_type": "LPBBTI",
+      "company_name": "PT Fintech Bina Bangsa",
+      "platform_name": "EDUFUND",
+      "license_number": "KEP-88/D.05/2021",
+      "license_date": "2021-09-08",
+      "license_date_raw": "8 September 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.edufund.co.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 82,
+      "business_type": "LPBBTI",
+      "company_name": "PT Kreasi Anak Indonesia",
+      "platform_name": "GandengTangan",
+      "license_number": "KEP-89/D.05/2021",
+      "license_date": "2021-09-08",
+      "license_date_raw": "8 September 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.gandengtangan.co.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 83,
+      "business_type": "LPBBTI",
+      "company_name": "PT Piranti Alphabet Perkasa",
+      "platform_name": "PAPITUPI SYARIAH",
+      "license_number": "KEP-90/D.05/2021",
+      "license_date": "2021-09-08",
+      "license_date_raw": "8 September 2021",
+      "business_model": "Syariah",
+      "work_area": "Pusat",
+      "website": "www.papitupisyariah.com",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 84,
+      "business_type": "LPBBTI",
+      "company_name": "PT Smartec Teknologi Indonesia",
+      "platform_name": "BantuSaku",
+      "license_number": "KEP-91/D.05/2021",
+      "license_date": "2021-09-08",
+      "license_date_raw": "8 September 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "bantusaku.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 85,
+      "business_type": "LPBBTI",
+      "company_name": "PT Digital Micro Indonesia",
+      "platform_name": "danabijak",
+      "license_number": "KEP-92/D.05/2021",
+      "license_date": "2021-09-08",
+      "license_date_raw": "8 September 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "danabijak.com",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 86,
+      "business_type": "LPBBTI",
+      "company_name": "PT Solid Fintek Indonesia",
+      "platform_name": "AdaModal",
+      "license_number": "KEP-94/D.05/2021",
+      "license_date": "2021-09-08",
+      "license_date_raw": "8 September 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.adamodal.co.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 87,
+      "business_type": "LPBBTI",
+      "company_name": "PT Sejahtera Sama Kita",
+      "platform_name": "SamaKita",
+      "license_number": "KEP-95/D.05/2021",
+      "license_date": "2021-09-08",
+      "license_date_raw": "8 September 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "samakita.co.id",
+      "operating_systems": []
+    },
+    {
+      "no": 88,
+      "business_type": "LPBBTI",
+      "company_name": "PT Kawan Cicil Teknologi Utama",
+      "platform_name": "KawanCicil",
+      "license_number": "KEP-101/D.05/2021",
+      "license_date": "2021-09-17",
+      "license_date_raw": "17 September 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "kawancicil.co.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 89,
+      "business_type": "LPBBTI",
+      "company_name": "PT Klikcair Magga Jaya",
+      "platform_name": "KlikCair",
+      "license_number": "KEP-103/D.05/2021",
+      "license_date": "2021-09-17",
+      "license_date_raw": "17 September 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "klikcair.com",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 90,
+      "business_type": "LPBBTI",
+      "company_name": "PT Ethis Fintek Indonesia",
+      "platform_name": "ETHIS",
+      "license_number": "KEP-104/D.05/2021",
+      "license_date": "2021-09-17",
+      "license_date_raw": "17 September 2021",
+      "business_model": "Syariah",
+      "work_area": "Pusat",
+      "website": "ethis.co.id",
+      "operating_systems": []
+    },
+    {
+      "no": 91,
+      "business_type": "LPBBTI",
+      "company_name": "PT Sahabat Mikro Fintek",
+      "platform_name": "SAMIR",
+      "license_number": "KEP-105/D.05/2021",
+      "license_date": "2021-09-17",
+      "license_date_raw": "17 September 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.samir.co.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 92,
+      "business_type": "LPBBTI",
+      "company_name": "PT Plus Ultra Abadi",
+      "platform_name": "UATAS",
+      "license_number": "KEP-106/D.05/2021",
+      "license_date": "2021-09-17",
+      "license_date_raw": "17 September 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.uatas.id",
+      "operating_systems": [
+        "Android"
+      ]
+    },
+    {
+      "no": 93,
+      "business_type": "LPBBTI",
+      "company_name": "PT Pintar Inovasi Digital",
+      "platform_name": "Asetku",
+      "license_number": "KEP-123/D.05/2021",
+      "license_date": "2021-12-23",
+      "license_date_raw": "23 Desember 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "www.asetku.co.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "no": 94,
+      "business_type": "LPBBTI",
+      "company_name": "PT Mapan Global Reksa",
+      "platform_name": "Findaya",
+      "license_number": "KEP-124/D.05/2021",
+      "license_date": "2021-12-23",
+      "license_date_raw": "23 Desember 2021",
+      "business_model": "Konvensional",
+      "work_area": "Pusat",
+      "website": "https://www.findaya.co.id",
+      "operating_systems": [
+        "Android",
+        "iOS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "source": "SEOJK 19/SEOJK.06/2025, Romawi XIV — Batas Maksimum Manfaat Ekonomi",
+  "source_url": "https://jdih.ojk.go.id/",
+  "issued": "2025-07-31",
+  "effective": "2025-07-31",
+  "revokes": "SEOJK 19/SEOJK.06/2023 (dicabut, Romawi XXII angka 1)",
+  "parent_regulation": "POJK 40/2024 tentang LPBBTI",
+  "confidence": "verified_against_primary_source",
+  "manfaat_ekonomi_definition": {
+    "includes": [
+      "bunga/margin/bagi hasil",
+      "biaya administrasi/biaya komisi/fee platform/ujrah yang setara",
+      "biaya lainnya"
+    ],
+    "excludes": [
+      "denda keterlambatan (capped separately, see denda_caps)",
+      "biaya tanda tangan elektronik yang diamankan dengan sertifikat elektronik",
+      "pajak"
+    ],
+    "note_en": "Fees are inside the cap. A lender cannot quote a low interest rate and load the rest into admin fees."
+  },
+  "formula": {
+    "expression": "total_manfaat_ekonomi / (nilai_pendanaan_perjanjian * tenor_days) * 100",
+    "unit": "percent_per_calendar_day",
+    "denominator_basis": "nilai Pendanaan yang tercantum dalam perjanjian — NOT the amount disbursed",
+    "tenor_convention": "days; the SE's worked examples use 30-day months (5 bulan = 150, 7 bulan = 210)"
+  },
+  "caps": [
+    {
+      "id": "konsumtif_lte_6m",
+      "purpose": "konsumtif",
+      "principal_min": 0,
+      "principal_max": null,
+      "tenor_min_days": 0,
+      "tenor_max_days": 180,
+      "max_daily_rate": 0.3,
+      "citation": "XIV.3.b.1",
+      "label_id": "Konsumtif, tenor sampai dengan 6 bulan",
+      "label_en": "Consumer, tenor up to 6 months"
+    },
+    {
+      "id": "konsumtif_gt_6m",
+      "purpose": "konsumtif",
+      "principal_min": 0,
+      "principal_max": null,
+      "tenor_min_days": 181,
+      "tenor_max_days": null,
+      "max_daily_rate": 0.2,
+      "citation": "XIV.3.b.2",
+      "label_id": "Konsumtif, tenor di atas 6 bulan",
+      "label_en": "Consumer, tenor over 6 months"
+    },
+    {
+      "id": "produktif_lte_50jt_lte_6m",
+      "purpose": "produktif",
+      "principal_min": 0,
+      "principal_max": 50000000,
+      "tenor_min_days": 0,
+      "tenor_max_days": 180,
+      "max_daily_rate": 0.275,
+      "citation": "XIV.3.a.1.a",
+      "label_id": "Produktif sampai Rp50 juta, tenor sampai dengan 6 bulan",
+      "label_en": "Productive up to Rp50m, tenor up to 6 months"
+    },
+    {
+      "id": "produktif_lte_50jt_gt_6m",
+      "purpose": "produktif",
+      "principal_min": 0,
+      "principal_max": 50000000,
+      "tenor_min_days": 181,
+      "tenor_max_days": null,
+      "max_daily_rate": 0.1,
+      "citation": "XIV.3.a.1.b",
+      "label_id": "Produktif sampai Rp50 juta, tenor di atas 6 bulan",
+      "label_en": "Productive up to Rp50m, tenor over 6 months"
+    },
+    {
+      "id": "produktif_gt_50jt",
+      "purpose": "produktif",
+      "principal_min": 50000001,
+      "principal_max": null,
+      "tenor_min_days": 0,
+      "tenor_max_days": null,
+      "max_daily_rate": 0.1,
+      "citation": "XIV.3.a.2",
+      "label_id": "Produktif di atas Rp50 juta, semua tenor",
+      "label_en": "Productive above Rp50m, all tenors"
+    }
+  ],
+  "denda_caps": {
+    "note": "Late penalties are capped SEPARATELY from manfaat ekonomi, at identical rates. Citation XIV.4.",
+    "same_bands_as": "caps",
+    "citation": "XIV.4.a, XIV.4.b"
+  },
+  "lock_cap": {
+    "rule": "manfaat_ekonomi_plus_denda_max_100pct_of_nilai_pendanaan",
+    "citation": "XIV.5",
+    "explanation_id": "Seluruh manfaat ekonomi dan denda keterlambatan yang dapat dikenakan tidak melebihi 100% dari nilai Pendanaan dalam perjanjian.",
+    "explanation_en": "Total economic benefit plus late penalties may not exceed 100% of the contract funding value."
+  },
+  "on_no_match": {
+    "behaviour": "return_unknown",
+    "MUST_NOT": "Never fall through to undefined, null, or 0. An unmatched combination is not a pass and not a fail.",
+    "return_shape": {
+      "status": "no_cap_defined",
+      "max_daily_rate": null
+    },
+    "note": "With the bands above, konsumtif and produktif are both fully covered for any tenor and principal. This branch should be unreachable — if it fires, the input parsing is wrong.",
+    "ui_id": "Kombinasi ini tidak dikenali, jadi pemeriksaan batas tidak bisa diselesaikan. Pastikan ke OJK 157.",
+    "ui_en": "This combination was not recognised, so the cap check could not be completed. Confirm with OJK 157."
+  },
+  "unit_tests": [
+    {
+      "name": "SE worked example 1 — produktif",
+      "citation": "XIV.3 simulasi 1",
+      "purpose": "produktif",
+      "nilai_pendanaan": 50000000,
+      "tenor_days": 150,
+      "components": {
+        "bunga": 1000000,
+        "biaya_admin": 200000,
+        "biaya_lainnya": 50000
+      },
+      "total_manfaat_ekonomi": 1250000,
+      "expected_daily_rate_pct": 0.017,
+      "expected_cap": 0.275,
+      "expected_verdict": "within_cap"
+    },
+    {
+      "name": "SE worked example 2 — konsumtif",
+      "citation": "XIV.3 simulasi 2",
+      "purpose": "konsumtif",
+      "nilai_pendanaan": 150000000,
+      "tenor_days": 210,
+      "components": {
+        "bunga": 2000000,
+        "biaya_admin": 300000,
+        "biaya_lainnya": 50000
+      },
+      "total_manfaat_ekonomi": 2350000,
+      "expected_daily_rate_pct": 0.007,
+      "expected_cap": 0.2,
+      "expected_verdict": "within_cap"
+    },
+    {
+      "name": "Perisai demo case — predatory short-tenor konsumtif",
+      "purpose": "konsumtif",
+      "nilai_pendanaan": 1000000,
+      "amount_disbursed": 800000,
+      "total_repayment": 1300000,
+      "tenor_days": 30,
+      "total_manfaat_ekonomi": 500000,
+      "expected_daily_rate_pct": 1.667,
+      "expected_cap": 0.3,
+      "expected_multiple_over_cap": 5.6,
+      "lock_cap_breached": false,
+      "expected_verdict": "over_cap"
+    },
+    {
+      "name": "Perisai lock cap test — 100% ceiling breach (XIV.5)",
+      "purpose": "konsumtif",
+      "nilai_pendanaan": 2000000,
+      "amount_disbursed": 2000000,
+      "total_repayment": 4500000,
+      "tenor_days": 90,
+      "total_manfaat_ekonomi": 2500000,
+      "expected_daily_rate_pct": 1.389,
+      "expected_cap": 0.3,
+      "lock_cap_breached": true,
+      "expected_verdict": "over_cap"
+    }
+  ],
+  "dual_figure_display": {
+    "rationale_en": "The regulator measures against contract value. The borrower's real burden is measured against what actually landed in their account. Show both, labelled, never conflated.",
+    "regulatory_id": "Bunga atas nilai perjanjian (dasar batas OJK)",
+    "regulatory_en": "Rate against contract value (basis of the OJK cap)",
+    "experienced_id": "Bunga atas dana yang benar-benar cair (beban sebenarnya)",
+    "experienced_en": "Rate against funds actually disbursed (real burden)"
+  }
+}

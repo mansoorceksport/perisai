@@ -1,0 +1,5955 @@
+{
+  "source": "OJK/Satgas PASTI — Lampiran Siaran Pers: Daftar Pinjaman Online Ilegal dan Investasi Ilegal",
+  "source_file": "Daftar_Pinjaman_Online_Ilegal_dan_Investasi_Ilegal_April_2026.pdf",
+  "as_of": "2026-04",
+  "notes": [
+    "Source data from OJK/Satgas PASTI published blocklist.",
+    "Filtered according to rule C3: channel != 'facebook' && !name_is_placeholder."
+  ],
+  "totals": {
+    "illegal_lending": 951,
+    "illegal_investment": 2
+  },
+  "illegal_lending": [
+    {
+      "no": 1,
+      "url": "https://blocked-1.local",
+      "host": "blocked-1.local",
+      "channel": "aptoide",
+      "name": "Uang Cepat - Pinjaman Duit Cair Tunai Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "Huang Bao",
+      "flags": []
+    },
+    {
+      "no": 2,
+      "url": "https://blocked-2.local",
+      "host": "blocked-2.local",
+      "channel": "aptoide",
+      "name": "Dana Siap - Pinjaman Uang Tunai Dana Cash",
+      "name_is_placeholder": false,
+      "developer": "GABRIEL RODRIGUEZ",
+      "flags": []
+    },
+    {
+      "no": 3,
+      "url": "https://blocked-3.local",
+      "host": "blocked-3.local",
+      "channel": "softonic",
+      "name": "Duit Happy - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "PT.Duit Happy Indonesia",
+      "flags": []
+    },
+    {
+      "no": 4,
+      "url": "https://blocked-4.local",
+      "host": "blocked-4.local",
+      "channel": "softonic",
+      "name": "Platform Pinjaman Online TaTa",
+      "name_is_placeholder": false,
+      "developer": "Resmy Technology",
+      "flags": []
+    },
+    {
+      "no": 5,
+      "url": "https://blocked-5.local",
+      "host": "blocked-5.local",
+      "channel": "softonic",
+      "name": "Pinjaman Uang- Online Kredit D",
+      "name_is_placeholder": false,
+      "developer": "Wu Mangg",
+      "flags": []
+    },
+    {
+      "no": 6,
+      "url": "https://blocked-6.local",
+      "host": "blocked-6.local",
+      "channel": "softonic",
+      "name": "Pinjaman Syariah Online Cepat",
+      "name_is_placeholder": false,
+      "developer": "Slides Dev",
+      "flags": []
+    },
+    {
+      "no": 7,
+      "url": "https://blocked-7.local",
+      "host": "blocked-7.local",
+      "channel": "softonic",
+      "name": "Dana Ribu - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Dana Ribu",
+      "flags": []
+    },
+    {
+      "no": 8,
+      "url": "https://blocked-8.local",
+      "host": "blocked-8.local",
+      "channel": "softonic",
+      "name": "Kredit Rupiah-Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "ROBI SUGARA",
+      "flags": []
+    },
+    {
+      "no": 9,
+      "url": "https://blocked-9.local",
+      "host": "blocked-9.local",
+      "channel": "softonic",
+      "name": "KTA Gampang –Pinjaman Online Dana Kredit Tunai",
+      "name_is_placeholder": false,
+      "developer": "Rahmad Syarhan",
+      "flags": []
+    },
+    {
+      "no": 10,
+      "url": "https://blocked-10.local",
+      "host": "blocked-10.local",
+      "channel": "softonic",
+      "name": "Kilat Cicil - Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "Kilat Cicil Dev",
+      "flags": []
+    },
+    {
+      "no": 11,
+      "url": "https://blocked-11.local",
+      "host": "blocked-11.local",
+      "channel": "softonic",
+      "name": "Murni Pinjaman-Credito Pinjol",
+      "name_is_placeholder": false,
+      "developer": "ARELLANO TAFOLLA AGUSTIN",
+      "flags": []
+    },
+    {
+      "no": 12,
+      "url": "https://blocked-12.local",
+      "host": "blocked-12.local",
+      "channel": "softonic",
+      "name": "Pinjaman Angsuran Ty",
+      "name_is_placeholder": false,
+      "developer": "Muhamad Technology",
+      "flags": []
+    },
+    {
+      "no": 13,
+      "url": "https://blocked-13.local",
+      "host": "blocked-13.local",
+      "channel": "softonic",
+      "name": "Pinjol kilat modal KTP",
+      "name_is_placeholder": false,
+      "developer": "Xfourteendev",
+      "flags": []
+    },
+    {
+      "no": 14,
+      "url": "https://blocked-14.local",
+      "host": "blocked-14.local",
+      "channel": "softonic",
+      "name": "Tunaikan - pinjol masa kini",
+      "name_is_placeholder": false,
+      "developer": "Ange demu",
+      "flags": []
+    },
+    {
+      "no": 15,
+      "url": "https://blocked-15.local",
+      "host": "blocked-15.local",
+      "channel": "softonic",
+      "name": "Klik Kredit-Pinjaman Pinjol",
+      "name_is_placeholder": false,
+      "developer": "ROBI SUGARA",
+      "flags": []
+    },
+    {
+      "no": 16,
+      "url": "https://blocked-16.local",
+      "host": "blocked-16.local",
+      "channel": "softonic",
+      "name": "Dana Mudah-Pinjaman Cepat",
+      "name_is_placeholder": false,
+      "developer": "PT. Dana Mudah Indonesia",
+      "flags": []
+    },
+    {
+      "no": 17,
+      "url": "https://blocked-17.local",
+      "host": "blocked-17.local",
+      "channel": "softonic",
+      "name": "PINTAR KREDIT - PINJAMAN UANG ONLINE BUNGA RENDAH",
+      "name_is_placeholder": false,
+      "developer": "GIKA INDONESIA",
+      "flags": []
+    },
+    {
+      "no": 18,
+      "url": "https://blocked-18.local",
+      "host": "blocked-18.local",
+      "channel": "softonic",
+      "name": "Dana Fulus-Pinjama Cepat",
+      "name_is_placeholder": false,
+      "developer": "PT SEJAHTERA INTERNATIONAL INDONESIA",
+      "flags": []
+    },
+    {
+      "no": 19,
+      "url": "https://blocked-19.local",
+      "host": "blocked-19.local",
+      "channel": "apkpure",
+      "name": "Pinjam Uang – Pinjaman Online Cepat Cair",
+      "name_is_placeholder": false,
+      "developer": "Pinjam Uang Team",
+      "flags": []
+    },
+    {
+      "no": 20,
+      "url": "https://blocked-20.local",
+      "host": "blocked-20.local",
+      "channel": "apkpure",
+      "name": "Pinjaman Cepat Uang Teman Kredit Talangan Keuangan",
+      "name_is_placeholder": false,
+      "developer": "PT. Dana Segera Cair",
+      "flags": []
+    },
+    {
+      "no": 21,
+      "url": "https://blocked-21.local",
+      "host": "blocked-21.local",
+      "channel": "apkpure",
+      "name": "PinjamMudah",
+      "name_is_placeholder": false,
+      "developer": "Audrey Spittler",
+      "flags": []
+    },
+    {
+      "no": 22,
+      "url": "https://blocked-22.local",
+      "host": "blocked-22.local",
+      "channel": "apkpure",
+      "name": "Rupiah Plus - Pinjam Uang Langsung Cair",
+      "name_is_placeholder": false,
+      "developer": "PT.Arta Mandiri TBK",
+      "flags": []
+    },
+    {
+      "no": 23,
+      "url": "https://blocked-23.local",
+      "host": "blocked-23.local",
+      "channel": "apkpure",
+      "name": "SAKU KAMI – KTA online, pinjam cepat cair",
+      "name_is_placeholder": false,
+      "developer": "PT Karya Nusa Mandala",
+      "flags": []
+    },
+    {
+      "no": 24,
+      "url": "https://blocked-24.local",
+      "host": "blocked-24.local",
+      "channel": "apkpure",
+      "name": "Pinjam Uang - Tempat pinjaman tanpa jaminan online",
+      "name_is_placeholder": false,
+      "developer": "Meixin Global Fintech",
+      "flags": []
+    },
+    {
+      "no": 25,
+      "url": "https://blocked-25.local",
+      "host": "blocked-25.local",
+      "channel": "apkpure",
+      "name": "Pinjaman Uang Online - Kredit Cicilan Cepat Cair",
+      "name_is_placeholder": false,
+      "developer": "PT. Dinar Antam jaya",
+      "flags": []
+    },
+    {
+      "no": 26,
+      "url": "https://blocked-26.local",
+      "host": "blocked-26.local",
+      "channel": "apkpure",
+      "name": "Pinjaman Uang Tunai Cepat Kredit Tunai Dana Teman",
+      "name_is_placeholder": false,
+      "developer": "CosmikSemanggi",
+      "flags": []
+    },
+    {
+      "no": 27,
+      "url": "https://blocked-27.local",
+      "host": "blocked-27.local",
+      "channel": "aptoide",
+      "name": "DanaKu—Kredit Cepat Pinjaman Uang Online",
+      "name_is_placeholder": false,
+      "developer": "Eric",
+      "flags": []
+    },
+    {
+      "no": 28,
+      "url": "https://blocked-28.local",
+      "host": "blocked-28.local",
+      "channel": "aptoide",
+      "name": "Go Cash - Pinjaman Dana Tunai Online",
+      "name_is_placeholder": false,
+      "developer": "Pinjaman Online Uang Cepat Cepat: Go Cash",
+      "flags": []
+    },
+    {
+      "no": 29,
+      "url": "https://blocked-29.local",
+      "host": "blocked-29.local",
+      "channel": "softonic",
+      "name": "Cepet Dana-Pinjaman Cair Tunai",
+      "name_is_placeholder": false,
+      "developer": "uangcash210209",
+      "flags": []
+    },
+    {
+      "no": 30,
+      "url": "https://blocked-30.local",
+      "host": "blocked-30.local",
+      "channel": "softonic",
+      "name": "Easy Dana",
+      "name_is_placeholder": false,
+      "developer": "vivaylien",
+      "flags": []
+    },
+    {
+      "no": 31,
+      "url": "https://blocked-31.local",
+      "host": "blocked-31.local",
+      "channel": "softonic",
+      "name": "Dana Flow-Pinjama dana cepat",
+      "name_is_placeholder": false,
+      "developer": "PT SEJAHTERA INTERNATIONAL INDONESIA",
+      "flags": []
+    },
+    {
+      "no": 32,
+      "url": "https://blocked-32.local",
+      "host": "blocked-32.local",
+      "channel": "softonic",
+      "name": "Dana Darurat - Kredit Tunai",
+      "name_is_placeholder": false,
+      "developer": "PT.kecemerlangan Fintech Indonesia",
+      "flags": []
+    },
+    {
+      "no": 33,
+      "url": "https://blocked-33.local",
+      "host": "blocked-33.local",
+      "channel": "softonic",
+      "name": "Dana Dompet-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Uang cepat",
+      "flags": []
+    },
+    {
+      "no": 34,
+      "url": "https://blocked-34.local",
+      "host": "blocked-34.local",
+      "channel": "softonic",
+      "name": "DANASUMO - PINJAMAN ONLINE CEPAT CAIR TERBARU",
+      "name_is_placeholder": false,
+      "developer": "PT. Easy Dana Indonesia",
+      "flags": []
+    },
+    {
+      "no": 35,
+      "url": "https://blocked-35.local",
+      "host": "blocked-35.local",
+      "channel": "softonic",
+      "name": "YOKOTO - PINJAMAN ONLINE LANGSUNG CAIR TERBARU",
+      "name_is_placeholder": false,
+      "developer": "Margo Developer",
+      "flags": []
+    },
+    {
+      "no": 36,
+      "url": "https://blocked-36.local",
+      "host": "blocked-36.local",
+      "channel": "softonic",
+      "name": "Rupiah Kasih - Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "PT.Rupiah Kasih Indonesia",
+      "flags": []
+    },
+    {
+      "no": 37,
+      "url": "https://blocked-37.local",
+      "host": "blocked-37.local",
+      "channel": "softonic",
+      "name": "Sinar Rpro - Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "Sinar Rupiah Nusantara",
+      "flags": []
+    },
+    {
+      "no": 38,
+      "url": "https://blocked-38.local",
+      "host": "blocked-38.local",
+      "channel": "softonic",
+      "name": "Pasar KTA - Pinjaman Uang Online Cepat Dana Cair",
+      "name_is_placeholder": false,
+      "developer": "PT Inspira Data Nusa",
+      "flags": []
+    },
+    {
+      "no": 39,
+      "url": "https://blocked-39.local",
+      "host": "blocked-39.local",
+      "channel": "softonic",
+      "name": "Pinjaman Tanpa Jaminan Rocket",
+      "name_is_placeholder": false,
+      "developer": "Hamdan Technology",
+      "flags": []
+    },
+    {
+      "no": 40,
+      "url": "https://blocked-40.local",
+      "host": "blocked-40.local",
+      "channel": "softonic",
+      "name": "Pinjaman Cepat Hhemat Waktu",
+      "name_is_placeholder": false,
+      "developer": "Shohel Technology",
+      "flags": []
+    },
+    {
+      "no": 41,
+      "url": "https://blocked-41.local",
+      "host": "blocked-41.local",
+      "channel": "softonic",
+      "name": "Pintar Cair Pinjaman 24jam",
+      "name_is_placeholder": false,
+      "developer": "Pintar Cair",
+      "flags": []
+    },
+    {
+      "no": 42,
+      "url": "https://blocked-42.local",
+      "host": "blocked-42.local",
+      "channel": "softonic",
+      "name": "Teman Uang",
+      "name_is_placeholder": false,
+      "developer": "Willhoite Nick",
+      "flags": []
+    },
+    {
+      "no": 43,
+      "url": "https://blocked-43.local",
+      "host": "blocked-43.local",
+      "channel": "softonic",
+      "name": "Cheetah-Pinjaman Cepat",
+      "name_is_placeholder": false,
+      "developer": "Cheetah Pinjaman Cepat",
+      "flags": []
+    },
+    {
+      "no": 44,
+      "url": "https://blocked-44.local",
+      "host": "blocked-44.local",
+      "channel": "softonic",
+      "name": "Cara Pinjaman Online Cair KTP",
+      "name_is_placeholder": false,
+      "developer": "NOV Tech.",
+      "flags": []
+    },
+    {
+      "no": 45,
+      "url": "https://blocked-45.local",
+      "host": "blocked-45.local",
+      "channel": "softonic",
+      "name": "Rupiah Maju - Pinjaman dana tunai online cair",
+      "name_is_placeholder": false,
+      "developer": "PT Rupiah Maju",
+      "flags": []
+    },
+    {
+      "no": 46,
+      "url": "https://blocked-46.local",
+      "host": "blocked-46.local",
+      "channel": "aptoide",
+      "name": "Ada Dana",
+      "name_is_placeholder": false,
+      "developer": "Pinjam Cepat 66",
+      "flags": []
+    },
+    {
+      "no": 47,
+      "url": "https://blocked-47.local",
+      "host": "blocked-47.local",
+      "channel": "softonic",
+      "name": "Sentral Pinjaman - Pinjaman Digital",
+      "name_is_placeholder": false,
+      "developer": "Mega Central Finance",
+      "flags": []
+    },
+    {
+      "no": 48,
+      "url": "https://blocked-48.local",
+      "host": "blocked-48.local",
+      "channel": "softonic",
+      "name": "Pinjaman Cepat - Pinjaman Uang",
+      "name_is_placeholder": false,
+      "developer": "Dao Gu",
+      "flags": []
+    },
+    {
+      "no": 49,
+      "url": "https://blocked-49.local",
+      "host": "blocked-49.local",
+      "channel": "softonic",
+      "name": "Pinjaman Dana Uang",
+      "name_is_placeholder": false,
+      "developer": "Margo Developer",
+      "flags": []
+    },
+    {
+      "no": 50,
+      "url": "https://blocked-50.local",
+      "host": "blocked-50.local",
+      "channel": "softonic",
+      "name": "DuitKu-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "cashaman8",
+      "flags": []
+    },
+    {
+      "no": 51,
+      "url": "https://blocked-51.local",
+      "host": "blocked-51.local",
+      "channel": "softonic",
+      "name": "Kya-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Vergara Manuel Zambrano",
+      "flags": []
+    },
+    {
+      "no": 52,
+      "url": "https://blocked-52.local",
+      "host": "blocked-52.local",
+      "channel": "softonic",
+      "name": "DanaKu-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Uang cepat",
+      "flags": []
+    },
+    {
+      "no": 53,
+      "url": "https://blocked-53.local",
+      "host": "blocked-53.local",
+      "channel": "softonic",
+      "name": "Pinjaman Cepat Keluarga",
+      "name_is_placeholder": false,
+      "developer": "Rashed Technology",
+      "flags": []
+    },
+    {
+      "no": 54,
+      "url": "https://blocked-54.local",
+      "host": "blocked-54.local",
+      "channel": "softonic",
+      "name": "Pinjaman Amanah - Kredit",
+      "name_is_placeholder": false,
+      "developer": "perusahaan abadi dana",
+      "flags": []
+    },
+    {
+      "no": 55,
+      "url": "https://blocked-55.local",
+      "host": "blocked-55.local",
+      "channel": "softonic",
+      "name": "Tunai Kilat-Pinjaman Tunai",
+      "name_is_placeholder": false,
+      "developer": "Perusahaan Keuangan Anark",
+      "flags": []
+    },
+    {
+      "no": 56,
+      "url": "https://blocked-56.local",
+      "host": "blocked-56.local",
+      "channel": "softonic",
+      "name": "Tunai Kilat-Pinjaman Tunai",
+      "name_is_placeholder": false,
+      "developer": "Perusahaan Keuangan Anark",
+      "flags": []
+    },
+    {
+      "no": 57,
+      "url": "https://blocked-57.local",
+      "host": "blocked-57.local",
+      "channel": "softonic",
+      "name": "Tunai Pinjaman-Pinjaman Uang Tunai Dana Online",
+      "name_is_placeholder": false,
+      "developer": "Indah Maya Sari",
+      "flags": []
+    },
+    {
+      "no": 58,
+      "url": "https://blocked-58.local",
+      "host": "blocked-58.local",
+      "channel": "softonic",
+      "name": "Kredit Digital-Uang Tunai",
+      "name_is_placeholder": false,
+      "developer": "PT. Kreditsekali",
+      "flags": []
+    },
+    {
+      "no": 59,
+      "url": "https://blocked-59.local",
+      "host": "blocked-59.local",
+      "channel": "softonic",
+      "name": "Ada Tunai-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Luis Alberto",
+      "flags": []
+    },
+    {
+      "no": 60,
+      "url": "https://blocked-60.local",
+      "host": "blocked-60.local",
+      "channel": "softonic",
+      "name": "Aplikasi Penghasil Uang Nyata",
+      "name_is_placeholder": false,
+      "developer": "Bankjo Finance",
+      "flags": []
+    },
+    {
+      "no": 61,
+      "url": "https://blocked-61.local",
+      "host": "blocked-61.local",
+      "channel": "softonic",
+      "name": "Pinjaman Hoki-Uang Online",
+      "name_is_placeholder": false,
+      "developer": "PT. Pinjaman Hoki Indonesia",
+      "flags": []
+    },
+    {
+      "no": 62,
+      "url": "https://blocked-62.local",
+      "host": "blocked-62.local",
+      "channel": "softonic",
+      "name": "Pinjaman Kilat - Tunai Mudah",
+      "name_is_placeholder": false,
+      "developer": "ESMIYATI",
+      "flags": []
+    },
+    {
+      "no": 63,
+      "url": "https://blocked-63.local",
+      "host": "blocked-63.local",
+      "channel": "softonic",
+      "name": "Pinjaman Tunai Wilmar",
+      "name_is_placeholder": false,
+      "developer": "Lourdes Mondejar",
+      "flags": []
+    },
+    {
+      "no": 64,
+      "url": "https://blocked-64.local",
+      "host": "blocked-64.local",
+      "channel": "softonic",
+      "name": "Dana Darurat - Layanan",
+      "name_is_placeholder": false,
+      "developer": "Fintech Company",
+      "flags": []
+    },
+    {
+      "no": 65,
+      "url": "https://blocked-65.local",
+      "host": "blocked-65.local",
+      "channel": "softonic",
+      "name": "Kotak Koin - Credit Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "PT Coco Digital Technology",
+      "flags": []
+    },
+    {
+      "no": 66,
+      "url": "https://blocked-66.local",
+      "host": "blocked-66.local",
+      "channel": "softonic",
+      "name": "Abadi Dana - Pinjaman Uang",
+      "name_is_placeholder": false,
+      "developer": "Pinjaman Digital",
+      "flags": []
+    },
+    {
+      "no": 67,
+      "url": "https://blocked-67.local",
+      "host": "blocked-67.local",
+      "channel": "softonic",
+      "name": "Dana Aman -Pinjaman Online Uang Tunai Bunga Rendah",
+      "name_is_placeholder": false,
+      "developer": "Dana Aman",
+      "flags": []
+    },
+    {
+      "no": 68,
+      "url": "https://blocked-68.local",
+      "host": "blocked-68.local",
+      "channel": "apk_cafe",
+      "name": "UANG BAHAGIA - PINJAM UANG DENGAN CEPAT",
+      "name_is_placeholder": false,
+      "developer": "saacSalvant",
+      "flags": []
+    },
+    {
+      "no": 69,
+      "url": "https://blocked-69.local",
+      "host": "blocked-69.local",
+      "channel": "apk_cafe",
+      "name": "PAHLAWAN PINJAMAN - PINJAMAN ONLINE AMAN DAN CEPAT",
+      "name_is_placeholder": false,
+      "developer": "Pahlawan Pinjaman",
+      "flags": []
+    },
+    {
+      "no": 70,
+      "url": "https://blocked-70.local",
+      "host": "blocked-70.local",
+      "channel": "apk_cafe",
+      "name": "CASHSAKU-PINJAMAN ONLINE CEPAT CAIR",
+      "name_is_placeholder": false,
+      "developer": "xin liu",
+      "flags": []
+    },
+    {
+      "no": 71,
+      "url": "https://blocked-71.local",
+      "host": "blocked-71.local",
+      "channel": "apk_cafe",
+      "name": "BUNGA DAHLIA-PINJAM ONLINE CASH DANA UANG",
+      "name_is_placeholder": false,
+      "developer": "Bunga Lotus",
+      "flags": []
+    },
+    {
+      "no": 72,
+      "url": "https://blocked-72.local",
+      "host": "blocked-72.local",
+      "channel": "apk_cafe",
+      "name": "PINJAM WALLET TUNAI CLUE",
+      "name_is_placeholder": false,
+      "developer": "Denim Market APP",
+      "flags": []
+    },
+    {
+      "no": 73,
+      "url": "https://blocked-73.local",
+      "host": "blocked-73.local",
+      "channel": "apk_cafe",
+      "name": "PINJAMAN ONLINE CEPAT LOAN PRESTAMO-CASH MONEY",
+      "name_is_placeholder": false,
+      "developer": "Cash Money creditloan",
+      "flags": []
+    },
+    {
+      "no": 74,
+      "url": "https://blocked-74.local",
+      "host": "blocked-74.local",
+      "channel": "apk_cafe",
+      "name": "RUMPUT LAUT - PINJAMAN UANG ONLINE KREDIT",
+      "name_is_placeholder": false,
+      "developer": "FinancialTechGroup",
+      "flags": []
+    },
+    {
+      "no": 75,
+      "url": "https://blocked-75.local",
+      "host": "blocked-75.local",
+      "channel": "apk_cafe",
+      "name": "PINTAR KREDIT - PINJAMAN UANG ONLINE BUNGA RENDAH",
+      "name_is_placeholder": false,
+      "developer": "Payindo",
+      "flags": []
+    },
+    {
+      "no": 76,
+      "url": "https://blocked-76.local",
+      "host": "blocked-76.local",
+      "channel": "softonic",
+      "name": "Conston Dana-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Conston Dana-Pinjaman Online",
+      "flags": []
+    },
+    {
+      "no": 77,
+      "url": "https://blocked-77.local",
+      "host": "blocked-77.local",
+      "channel": "softonic",
+      "name": "Kredit Dompet-Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "PT Dana Mutiara Finansial Teknologi)",
+      "flags": []
+    },
+    {
+      "no": 78,
+      "url": "https://blocked-78.local",
+      "host": "blocked-78.local",
+      "channel": "softonic",
+      "name": "Dana Pratama - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Dana Pratama",
+      "flags": []
+    },
+    {
+      "no": 79,
+      "url": "https://blocked-79.local",
+      "host": "blocked-79.local",
+      "channel": "softonic",
+      "name": "Abadi Dana - Dompet Bantuan",
+      "name_is_placeholder": false,
+      "developer": "Wonderland Tech",
+      "flags": []
+    },
+    {
+      "no": 80,
+      "url": "https://blocked-80.local",
+      "host": "blocked-80.local",
+      "channel": "softonic",
+      "name": "Cash Dana-Pinjaman Tunai Uang",
+      "name_is_placeholder": false,
+      "developer": "PT. Cash Dana Indonesia",
+      "flags": []
+    },
+    {
+      "no": 81,
+      "url": "https://blocked-81.local",
+      "host": "blocked-81.local",
+      "channel": "softonic",
+      "name": "Tunai Dana - Pinjaman Uang Tun",
+      "name_is_placeholder": false,
+      "developer": "He S huai",
+      "flags": []
+    },
+    {
+      "no": 82,
+      "url": "https://blocked-82.local",
+      "host": "blocked-82.local",
+      "channel": "softonic",
+      "name": "Hy Pinjam Uang:Pinjaman Tunai",
+      "name_is_placeholder": false,
+      "developer": "Gupta Technology",
+      "flags": []
+    },
+    {
+      "no": 83,
+      "url": "https://blocked-83.local",
+      "host": "blocked-83.local",
+      "channel": "softonic",
+      "name": "Dana Mutiara-Pinjaman Uang",
+      "name_is_placeholder": false,
+      "developer": "PT. Dana Mutiara Indonesia",
+      "flags": []
+    },
+    {
+      "no": 84,
+      "url": "https://blocked-84.local",
+      "host": "blocked-84.local",
+      "channel": "softonic",
+      "name": "Dana Mudah - Super Cash",
+      "name_is_placeholder": false,
+      "developer": "PT Tunai Cair Financial",
+      "flags": []
+    },
+    {
+      "no": 91,
+      "url": "https://blocked-91.local",
+      "host": "blocked-91.local",
+      "channel": "softonic",
+      "name": "Pinjam Dana - Pinjol Modal KTP",
+      "name_is_placeholder": false,
+      "developer": "Dev Denmark",
+      "flags": []
+    },
+    {
+      "no": 92,
+      "url": "https://blocked-92.local",
+      "host": "blocked-92.local",
+      "channel": "apkpure",
+      "name": "Dana Pribadi",
+      "name_is_placeholder": false,
+      "developer": "deisonposer",
+      "flags": []
+    },
+    {
+      "no": 93,
+      "url": "https://blocked-93.local",
+      "host": "blocked-93.local",
+      "channel": "apkpure",
+      "name": "Online Utang",
+      "name_is_placeholder": false,
+      "developer": "Sunprime Finance Inc.",
+      "flags": []
+    },
+    {
+      "no": 94,
+      "url": "https://blocked-94.local",
+      "host": "blocked-94.local",
+      "channel": "apk_cafe",
+      "name": "DANASUMO - PINJAMAN ONLINE CEPAT CAIR TERBARU",
+      "name_is_placeholder": false,
+      "developer": "cesnehto group",
+      "flags": []
+    },
+    {
+      "no": 95,
+      "url": "https://blocked-95.local",
+      "host": "blocked-95.local",
+      "channel": "apk_cafe",
+      "name": "YOKOTO - PINJAMAN ONLINE LANGSUNG CAIR TERBARU",
+      "name_is_placeholder": false,
+      "developer": "cesnehto group",
+      "flags": []
+    },
+    {
+      "no": 100,
+      "url": "https://blocked-100.local",
+      "host": "blocked-100.local",
+      "channel": "apk_cafe",
+      "name": "PINJAM MULUS - 24 JAM CEPAT CAIR CUKUP KTP CEPAT",
+      "name_is_placeholder": false,
+      "developer": "cesnehto group",
+      "flags": []
+    },
+    {
+      "no": 101,
+      "url": "https://blocked-101.local",
+      "host": "blocked-101.local",
+      "channel": "apkpure",
+      "name": "Wall in - Pinjaman uang cepat",
+      "name_is_placeholder": false,
+      "developer": "Upson Trainor",
+      "flags": []
+    },
+    {
+      "no": 102,
+      "url": "https://blocked-102.local",
+      "host": "blocked-102.local",
+      "channel": "apkpure",
+      "name": "PAS DANA",
+      "name_is_placeholder": false,
+      "developer": "senag kali8",
+      "flags": []
+    },
+    {
+      "no": 103,
+      "url": "https://blocked-103.local",
+      "host": "blocked-103.local",
+      "channel": "apkpure",
+      "name": "Pasar KTA - Pinjaman Uang Online Cepat Dana Cair",
+      "name_is_placeholder": false,
+      "developer": "Tunai Wallet",
+      "flags": []
+    },
+    {
+      "no": 104,
+      "url": "https://blocked-104.local",
+      "host": "blocked-104.local",
+      "channel": "softonic",
+      "name": "Hello Duit - Dana Happy",
+      "name_is_placeholder": false,
+      "developer": "PT Hello Duit Lmt",
+      "flags": []
+    },
+    {
+      "no": 105,
+      "url": "https://blocked-105.local",
+      "host": "blocked-105.local",
+      "channel": "softonic",
+      "name": "Dana Cepat-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Suchart Kaisariman",
+      "flags": []
+    },
+    {
+      "no": 106,
+      "url": "https://blocked-106.local",
+      "host": "blocked-106.local",
+      "channel": "softonic",
+      "name": "Uang Dana-Pinjaman tunai cepat",
+      "name_is_placeholder": false,
+      "developer": "Branches Studio",
+      "flags": []
+    },
+    {
+      "no": 107,
+      "url": "https://blocked-107.local",
+      "host": "blocked-107.local",
+      "channel": "softonic",
+      "name": "Dana Raja Online Cepat Aman",
+      "name_is_placeholder": false,
+      "developer": "PT Ruixiang International Indonesia",
+      "flags": []
+    },
+    {
+      "no": 108,
+      "url": "https://blocked-108.local",
+      "host": "blocked-108.local",
+      "channel": "softonic",
+      "name": "Pinjaman Amanah - Kredit",
+      "name_is_placeholder": false,
+      "developer": "Company Abadi Dana",
+      "flags": []
+    },
+    {
+      "no": 109,
+      "url": "https://blocked-109.local",
+      "host": "blocked-109.local",
+      "channel": "softonic",
+      "name": "Rupiah Nomplok-Pinjaman Duit",
+      "name_is_placeholder": false,
+      "developer": "PT Rupiah Nomplok Indonesia",
+      "flags": []
+    },
+    {
+      "no": 110,
+      "url": "https://blocked-110.local",
+      "host": "blocked-110.local",
+      "channel": "apk_cafe",
+      "name": "PinjamDisini (Ani Sa)",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 111,
+      "url": "https://blocked-111.local",
+      "host": "blocked-111.local",
+      "channel": "softonic",
+      "name": "Pinjaman Kilat - Tunai Mudah",
+      "name_is_placeholder": false,
+      "developer": "ESMIYATI",
+      "flags": []
+    },
+    {
+      "no": 112,
+      "url": "https://blocked-112.local",
+      "host": "blocked-112.local",
+      "channel": "softonic",
+      "name": "Kredit Pinjaman",
+      "name_is_placeholder": false,
+      "developer": "Michael Lee Pollard",
+      "flags": []
+    },
+    {
+      "no": 113,
+      "url": "https://blocked-113.local",
+      "host": "blocked-113.local",
+      "channel": "softonic",
+      "name": "Dana Darurat - Pinjaman Kredit",
+      "name_is_placeholder": false,
+      "developer": "PT Kecemerlangan Fintech Indonesia",
+      "flags": []
+    },
+    {
+      "no": 146,
+      "url": "https://blocked-146.local",
+      "host": "blocked-146.local",
+      "channel": "apk_cafe",
+      "name": "Kredit Money - Instant Loan",
+      "name_is_placeholder": false,
+      "developer": "Kredit Money",
+      "flags": []
+    },
+    {
+      "no": 147,
+      "url": "https://blocked-147.local",
+      "host": "blocked-147.local",
+      "channel": "apk_cafe",
+      "name": "Kissht Loan - Personal Money",
+      "name_is_placeholder": false,
+      "developer": "Play Oct India",
+      "flags": []
+    },
+    {
+      "no": 148,
+      "url": "https://blocked-148.local",
+      "host": "blocked-148.local",
+      "channel": "apk_cafe",
+      "name": "Credits Money",
+      "name_is_placeholder": false,
+      "developer": "Titan Kit",
+      "flags": []
+    },
+    {
+      "no": 149,
+      "url": "https://blocked-149.local",
+      "host": "blocked-149.local",
+      "channel": "apk_cafe",
+      "name": "Money Tank-Credit Cash Loan",
+      "name_is_placeholder": false,
+      "developer": "S ASIFA",
+      "flags": []
+    },
+    {
+      "no": 165,
+      "url": "https://blocked-165.local",
+      "host": "blocked-165.local",
+      "channel": "apk_cafe",
+      "name": "Credit Cash",
+      "name_is_placeholder": false,
+      "developer": "PanchartDev",
+      "flags": []
+    },
+    {
+      "no": 166,
+      "url": "https://blocked-166.local",
+      "host": "blocked-166.local",
+      "channel": "apk_cafe",
+      "name": "KasKita Tunai",
+      "name_is_placeholder": false,
+      "developer": "KellySend Maik",
+      "flags": []
+    },
+    {
+      "no": 170,
+      "url": "https://blocked-170.local",
+      "host": "blocked-170.local",
+      "channel": "aptoide",
+      "name": "DanaKu-Kredit Cepat Pinjaman Uang Online",
+      "name_is_placeholder": false,
+      "developer": "Eric",
+      "flags": []
+    },
+    {
+      "no": 171,
+      "url": "https://blocked-171.local",
+      "host": "blocked-171.local",
+      "channel": "apkpure",
+      "name": "iPinjaman",
+      "name_is_placeholder": false,
+      "developer": "Mohamed Abd Elwahied",
+      "flags": []
+    },
+    {
+      "no": 172,
+      "url": "https://blocked-172.local",
+      "host": "blocked-172.local",
+      "channel": "apk_cafe",
+      "name": "Optima - Pinjaman Uang Online",
+      "name_is_placeholder": false,
+      "developer": "PT ETI",
+      "flags": []
+    },
+    {
+      "no": 173,
+      "url": "https://blocked-173.local",
+      "host": "blocked-173.local",
+      "channel": "softonic",
+      "name": "Dana Cash Pinjaman Online Te",
+      "name_is_placeholder": false,
+      "developer": "Diana M.Mbori",
+      "flags": []
+    },
+    {
+      "no": 174,
+      "url": "https://blocked-174.local",
+      "host": "blocked-174.local",
+      "channel": "softonic",
+      "name": "Pinjaman dana cicil",
+      "name_is_placeholder": false,
+      "developer": "Margo",
+      "flags": []
+    },
+    {
+      "no": 175,
+      "url": "https://blocked-175.local",
+      "host": "blocked-175.local",
+      "channel": "apkpure",
+      "name": "Bos Uang Rupiah - Pinjaman Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "Bos Uang",
+      "flags": []
+    },
+    {
+      "no": 176,
+      "url": "https://blocked-176.local",
+      "host": "blocked-176.local",
+      "channel": "apkpure",
+      "name": "Petir-Uang",
+      "name_is_placeholder": false,
+      "developer": "Kapoor Boat",
+      "flags": []
+    },
+    {
+      "no": 177,
+      "url": "https://blocked-177.local",
+      "host": "blocked-177.local",
+      "channel": "softonic",
+      "name": "Dana Cepat-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "DanaCicil Pro",
+      "flags": []
+    },
+    {
+      "no": 178,
+      "url": "https://blocked-178.local",
+      "host": "blocked-178.local",
+      "channel": "softonic",
+      "name": "Dana Cicil Online-Pinjam Cepat",
+      "name_is_placeholder": false,
+      "developer": "DanaCicil Pro",
+      "flags": []
+    },
+    {
+      "no": 179,
+      "url": "https://blocked-179.local",
+      "host": "blocked-179.local",
+      "channel": "softonic",
+      "name": "Dana Kita - KAT Cepat Online",
+      "name_is_placeholder": false,
+      "developer": "PT Wanbaolai Internasional Indonesia",
+      "flags": []
+    },
+    {
+      "no": 180,
+      "url": "https://blocked-180.local",
+      "host": "blocked-180.local",
+      "channel": "softonic",
+      "name": "HappyDana - Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "HD Co. Ltd.",
+      "flags": []
+    },
+    {
+      "no": 181,
+      "url": "https://blocked-181.local",
+      "host": "blocked-181.local",
+      "channel": "softonic",
+      "name": "Dana Pro - PINJAMAN CEPAT",
+      "name_is_placeholder": false,
+      "developer": "PT Hongxin International Indonesia",
+      "flags": []
+    },
+    {
+      "no": 185,
+      "url": "https://blocked-185.local",
+      "host": "blocked-185.local",
+      "channel": "apkcombo",
+      "name": "GOCAP CEPAT - Pinjem Duit Gak Pake Ribet",
+      "name_is_placeholder": false,
+      "developer": "Melempar Bantuan",
+      "flags": []
+    },
+    {
+      "no": 186,
+      "url": "https://blocked-186.local",
+      "host": "blocked-186.local",
+      "channel": "apkcombo",
+      "name": "Dana Kita",
+      "name_is_placeholder": false,
+      "developer": "Coy Lee",
+      "flags": []
+    },
+    {
+      "no": 193,
+      "url": "https://blocked-193.local",
+      "host": "blocked-193.local",
+      "channel": "apkcombo",
+      "name": "Uang Siap - Talangan Dana Tanpa Agunan",
+      "name_is_placeholder": false,
+      "developer": "PT Tangguh Tanggap Aguna",
+      "flags": []
+    },
+    {
+      "no": 194,
+      "url": "https://blocked-194.local",
+      "host": "blocked-194.local",
+      "channel": "apkcombo",
+      "name": "Dana Pribadi - Dana Cepat Online",
+      "name_is_placeholder": false,
+      "developer": "Jennifer Tinnes",
+      "flags": []
+    },
+    {
+      "no": 195,
+      "url": "https://blocked-195.local",
+      "host": "blocked-195.local",
+      "channel": "apkcombo",
+      "name": "DanaKu",
+      "name_is_placeholder": false,
+      "developer": "Qworks",
+      "flags": []
+    },
+    {
+      "no": 196,
+      "url": "https://blocked-196.local",
+      "host": "blocked-196.local",
+      "channel": "apkcombo",
+      "name": "Dapat Rupiah-easy cash ktedit online",
+      "name_is_placeholder": false,
+      "developer": "Alighor bani",
+      "flags": []
+    },
+    {
+      "no": 203,
+      "url": "https://blocked-203.local",
+      "host": "blocked-203.local",
+      "channel": "softonic",
+      "name": "Pinjaman Online - Kilat Mudah",
+      "name_is_placeholder": false,
+      "developer": "Kesiapsiagaan7701",
+      "flags": []
+    },
+    {
+      "no": 204,
+      "url": "https://blocked-204.local",
+      "host": "blocked-204.local",
+      "channel": "apkcombo",
+      "name": "Dana online - Kedatangan cepat",
+      "name_is_placeholder": false,
+      "developer": "Amelia Byrd",
+      "flags": []
+    },
+    {
+      "no": 205,
+      "url": "https://blocked-205.local",
+      "host": "blocked-205.local",
+      "channel": "apkcombo",
+      "name": "Dolang",
+      "name_is_placeholder": false,
+      "developer": "Uang Market",
+      "flags": []
+    },
+    {
+      "no": 206,
+      "url": "https://blocked-206.local",
+      "host": "blocked-206.local",
+      "channel": "apkcombo",
+      "name": "Saku Kita",
+      "name_is_placeholder": false,
+      "developer": "Sakukita Cermat",
+      "flags": []
+    },
+    {
+      "no": 207,
+      "url": "https://blocked-207.local",
+      "host": "blocked-207.local",
+      "channel": "apkcombo",
+      "name": "Saku mimpi",
+      "name_is_placeholder": false,
+      "developer": "werasdzxc",
+      "flags": []
+    },
+    {
+      "no": 208,
+      "url": "https://blocked-208.local",
+      "host": "blocked-208.local",
+      "channel": "apkcombo",
+      "name": "Ticket Vip",
+      "name_is_placeholder": false,
+      "developer": "Losif kagan",
+      "flags": []
+    },
+    {
+      "no": 209,
+      "url": "https://blocked-209.local",
+      "host": "blocked-209.local",
+      "channel": "apkcombo",
+      "name": "Daun Hijau",
+      "name_is_placeholder": false,
+      "developer": "Wayland Tyle",
+      "flags": []
+    },
+    {
+      "no": 210,
+      "url": "https://blocked-210.local",
+      "host": "blocked-210.local",
+      "channel": "apkcombo",
+      "name": "Saku peri",
+      "name_is_placeholder": false,
+      "developer": "Nedhua",
+      "flags": []
+    },
+    {
+      "no": 211,
+      "url": "https://blocked-211.local",
+      "host": "blocked-211.local",
+      "channel": "apkcombo",
+      "name": "Saku Pinjaman",
+      "name_is_placeholder": false,
+      "developer": "onlinepinjam",
+      "flags": []
+    },
+    {
+      "no": 212,
+      "url": "https://blocked-212.local",
+      "host": "blocked-212.local",
+      "channel": "softonic",
+      "name": "Abadi Dana - dompet",
+      "name_is_placeholder": false,
+      "developer": "company abadi dana",
+      "flags": []
+    },
+    {
+      "no": 213,
+      "url": "https://blocked-213.local",
+      "host": "blocked-213.local",
+      "channel": "softonic",
+      "name": "Uang Pinjam-Pinjam Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "Uang Pinjam MyTunai",
+      "flags": []
+    },
+    {
+      "no": 214,
+      "url": "https://blocked-214.local",
+      "host": "blocked-214.local",
+      "channel": "softonic",
+      "name": "Dompet Kaya-Dana Credit Online",
+      "name_is_placeholder": false,
+      "developer": "PT Wanbaolai International Indonesia",
+      "flags": []
+    },
+    {
+      "no": 215,
+      "url": "https://blocked-215.local",
+      "host": "blocked-215.local",
+      "channel": "softonic",
+      "name": "Neo Cash - Pinjaman dana tunai",
+      "name_is_placeholder": false,
+      "developer": "keep wang",
+      "flags": []
+    },
+    {
+      "no": 216,
+      "url": "https://blocked-216.local",
+      "host": "blocked-216.local",
+      "channel": "softonic",
+      "name": "Dana Cepat - Pinjaman Uang Dana",
+      "name_is_placeholder": false,
+      "developer": "Jujube Studio",
+      "flags": []
+    },
+    {
+      "no": 217,
+      "url": "https://blocked-217.local",
+      "host": "blocked-217.local",
+      "channel": "softonic",
+      "name": "Dana Kejayaan - Uang Online",
+      "name_is_placeholder": false,
+      "developer": "PT Dana Kejayaan Teknologi",
+      "flags": []
+    },
+    {
+      "no": 218,
+      "url": "https://blocked-218.local",
+      "host": "blocked-218.local",
+      "channel": "softonic",
+      "name": "Dana Plus",
+      "name_is_placeholder": false,
+      "developer": "DanaPluss",
+      "flags": []
+    },
+    {
+      "no": 219,
+      "url": "https://blocked-219.local",
+      "host": "blocked-219.local",
+      "channel": "softonic",
+      "name": "Pinjaman Duit KTA Online",
+      "name_is_placeholder": false,
+      "developer": "Pinjaman Duit",
+      "flags": []
+    },
+    {
+      "no": 220,
+      "url": "https://blocked-220.local",
+      "host": "blocked-220.local",
+      "channel": "softonic",
+      "name": "Uang Mudah - ayo pinjam",
+      "name_is_placeholder": false,
+      "developer": "PT.Uang Mudah Indonesia",
+      "flags": []
+    },
+    {
+      "no": 221,
+      "url": "https://blocked-221.local",
+      "host": "blocked-221.local",
+      "channel": "softonic",
+      "name": "Pinjam Me-Pinjaman uang online",
+      "name_is_placeholder": false,
+      "developer": "LAYANAN KEUANGAN EFFICACY PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 222,
+      "url": "https://blocked-222.local",
+      "host": "blocked-222.local",
+      "channel": "softonic",
+      "name": "Dana Mudah - Super Cash",
+      "name_is_placeholder": false,
+      "developer": "PT Tunai Cair Financial",
+      "flags": []
+    },
+    {
+      "no": 223,
+      "url": "https://blocked-223.local",
+      "host": "blocked-223.local",
+      "channel": "softonic",
+      "name": "Yok Cicil - Simulasi Pinjaman",
+      "name_is_placeholder": false,
+      "developer": "PT Dana Kredit Sosial",
+      "flags": []
+    },
+    {
+      "no": 224,
+      "url": "https://blocked-224.local",
+      "host": "blocked-224.local",
+      "channel": "softonic",
+      "name": "Tunai Cepat-Pinjaman Uang Dana",
+      "name_is_placeholder": false,
+      "developer": "Jujube Studio",
+      "flags": []
+    },
+    {
+      "no": 225,
+      "url": "https://blocked-225.local",
+      "host": "blocked-225.local",
+      "channel": "softonic",
+      "name": "Dana Dana",
+      "name_is_placeholder": false,
+      "developer": "Dana Dana pro",
+      "flags": []
+    },
+    {
+      "no": 226,
+      "url": "https://blocked-226.local",
+      "host": "blocked-226.local",
+      "channel": "softonic",
+      "name": "Lucky Uang - Pinjam Uang Murah",
+      "name_is_placeholder": false,
+      "developer": "PT. Lucky Uang",
+      "flags": []
+    },
+    {
+      "no": 227,
+      "url": "https://blocked-227.local",
+      "host": "blocked-227.local",
+      "channel": "softonic",
+      "name": "Duit Gesit - Pinjam Gesit Tanpa Ribet",
+      "name_is_placeholder": false,
+      "developer": "George S Taylor",
+      "flags": []
+    },
+    {
+      "no": 228,
+      "url": "https://blocked-228.local",
+      "host": "blocked-228.local",
+      "channel": "softonic",
+      "name": "Petir Uang - Pinjaman Uang",
+      "name_is_placeholder": false,
+      "developer": "PT Petir Uang Finansindo",
+      "flags": []
+    },
+    {
+      "no": 229,
+      "url": "https://blocked-229.local",
+      "host": "blocked-229.local",
+      "channel": "softonic",
+      "name": "Uang Mudah - Pinjam Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "Huang Bao",
+      "flags": []
+    },
+    {
+      "no": 230,
+      "url": "https://blocked-230.local",
+      "host": "blocked-230.local",
+      "channel": "softonic",
+      "name": "Dana Pro - Cepat Uang Dana",
+      "name_is_placeholder": false,
+      "developer": "PT KEBIJAKSANAAN INTERNATIONAL INDONESIA",
+      "flags": []
+    },
+    {
+      "no": 231,
+      "url": "https://blocked-231.local",
+      "host": "blocked-231.local",
+      "channel": "softonic",
+      "name": "Dana GoKredit Cepat",
+      "name_is_placeholder": false,
+      "developer": "Pinjaman Amanah",
+      "flags": []
+    },
+    {
+      "no": 247,
+      "url": "https://blocked-247.local",
+      "host": "blocked-247.local",
+      "channel": "softonic",
+      "name": "Rupiah Now-Pinjama Dana Online",
+      "name_is_placeholder": false,
+      "developer": "Pt Dia Ying International Indonesia",
+      "flags": []
+    },
+    {
+      "no": 248,
+      "url": "https://blocked-248.local",
+      "host": "blocked-248.local",
+      "channel": "softonic",
+      "name": "Uang Aman-Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "PT. Uang Aman Indonesia",
+      "flags": []
+    },
+    {
+      "no": 249,
+      "url": "https://blocked-249.local",
+      "host": "blocked-249.local",
+      "channel": "softonic",
+      "name": "Dana Uang-pinjam online",
+      "name_is_placeholder": false,
+      "developer": "PERUSAHAAN PINJAMAN DAGDAKS",
+      "flags": []
+    },
+    {
+      "no": 258,
+      "url": "https://blocked-258.local",
+      "host": "blocked-258.local",
+      "channel": "softonic",
+      "name": "Uang Tunai - Pinjaman Uang Cash Dana Cair Cepat",
+      "name_is_placeholder": false,
+      "developer": "huang yong s",
+      "flags": []
+    },
+    {
+      "no": 266,
+      "url": "https://blocked-266.local",
+      "host": "blocked-266.local",
+      "channel": "softonic",
+      "name": "Dana Baguslah - murni online",
+      "name_is_placeholder": false,
+      "developer": "PT.Dana Baguslah Indonesia",
+      "flags": []
+    },
+    {
+      "no": 267,
+      "url": "https://blocked-267.local",
+      "host": "blocked-267.local",
+      "channel": "softonic",
+      "name": "Ayo Uang - Pinjaman online pribadi",
+      "name_is_placeholder": false,
+      "developer": "Milo Spencer",
+      "flags": []
+    },
+    {
+      "no": 268,
+      "url": "https://blocked-268.local",
+      "host": "blocked-268.local",
+      "channel": "softonic",
+      "name": "Black Box : Pinjam Uang",
+      "name_is_placeholder": false,
+      "developer": "Black Box Technologies L.l.c",
+      "flags": []
+    },
+    {
+      "no": 277,
+      "url": "https://blocked-277.local",
+      "host": "blocked-277.local",
+      "channel": "softonic",
+      "name": "Abadi Dana - dompet",
+      "name_is_placeholder": false,
+      "developer": "company abadi dana",
+      "flags": []
+    },
+    {
+      "no": 278,
+      "url": "https://blocked-278.local",
+      "host": "blocked-278.local",
+      "channel": "softonic",
+      "name": "Fast Kredit Indonesia",
+      "name_is_placeholder": false,
+      "developer": "Fast Kredit Nusantara",
+      "flags": []
+    },
+    {
+      "no": 279,
+      "url": "https://blocked-279.local",
+      "host": "blocked-279.local",
+      "channel": "softonic",
+      "name": "KTA Bijak - Kredit Pinjaman",
+      "name_is_placeholder": false,
+      "developer": "Mochamad Gatot Susanto",
+      "flags": []
+    },
+    {
+      "no": 280,
+      "url": "https://blocked-280.local",
+      "host": "blocked-280.local",
+      "channel": "softonic",
+      "name": "Dana Kilat - Pinjaman Online Dana Tunai Aman",
+      "name_is_placeholder": false,
+      "developer": "LuckyNine Apps",
+      "flags": []
+    },
+    {
+      "no": 281,
+      "url": "https://blocked-281.local",
+      "host": "blocked-281.local",
+      "channel": "softonic",
+      "name": "Dana Uang-pinjam online",
+      "name_is_placeholder": false,
+      "developer": "DAGDAKS LENDING CORPORATION",
+      "flags": []
+    },
+    {
+      "no": 282,
+      "url": "https://blocked-282.local",
+      "host": "blocked-282.local",
+      "channel": "softonic",
+      "name": "Cepat Uang - Pinjaman kredit",
+      "name_is_placeholder": false,
+      "developer": "BAIRAVI FINANCE PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 283,
+      "url": "https://blocked-283.local",
+      "host": "blocked-283.local",
+      "channel": "softonic",
+      "name": "Cepat Uang",
+      "name_is_placeholder": false,
+      "developer": "pbpbpbpbpb",
+      "flags": []
+    },
+    {
+      "no": 284,
+      "url": "https://blocked-284.local",
+      "host": "blocked-284.local",
+      "channel": "softonic",
+      "name": "Do-It Pinjaman Uang Online",
+      "name_is_placeholder": false,
+      "developer": "Glotech Prima Vista",
+      "flags": []
+    },
+    {
+      "no": 285,
+      "url": "https://blocked-285.local",
+      "host": "blocked-285.local",
+      "channel": "softonic",
+      "name": "Dana Uang-pinjam online",
+      "name_is_placeholder": false,
+      "developer": "DAGDAKS LENDING CORPORATION",
+      "flags": []
+    },
+    {
+      "no": 286,
+      "url": "https://blocked-286.local",
+      "host": "blocked-286.local",
+      "channel": "softonic",
+      "name": "Dana Uang-pinjam online",
+      "name_is_placeholder": false,
+      "developer": "DAGDAKS LENDING CORPORATION",
+      "flags": []
+    },
+    {
+      "no": 287,
+      "url": "https://blocked-287.local",
+      "host": "blocked-287.local",
+      "channel": "softonic",
+      "name": "Dana Wallet - Pinjam Online",
+      "name_is_placeholder": false,
+      "developer": "VISMART LENDING CORPORATION",
+      "flags": []
+    },
+    {
+      "no": 288,
+      "url": "https://blocked-288.local",
+      "host": "blocked-288.local",
+      "channel": "apkpure",
+      "name": "Layar Pinjam",
+      "name_is_placeholder": false,
+      "developer": "Becker Vergie",
+      "flags": []
+    },
+    {
+      "no": 289,
+      "url": "https://blocked-289.local",
+      "host": "blocked-289.local",
+      "channel": "apkpure",
+      "name": "Pinjaman Pertama",
+      "name_is_placeholder": false,
+      "developer": "Ayo Credo Indonesia",
+      "flags": []
+    },
+    {
+      "no": 290,
+      "url": "https://blocked-290.local",
+      "host": "blocked-290.local",
+      "channel": "apk_cafe",
+      "name": "Pinjaman cepat - Pinjaman Uang Tunai Cepat",
+      "name_is_placeholder": false,
+      "developer": "larry lending",
+      "flags": []
+    },
+    {
+      "no": 291,
+      "url": "https://blocked-291.local",
+      "host": "blocked-291.local",
+      "channel": "apk_cafe",
+      "name": "Instant Personal Loan App Online Loan - LoanBean",
+      "name_is_placeholder": false,
+      "developer": "Loan & Finance service",
+      "flags": []
+    },
+    {
+      "no": 292,
+      "url": "https://blocked-292.local",
+      "host": "blocked-292.local",
+      "channel": "softonic",
+      "name": "DanaCair:Pinjam Cash Cepat",
+      "name_is_placeholder": false,
+      "developer": "LEXICON FINANCE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 293,
+      "url": "https://blocked-293.local",
+      "host": "blocked-293.local",
+      "channel": "softonic",
+      "name": "DanaFull Pinjam - loan",
+      "name_is_placeholder": false,
+      "developer": "PT Danafull Finance Indonesia",
+      "flags": []
+    },
+    {
+      "no": 294,
+      "url": "https://blocked-294.local",
+      "host": "blocked-294.local",
+      "channel": "softonic",
+      "name": "DanaKilat-Pinjam Kredit Cash",
+      "name_is_placeholder": false,
+      "developer": "SIDHANT FINANCIAL SERVICES LIMITED",
+      "flags": []
+    },
+    {
+      "no": 295,
+      "url": "https://blocked-295.local",
+      "host": "blocked-295.local",
+      "channel": "softonic",
+      "name": "Dompet Mudah - Pinjam Cepat",
+      "name_is_placeholder": false,
+      "developer": "PT.Dompet Mudah",
+      "flags": []
+    },
+    {
+      "no": 296,
+      "url": "https://blocked-296.local",
+      "host": "blocked-296.local",
+      "channel": "softonic",
+      "name": "PAS DANA Cair Kapan Saja Pas Kamu Butuh",
+      "name_is_placeholder": false,
+      "developer": "senag kali8",
+      "flags": []
+    },
+    {
+      "no": 297,
+      "url": "https://blocked-297.local",
+      "host": "blocked-297.local",
+      "channel": "softonic",
+      "name": "Dana Bull - Dana Tunai Cair",
+      "name_is_placeholder": false,
+      "developer": "PT. DANA BULL",
+      "flags": []
+    },
+    {
+      "no": 301,
+      "url": "https://blocked-301.local",
+      "host": "blocked-301.local",
+      "channel": "softonic",
+      "name": "Tunai Sayang-Cepat Uang",
+      "name_is_placeholder": false,
+      "developer": "PT. Tunai Sayang Indonesia",
+      "flags": []
+    },
+    {
+      "no": 302,
+      "url": "https://blocked-302.local",
+      "host": "blocked-302.local",
+      "channel": "softonic",
+      "name": "Fulus Mas - Pinjaman Uang Tunai Cepat",
+      "name_is_placeholder": false,
+      "developer": "Metin Bas",
+      "flags": []
+    },
+    {
+      "no": 303,
+      "url": "https://blocked-303.local",
+      "host": "blocked-303.local",
+      "channel": "softonic",
+      "name": "Lucky Uang - Pinjam Uang Murah",
+      "name_is_placeholder": false,
+      "developer": "PT. Lucky Uang",
+      "flags": []
+    },
+    {
+      "no": 304,
+      "url": "https://blocked-304.local",
+      "host": "blocked-304.local",
+      "channel": "softonic",
+      "name": "Modal Kilat - Pinjaman Uang",
+      "name_is_placeholder": false,
+      "developer": "ASMUNTI BOI",
+      "flags": []
+    },
+    {
+      "no": 305,
+      "url": "https://blocked-305.local",
+      "host": "blocked-305.local",
+      "channel": "softonic",
+      "name": "Petir Uang - Pinjaman Uang",
+      "name_is_placeholder": false,
+      "developer": "PT Petir Uang Finansindo",
+      "flags": []
+    },
+    {
+      "no": 306,
+      "url": "https://blocked-306.local",
+      "host": "blocked-306.local",
+      "channel": "softonic",
+      "name": "Pinjaman Dana Uang",
+      "name_is_placeholder": false,
+      "developer": "Margo Developer",
+      "flags": []
+    },
+    {
+      "no": 307,
+      "url": "https://blocked-307.local",
+      "host": "blocked-307.local",
+      "channel": "softonic",
+      "name": "Rupiah Nomplok- Pinjaman Duit",
+      "name_is_placeholder": false,
+      "developer": "PT.Rupiah Nomplok Indonesia",
+      "flags": []
+    },
+    {
+      "no": 308,
+      "url": "https://blocked-308.local",
+      "host": "blocked-308.local",
+      "channel": "softonic",
+      "name": "Rupiah Saku - Pinjaman Kredit",
+      "name_is_placeholder": false,
+      "developer": "PT Rupiah Saku",
+      "flags": []
+    },
+    {
+      "no": 309,
+      "url": "https://blocked-309.local",
+      "host": "blocked-309.local",
+      "channel": "softonic",
+      "name": "Kredit Good - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "PT.Kredit Good Indonesia",
+      "flags": []
+    },
+    {
+      "no": 310,
+      "url": "https://blocked-310.local",
+      "host": "blocked-310.local",
+      "channel": "apkpure",
+      "name": "Kelinci Lompat- Pinjam Uang Tunai mudah Cepat Cair",
+      "name_is_placeholder": false,
+      "developer": "Nico Syan",
+      "flags": []
+    },
+    {
+      "no": 311,
+      "url": "https://blocked-311.local",
+      "host": "blocked-311.local",
+      "channel": "apkpure",
+      "name": "Tunai Plaza-Uang Kredit Pinjaman dana tunai online",
+      "name_is_placeholder": false,
+      "developer": "Berneice Masin",
+      "flags": []
+    },
+    {
+      "no": 312,
+      "url": "https://blocked-312.local",
+      "host": "blocked-312.local",
+      "channel": "apkpure",
+      "name": "TUNAI KAMI",
+      "name_is_placeholder": false,
+      "developer": "NUSANTARA",
+      "flags": []
+    },
+    {
+      "no": 313,
+      "url": "https://blocked-313.local",
+      "host": "blocked-313.local",
+      "channel": "apkpure",
+      "name": "Kita Patungan - Pinjaman uang tunai tanpa jaminan",
+      "name_is_placeholder": false,
+      "developer": "Fajar Rhamdhani",
+      "flags": []
+    },
+    {
+      "no": 314,
+      "url": "https://blocked-314.local",
+      "host": "blocked-314.local",
+      "channel": "softonic",
+      "name": "Achilles Cepat- Pinjaman Dana Tunai Cepat Cair",
+      "name_is_placeholder": false,
+      "developer": "UR Cashbank",
+      "flags": []
+    },
+    {
+      "no": 315,
+      "url": "https://blocked-315.local",
+      "host": "blocked-315.local",
+      "channel": "softonic",
+      "name": "Cepet Dana-Pinjaman Cair Tunai",
+      "name_is_placeholder": false,
+      "developer": "uangcash210209",
+      "flags": []
+    },
+    {
+      "no": 324,
+      "url": "https://blocked-324.local",
+      "host": "blocked-324.local",
+      "channel": "softonic",
+      "name": "Dana mudah Cicil-PINJAMAN",
+      "name_is_placeholder": false,
+      "developer": "Margo Developer",
+      "flags": []
+    },
+    {
+      "no": 325,
+      "url": "https://blocked-325.local",
+      "host": "blocked-325.local",
+      "channel": "softonic",
+      "name": "Dana Dompet-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Uang cepat",
+      "flags": []
+    },
+    {
+      "no": 326,
+      "url": "https://blocked-326.local",
+      "host": "blocked-326.local",
+      "channel": "softonic",
+      "name": "Easy Dana-Pinjaman Tunai Uang",
+      "name_is_placeholder": false,
+      "developer": "PT. Easy Dana Indonesia",
+      "flags": []
+    },
+    {
+      "no": 327,
+      "url": "https://blocked-327.local",
+      "host": "blocked-327.local",
+      "channel": "softonic",
+      "name": "TunaiKita Pinjaman Uang Tunai Online Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "PT. Digital Tunai Kita",
+      "flags": []
+    },
+    {
+      "no": 328,
+      "url": "https://blocked-328.local",
+      "host": "blocked-328.local",
+      "channel": "softonic",
+      "name": "Kredit Rupiah-Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "ROBI SUGARA",
+      "flags": []
+    },
+    {
+      "no": 329,
+      "url": "https://blocked-329.local",
+      "host": "blocked-329.local",
+      "channel": "softonic",
+      "name": "Kilat Cicil - Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "Kilat Cicil Dev",
+      "flags": []
+    },
+    {
+      "no": 330,
+      "url": "https://blocked-330.local",
+      "host": "blocked-330.local",
+      "channel": "softonic",
+      "name": "Abadi Dana - Pinjaman Uang",
+      "name_is_placeholder": false,
+      "developer": "Pinjaman Digital",
+      "flags": []
+    },
+    {
+      "no": 331,
+      "url": "https://blocked-331.local",
+      "host": "blocked-331.local",
+      "channel": "softonic",
+      "name": "Dana Cash Pinjaman Online Te",
+      "name_is_placeholder": false,
+      "developer": "Diana M.Mbori",
+      "flags": []
+    },
+    {
+      "no": 349,
+      "url": "https://blocked-349.local",
+      "host": "blocked-349.local",
+      "channel": "softonic",
+      "name": "Ayo: Pinjaman Tanpa Agunan",
+      "name_is_placeholder": false,
+      "developer": "Ayo: Pinjaman Tanpa Agunan",
+      "flags": []
+    },
+    {
+      "no": 350,
+      "url": "https://blocked-350.local",
+      "host": "blocked-350.local",
+      "channel": "softonic",
+      "name": "Dana Cash Pinjaman Online Te",
+      "name_is_placeholder": false,
+      "developer": "Diana M.Mbori",
+      "flags": []
+    },
+    {
+      "no": 351,
+      "url": "https://blocked-351.local",
+      "host": "blocked-351.local",
+      "channel": "softonic",
+      "name": "Pinjaman Angsuran Paus Biru",
+      "name_is_placeholder": false,
+      "developer": "Laurados Santosfranca",
+      "flags": []
+    },
+    {
+      "no": 352,
+      "url": "https://blocked-352.local",
+      "host": "blocked-352.local",
+      "channel": "softonic",
+      "name": "Ve-lot Online:Pinjaman Pnstan",
+      "name_is_placeholder": false,
+      "developer": "Namg Pociten",
+      "flags": []
+    },
+    {
+      "no": 353,
+      "url": "https://blocked-353.local",
+      "host": "blocked-353.local",
+      "channel": "softonic",
+      "name": "Cash Now Pinjaman Terpercaya",
+      "name_is_placeholder": false,
+      "developer": "viapramudita",
+      "flags": []
+    },
+    {
+      "no": 354,
+      "url": "https://blocked-354.local",
+      "host": "blocked-354.local",
+      "channel": "softonic",
+      "name": "PINJAMAN PEDIA - Tempat Pinjaman Uang Tunai Dana",
+      "name_is_placeholder": false,
+      "developer": "PT . AIMARS TECHNOLOGY INDONESIA",
+      "flags": []
+    },
+    {
+      "no": 355,
+      "url": "https://blocked-355.local",
+      "host": "blocked-355.local",
+      "channel": "softonic",
+      "name": "Kantong Sahabat-Pinjam Uang Tunai Kredit Dana Cash",
+      "name_is_placeholder": false,
+      "developer": "Gold Park Like",
+      "flags": []
+    },
+    {
+      "no": 356,
+      "url": "https://blocked-356.local",
+      "host": "blocked-356.local",
+      "channel": "softonic",
+      "name": "Dana Mudah-Pinjaman Cepat",
+      "name_is_placeholder": false,
+      "developer": "PT. Dana Mudah Indonesia",
+      "flags": []
+    },
+    {
+      "no": 357,
+      "url": "https://blocked-357.local",
+      "host": "blocked-357.local",
+      "channel": "softonic",
+      "name": "Dana Cepat-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "DanaCicil Pro",
+      "flags": []
+    },
+    {
+      "no": 358,
+      "url": "https://blocked-358.local",
+      "host": "blocked-358.local",
+      "channel": "softonic",
+      "name": "SINAR RUPIAH",
+      "name_is_placeholder": false,
+      "developer": "Sinar Rupiah Nusantara",
+      "flags": []
+    },
+    {
+      "no": 359,
+      "url": "https://blocked-359.local",
+      "host": "blocked-359.local",
+      "channel": "softonic",
+      "name": "Rupiah Maju - Pinjaman dana tunai online cair",
+      "name_is_placeholder": false,
+      "developer": "PT Rupiah Maju",
+      "flags": []
+    },
+    {
+      "no": 360,
+      "url": "https://blocked-360.local",
+      "host": "blocked-360.local",
+      "channel": "softonic",
+      "name": "Danafix - Pinjaman Uang Online Kredit Tunai Cepat",
+      "name_is_placeholder": false,
+      "developer": "PT. DANAFIX ONLINE INDONESIA",
+      "flags": []
+    },
+    {
+      "no": 372,
+      "url": "https://blocked-372.local",
+      "host": "blocked-372.local",
+      "channel": "softonic",
+      "name": "Dana Mudah - Super Cash",
+      "name_is_placeholder": false,
+      "developer": "PT Tunai Cair Financial",
+      "flags": []
+    },
+    {
+      "no": 373,
+      "url": "https://blocked-373.local",
+      "host": "blocked-373.local",
+      "channel": "softonic",
+      "name": "Uang Aman-Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "PT. Uang Aman Indonesia",
+      "flags": []
+    },
+    {
+      "no": 374,
+      "url": "https://blocked-374.local",
+      "host": "blocked-374.local",
+      "channel": "softonic",
+      "name": "Hello Duit - Dana Happy",
+      "name_is_placeholder": false,
+      "developer": "PT Hello Duit Lmt",
+      "flags": []
+    },
+    {
+      "no": 375,
+      "url": "https://blocked-375.local",
+      "host": "blocked-375.local",
+      "channel": "softonic",
+      "name": "Mini Cash - Pinjam Cepat",
+      "name_is_placeholder": false,
+      "developer": "personal credit",
+      "flags": []
+    },
+    {
+      "no": 376,
+      "url": "https://blocked-376.local",
+      "host": "blocked-376.local",
+      "channel": "softonic",
+      "name": "Kredit Easy - Pinjam Dana Uang Cepat Online",
+      "name_is_placeholder": false,
+      "developer": "STACY FRANCIS",
+      "flags": []
+    },
+    {
+      "no": 377,
+      "url": "https://blocked-377.local",
+      "host": "blocked-377.local",
+      "channel": "softonic",
+      "name": "Pinjaman Amanah Kredit Cepat",
+      "name_is_placeholder": false,
+      "developer": "Pinjaman Amanah",
+      "flags": []
+    },
+    {
+      "no": 378,
+      "url": "https://blocked-378.local",
+      "host": "blocked-378.local",
+      "channel": "softonic",
+      "name": "Ayo Uang - Pinjaman online Pribadi APK",
+      "name_is_placeholder": false,
+      "developer": "Milo Spencer",
+      "flags": []
+    },
+    {
+      "no": 379,
+      "url": "https://blocked-379.local",
+      "host": "blocked-379.local",
+      "channel": "softonic",
+      "name": "Dana mudah Cicil - PINJAMAN",
+      "name_is_placeholder": false,
+      "developer": "Margo",
+      "flags": []
+    },
+    {
+      "no": 380,
+      "url": "https://blocked-380.local",
+      "host": "blocked-380.local",
+      "channel": "softonic",
+      "name": "PinjamanKu - Solusi Pintar Kebutuhan Finansial",
+      "name_is_placeholder": false,
+      "developer": "Nur Aida",
+      "flags": []
+    },
+    {
+      "no": 381,
+      "url": "https://blocked-381.local",
+      "host": "blocked-381.local",
+      "channel": "apkcombo",
+      "name": "Petir-Uang",
+      "name_is_placeholder": false,
+      "developer": "Kapoor Boat",
+      "flags": []
+    },
+    {
+      "no": 382,
+      "url": "https://blocked-382.local",
+      "host": "blocked-382.local",
+      "channel": "apkcombo",
+      "name": "Raja Uang-Tempat Pinjam uang Online Tanpa Jaminan",
+      "name_is_placeholder": false,
+      "developer": "Donella Strout",
+      "flags": []
+    },
+    {
+      "no": 383,
+      "url": "https://blocked-383.local",
+      "host": "blocked-383.local",
+      "channel": "apkcombo",
+      "name": "Oklik Cash-Pinjaman Cepat Uang Tunai",
+      "name_is_placeholder": false,
+      "developer": "RAINBOWCASH.PH LENDING CORP.",
+      "flags": []
+    },
+    {
+      "no": 384,
+      "url": "https://blocked-384.local",
+      "host": "blocked-384.local",
+      "channel": "softonic",
+      "name": "Neo Cash - Pinjaman dana tunai",
+      "name_is_placeholder": false,
+      "developer": "keep wang",
+      "flags": []
+    },
+    {
+      "no": 385,
+      "url": "https://blocked-385.local",
+      "host": "blocked-385.local",
+      "channel": "softonic",
+      "name": "Rupiah Kas - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "VINZOL CAPITAL AND FINANCE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 386,
+      "url": "https://blocked-386.local",
+      "host": "blocked-386.local",
+      "channel": "softonic",
+      "name": "Witop-Pinjaman Cepat",
+      "name_is_placeholder": false,
+      "developer": "Silva Dajsoe Riogord",
+      "flags": []
+    },
+    {
+      "no": 389,
+      "url": "https://blocked-389.local",
+      "host": "blocked-389.local",
+      "channel": "softonic",
+      "name": "Dana Me - Pinjaman uang online",
+      "name_is_placeholder": false,
+      "developer": "MINDEX FINCAP PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 390,
+      "url": "https://blocked-390.local",
+      "host": "blocked-390.local",
+      "channel": "softonic",
+      "name": "Fast Kredit Indonesia",
+      "name_is_placeholder": false,
+      "developer": "Fast Kredit Nusantara",
+      "flags": []
+    },
+    {
+      "no": 391,
+      "url": "https://blocked-391.local",
+      "host": "blocked-391.local",
+      "channel": "softonic",
+      "name": "KTA Bijak - Kredit Pinjaman APK",
+      "name_is_placeholder": false,
+      "developer": "Mochamad Gatot Susanto",
+      "flags": []
+    },
+    {
+      "no": 392,
+      "url": "https://blocked-392.local",
+      "host": "blocked-392.local",
+      "channel": "softonic",
+      "name": "Pinjaman Kelinci - KTA Terbaik",
+      "name_is_placeholder": false,
+      "developer": "Sarmadi",
+      "flags": []
+    },
+    {
+      "no": 393,
+      "url": "https://blocked-393.local",
+      "host": "blocked-393.local",
+      "channel": "softonic",
+      "name": "Platform Pinjaman Online XOT",
+      "name_is_placeholder": false,
+      "developer": "Malek Technology",
+      "flags": []
+    },
+    {
+      "no": 394,
+      "url": "https://blocked-394.local",
+      "host": "blocked-394.local",
+      "channel": "apkpure",
+      "name": "Dana Cepat - Pinjam Uang Langsung Cair",
+      "name_is_placeholder": false,
+      "developer": "PT Arta Mandiri TBK",
+      "flags": []
+    },
+    {
+      "no": 395,
+      "url": "https://blocked-395.local",
+      "host": "blocked-395.local",
+      "channel": "apkpure",
+      "name": "Aku Cepat",
+      "name_is_placeholder": false,
+      "developer": "John Austin)",
+      "flags": []
+    },
+    {
+      "no": 396,
+      "url": "https://blocked-396.local",
+      "host": "blocked-396.local",
+      "channel": "apkpure",
+      "name": "Banana Duit-Uang Pinjam Cepat Online",
+      "name_is_placeholder": false,
+      "developer": "Vibhore Lauren",
+      "flags": []
+    },
+    {
+      "no": 397,
+      "url": "https://blocked-397.local",
+      "host": "blocked-397.local",
+      "channel": "apkpure",
+      "name": "Cepat uang-pinjam mudah uang online duit",
+      "name_is_placeholder": false,
+      "developer": "Rodriguez TS",
+      "flags": []
+    },
+    {
+      "no": 398,
+      "url": "https://blocked-398.local",
+      "host": "blocked-398.local",
+      "channel": "apkpure",
+      "name": "Pinjam Aja - Pinjaman Online Mudah Dan Cepat",
+      "name_is_placeholder": false,
+      "developer": "Alonso Sidwell)",
+      "flags": []
+    },
+    {
+      "no": 409,
+      "url": "https://blocked-409.local",
+      "host": "blocked-409.local",
+      "channel": "softonic",
+      "name": "Indonesia Uang-Pinjaman Aman",
+      "name_is_placeholder": false,
+      "developer": "SANCHEZ MARTINEZ MARIA FERNANDA",
+      "flags": []
+    },
+    {
+      "no": 410,
+      "url": "https://blocked-410.local",
+      "host": "blocked-410.local",
+      "channel": "softonic",
+      "name": "Pinjaman PertamaUang Cepat - Pinjaman Duit Cai",
+      "name_is_placeholder": false,
+      "developer": "Huang Bao",
+      "flags": []
+    },
+    {
+      "no": 411,
+      "url": "https://blocked-411.local",
+      "host": "blocked-411.local",
+      "channel": "softonic",
+      "name": "Swan Pinjaman Tunai Pribadi",
+      "name_is_placeholder": false,
+      "developer": "Ninad Technology",
+      "flags": []
+    },
+    {
+      "no": 419,
+      "url": "https://blocked-419.local",
+      "host": "blocked-419.local",
+      "channel": "softonic",
+      "name": "Pinjam Uang-Uang Kilat",
+      "name_is_placeholder": false,
+      "developer": "Linnaeus Pendanaan Teknologi",
+      "flags": []
+    },
+    {
+      "no": 420,
+      "url": "https://blocked-420.local",
+      "host": "blocked-420.local",
+      "channel": "softonic",
+      "name": "Super Rupiah - Aman dan Cepat",
+      "name_is_placeholder": false,
+      "developer": "PT.SUPER RUPIAH INDONESIA",
+      "flags": []
+    },
+    {
+      "no": 421,
+      "url": "https://blocked-421.local",
+      "host": "blocked-421.local",
+      "channel": "softonic",
+      "name": "Tunai Instan",
+      "name_is_placeholder": false,
+      "developer": "Tunai Harian Lite",
+      "flags": []
+    },
+    {
+      "no": 422,
+      "url": "https://blocked-422.local",
+      "host": "blocked-422.local",
+      "channel": "softonic",
+      "name": "Aman Rupiah-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Luis Alberto)",
+      "flags": []
+    },
+    {
+      "no": 423,
+      "url": "https://blocked-423.local",
+      "host": "blocked-423.local",
+      "channel": "softonic",
+      "name": "Lucky Uang - Pinjam Uang Murah",
+      "name_is_placeholder": false,
+      "developer": "PT. Lucky Uang)",
+      "flags": []
+    },
+    {
+      "no": 424,
+      "url": "https://blocked-424.local",
+      "host": "blocked-424.local",
+      "channel": "softonic",
+      "name": "Pinjam Mudah - Uang Onlin",
+      "name_is_placeholder": false,
+      "developer": "SYUELU",
+      "flags": []
+    },
+    {
+      "no": 433,
+      "url": "https://blocked-433.local",
+      "host": "blocked-433.local",
+      "channel": "softonic",
+      "name": "OKP2P - Pinjaman ok Layanan",
+      "name_is_placeholder": false,
+      "developer": "PT. OKE PTOP INDONESIA)",
+      "flags": []
+    },
+    {
+      "no": 434,
+      "url": "https://blocked-434.local",
+      "host": "blocked-434.local",
+      "channel": "softonic",
+      "name": "DuitKu-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "cashaman8",
+      "flags": []
+    },
+    {
+      "no": 435,
+      "url": "https://blocked-435.local",
+      "host": "blocked-435.local",
+      "channel": "softonic",
+      "name": "DanaKu-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Uang Cepat",
+      "flags": []
+    },
+    {
+      "no": 436,
+      "url": "https://blocked-436.local",
+      "host": "blocked-436.local",
+      "channel": "softonic",
+      "name": "Pinjaman Tunai BAA",
+      "name_is_placeholder": false,
+      "developer": "Jhosel Valdiviezo Coronel",
+      "flags": []
+    },
+    {
+      "no": 437,
+      "url": "https://blocked-437.local",
+      "host": "blocked-437.local",
+      "channel": "softonic",
+      "name": "Dompet Mudah - Pinjam Cepat",
+      "name_is_placeholder": false,
+      "developer": "PT.Dompet Mudah)",
+      "flags": []
+    },
+    {
+      "no": 438,
+      "url": "https://blocked-438.local",
+      "host": "blocked-438.local",
+      "channel": "softonic",
+      "name": "Indonesia Uang-Pinjaman Aman",
+      "name_is_placeholder": false,
+      "developer": "SANCHEZ MARTINEZ MARIA FERNANDA",
+      "flags": []
+    },
+    {
+      "no": 439,
+      "url": "https://blocked-439.local",
+      "host": "blocked-439.local",
+      "channel": "softonic",
+      "name": "Kelinci Lompat - Pinjam Uang Tunai Mudah Cepat Cair",
+      "name_is_placeholder": false,
+      "developer": "Nico Syan",
+      "flags": []
+    },
+    {
+      "no": 440,
+      "url": "https://blocked-440.local",
+      "host": "blocked-440.local",
+      "channel": "softonic",
+      "name": "Dana Pinjam - Kredit Pinjam Dana Tunai Online Cepat",
+      "name_is_placeholder": false,
+      "developer": "Sawayn Ervin",
+      "flags": []
+    },
+    {
+      "no": 441,
+      "url": "https://blocked-441.local",
+      "host": "blocked-441.local",
+      "channel": "softonic",
+      "name": "Duit Happy - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "PT.Duit Happy Indonesia",
+      "flags": []
+    },
+    {
+      "no": 442,
+      "url": "https://blocked-442.local",
+      "host": "blocked-442.local",
+      "channel": "softonic",
+      "name": "Tunai Kilat-Pinjaman Tunai",
+      "name_is_placeholder": false,
+      "developer": "Perusahaan Keuangan Anark",
+      "flags": []
+    },
+    {
+      "no": 443,
+      "url": "https://blocked-443.local",
+      "host": "blocked-443.local",
+      "channel": "softonic",
+      "name": "Uang Pinjam-Pinjam Dana Cepat APK",
+      "name_is_placeholder": false,
+      "developer": "Uang Pinjam MyTunai",
+      "flags": []
+    },
+    {
+      "no": 444,
+      "url": "https://blocked-444.local",
+      "host": "blocked-444.local",
+      "channel": "softonic",
+      "name": "Uang Mudah - Pinjam Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "Huang Bao",
+      "flags": []
+    },
+    {
+      "no": 445,
+      "url": "https://blocked-445.local",
+      "host": "blocked-445.local",
+      "channel": "softonic",
+      "name": "Uang Dana-Pinjaman tunai cepat",
+      "name_is_placeholder": false,
+      "developer": "Branches Studio",
+      "flags": []
+    },
+    {
+      "no": 446,
+      "url": "https://blocked-446.local",
+      "host": "blocked-446.local",
+      "channel": "softonic",
+      "name": "Cepat oke - Pinjol yang cairnya paling cepat",
+      "name_is_placeholder": false,
+      "developer": "PT. Surya Bermuda)",
+      "flags": []
+    },
+    {
+      "no": 447,
+      "url": "https://blocked-447.local",
+      "host": "blocked-447.local",
+      "channel": "softonic",
+      "name": "Opsna Cash - Aplikasi Cash Tunai Cepat Cair",
+      "name_is_placeholder": false,
+      "developer": "Jesús Sánchez Moreno",
+      "flags": []
+    },
+    {
+      "no": 448,
+      "url": "https://blocked-448.local",
+      "host": "blocked-448.local",
+      "channel": "softonic",
+      "name": "Dana Cepat-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "DanaCicil Pro",
+      "flags": []
+    },
+    {
+      "no": 449,
+      "url": "https://blocked-449.local",
+      "host": "blocked-449.local",
+      "channel": "softonic",
+      "name": "Dana Aman - Pinjaman Online Uang Tunai Bunga Rendah",
+      "name_is_placeholder": false,
+      "developer": "Dana Aman",
+      "flags": []
+    },
+    {
+      "no": 450,
+      "url": "https://blocked-450.local",
+      "host": "blocked-450.local",
+      "channel": "softonic",
+      "name": "Tunai Pinjaman-Pinjaman Uang Tunai Dana Online",
+      "name_is_placeholder": false,
+      "developer": "Indah Maya Sari",
+      "flags": []
+    },
+    {
+      "no": 451,
+      "url": "https://blocked-451.local",
+      "host": "blocked-451.local",
+      "channel": "softonic",
+      "name": "Cash Planet - Online Loan App",
+      "name_is_placeholder": false,
+      "developer": "ASOMI FINANCE PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 452,
+      "url": "https://blocked-452.local",
+      "host": "blocked-452.local",
+      "channel": "softonic",
+      "name": "Dana Mudah - Super Cash",
+      "name_is_placeholder": false,
+      "developer": "PT Tunai Cair Financial",
+      "flags": []
+    },
+    {
+      "no": 453,
+      "url": "https://blocked-453.local",
+      "host": "blocked-453.local",
+      "channel": "softonic",
+      "name": "Tunai Cepat-Pinjaman Uang Dana",
+      "name_is_placeholder": false,
+      "developer": "Jujube Studio",
+      "flags": []
+    },
+    {
+      "no": 454,
+      "url": "https://blocked-454.local",
+      "host": "blocked-454.local",
+      "channel": "softonic",
+      "name": "Rupiah Mudah - Pinjam Dana",
+      "name_is_placeholder": false,
+      "developer": "BUENO LENDING INVESTOR INC.",
+      "flags": []
+    },
+    {
+      "no": 455,
+      "url": "https://blocked-455.local",
+      "host": "blocked-455.local",
+      "channel": "softonic",
+      "name": "Cepat Cash - pinjam online",
+      "name_is_placeholder": false,
+      "developer": "GIRINANDINI MERCANTILE PRIVATE LIMITED)",
+      "flags": []
+    },
+    {
+      "no": 456,
+      "url": "https://blocked-456.local",
+      "host": "blocked-456.local",
+      "channel": "softonic",
+      "name": "258-Pinjaman Online Cepat",
+      "name_is_placeholder": false,
+      "developer": "Riveros Carlosjose",
+      "flags": []
+    },
+    {
+      "no": 457,
+      "url": "https://blocked-457.local",
+      "host": "blocked-457.local",
+      "channel": "softonic",
+      "name": "Modal Kilat - Pinjaman Uang APK",
+      "name_is_placeholder": false,
+      "developer": "ASMUNTI BOI",
+      "flags": []
+    },
+    {
+      "no": 458,
+      "url": "https://blocked-458.local",
+      "host": "blocked-458.local",
+      "channel": "softonic",
+      "name": "Pinjaman Amanah Kredit Cepat",
+      "name_is_placeholder": false,
+      "developer": "Pinjaman Amanah",
+      "flags": []
+    },
+    {
+      "no": 459,
+      "url": "https://blocked-459.local",
+      "host": "blocked-459.local",
+      "channel": "softonic",
+      "name": "Tunai Kilat - Pinjaman Cepat",
+      "name_is_placeholder": false,
+      "developer": "Perusahaan Keuangan Anark",
+      "flags": []
+    },
+    {
+      "no": 460,
+      "url": "https://blocked-460.local",
+      "host": "blocked-460.local",
+      "channel": "softonic",
+      "name": "Dana Mantul - pinjam uang lebih mudah",
+      "name_is_placeholder": false,
+      "developer": "PT. Permata Maya Nusantara",
+      "flags": []
+    },
+    {
+      "no": 461,
+      "url": "https://blocked-461.local",
+      "host": "blocked-461.local",
+      "channel": "softonic",
+      "name": "Dana Cash Pinjaman Online Te",
+      "name_is_placeholder": false,
+      "developer": "Diana M.Mbori",
+      "flags": []
+    },
+    {
+      "no": 462,
+      "url": "https://blocked-462.local",
+      "host": "blocked-462.local",
+      "channel": "softonic",
+      "name": "Lucky Uang - Pinjam Uang Murah",
+      "name_is_placeholder": false,
+      "developer": "PT. Lucky Uang",
+      "flags": []
+    },
+    {
+      "no": 463,
+      "url": "https://blocked-463.local",
+      "host": "blocked-463.local",
+      "channel": "softonic",
+      "name": "Dana Cepat-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Suchart Kaisariman",
+      "flags": []
+    },
+    {
+      "no": 474,
+      "url": "https://blocked-474.local",
+      "host": "blocked-474.local",
+      "channel": "softonic",
+      "name": "DanaKu- Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Uang cepat",
+      "flags": []
+    },
+    {
+      "no": 475,
+      "url": "https://blocked-475.local",
+      "host": "blocked-475.local",
+      "channel": "softonic",
+      "name": "Klik Kredit-Pinjaman Pinjol",
+      "name_is_placeholder": false,
+      "developer": "ROBI SUGARA",
+      "flags": []
+    },
+    {
+      "no": 476,
+      "url": "https://blocked-476.local",
+      "host": "blocked-476.local",
+      "channel": "softonic",
+      "name": "PinjamanLincah - Pinjam Uang Tunai Cepat",
+      "name_is_placeholder": false,
+      "developer": "Bustos Casiglia",
+      "flags": []
+    },
+    {
+      "no": 477,
+      "url": "https://blocked-477.local",
+      "host": "blocked-477.local",
+      "channel": "softonic",
+      "name": "TUNAIKU Cepat - Pinjam Uang Cepat Mudah",
+      "name_is_placeholder": false,
+      "developer": "Reef Tech",
+      "flags": []
+    },
+    {
+      "no": 478,
+      "url": "https://blocked-478.local",
+      "host": "blocked-478.local",
+      "channel": "softonic",
+      "name": "PerluDana - Piajam uang tunai tanpa jaminan cepat",
+      "name_is_placeholder": false,
+      "developer": "Kathy.Rios",
+      "flags": []
+    },
+    {
+      "no": 479,
+      "url": "https://blocked-479.local",
+      "host": "blocked-479.local",
+      "channel": "softonic",
+      "name": "Dana Cepat - Pinjaman Uang Dana",
+      "name_is_placeholder": false,
+      "developer": "Jujube Studio",
+      "flags": []
+    },
+    {
+      "no": 480,
+      "url": "https://blocked-480.local",
+      "host": "blocked-480.local",
+      "channel": "softonic",
+      "name": "Dana Dana - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "STERLING MEGABUCKS PRIVATE LIMITED)",
+      "flags": []
+    },
+    {
+      "no": 481,
+      "url": "https://blocked-481.local",
+      "host": "blocked-481.local",
+      "channel": "softonic",
+      "name": "Dana Cepat-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Suchart Kaisariman",
+      "flags": []
+    },
+    {
+      "no": 494,
+      "url": "https://blocked-494.local",
+      "host": "blocked-494.local",
+      "channel": "softonic",
+      "name": "Pinjaman online WOW",
+      "name_is_placeholder": false,
+      "developer": "Abdul Technology",
+      "flags": []
+    },
+    {
+      "no": 495,
+      "url": "https://blocked-495.local",
+      "host": "blocked-495.local",
+      "channel": "softonic",
+      "name": "Pinjaman Syariah Online Cepat",
+      "name_is_placeholder": false,
+      "developer": "Slides Dev",
+      "flags": []
+    },
+    {
+      "no": 496,
+      "url": "https://blocked-496.local",
+      "host": "blocked-496.local",
+      "channel": "softonic",
+      "name": "Pinjaman Tanpa Agunan FTR",
+      "name_is_placeholder": false,
+      "developer": "Limarijose Hormazabal Andres",
+      "flags": []
+    },
+    {
+      "no": 497,
+      "url": "https://blocked-497.local",
+      "host": "blocked-497.local",
+      "channel": "softonic",
+      "name": "Pinjaman Tunai BAA",
+      "name_is_placeholder": false,
+      "developer": "Jhosel Valdiviezo Coronel",
+      "flags": []
+    },
+    {
+      "no": 498,
+      "url": "https://blocked-498.local",
+      "host": "blocked-498.local",
+      "channel": "softonic",
+      "name": "Pinjaman Tunai Wilmar",
+      "name_is_placeholder": false,
+      "developer": "Lourdes Mondejar",
+      "flags": []
+    },
+    {
+      "no": 499,
+      "url": "https://blocked-499.local",
+      "host": "blocked-499.local",
+      "channel": "softonic",
+      "name": "Pinjamindo - Pinjaman Uang Onl APK",
+      "name_is_placeholder": false,
+      "developer": "PT. Serba Digital Teknologi",
+      "flags": []
+    },
+    {
+      "no": 500,
+      "url": "https://blocked-500.local",
+      "host": "blocked-500.local",
+      "channel": "softonic",
+      "name": "Pinjamnow",
+      "name_is_placeholder": false,
+      "developer": "CashQu",
+      "flags": []
+    },
+    {
+      "no": 501,
+      "url": "https://blocked-501.local",
+      "host": "blocked-501.local",
+      "channel": "softonic",
+      "name": "Dana Darurat - Pinjaman Kredit",
+      "name_is_placeholder": false,
+      "developer": "PT.kecemerlangan Fintech Indonesia",
+      "flags": []
+    },
+    {
+      "no": 502,
+      "url": "https://blocked-502.local",
+      "host": "blocked-502.local",
+      "channel": "softonic",
+      "name": "Cantik Dana - Pinjaman nyaman",
+      "name_is_placeholder": false,
+      "developer": "PT.Cantik Dana Indonesia",
+      "flags": []
+    },
+    {
+      "no": 503,
+      "url": "https://blocked-503.local",
+      "host": "blocked-503.local",
+      "channel": "softonic",
+      "name": "Cash Aku-pinjaman kredit uang",
+      "name_is_placeholder": false,
+      "developer": "PT Cash Aku Indonesia",
+      "flags": []
+    },
+    {
+      "no": 504,
+      "url": "https://blocked-504.local",
+      "host": "blocked-504.local",
+      "channel": "softonic",
+      "name": "KreditKaya-pinjaman online",
+      "name_is_placeholder": false,
+      "developer": "QUANTUM HOLDINGS INC.",
+      "flags": []
+    },
+    {
+      "no": 505,
+      "url": "https://blocked-505.local",
+      "host": "blocked-505.local",
+      "channel": "softonic",
+      "name": "KTA Gampang - Pinjaman Online Dana Kredit Tunai",
+      "name_is_placeholder": false,
+      "developer": "Rahmad Syarhan",
+      "flags": []
+    },
+    {
+      "no": 506,
+      "url": "https://blocked-506.local",
+      "host": "blocked-506.local",
+      "channel": "softonic",
+      "name": "Kya-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Vergara Manuel Zambrano",
+      "flags": []
+    },
+    {
+      "no": 507,
+      "url": "https://blocked-507.local",
+      "host": "blocked-507.local",
+      "channel": "softonic",
+      "name": "Babox - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Ha Danh Tien",
+      "flags": []
+    },
+    {
+      "no": 508,
+      "url": "https://blocked-508.local",
+      "host": "blocked-508.local",
+      "channel": "softonic",
+      "name": "Cair 2 Juta Pinjam Cepat Tips",
+      "name_is_placeholder": false,
+      "developer": "FinTechno Ltd",
+      "flags": []
+    },
+    {
+      "no": 509,
+      "url": "https://blocked-509.local",
+      "host": "blocked-509.local",
+      "channel": "softonic",
+      "name": "Dana Info - Pinjaman Dana Onli",
+      "name_is_placeholder": false,
+      "developer": "Info Kredit Pinjaman Online",
+      "flags": []
+    },
+    {
+      "no": 510,
+      "url": "https://blocked-510.local",
+      "host": "blocked-510.local",
+      "channel": "softonic",
+      "name": "Dana Joy-Pinjama dana online",
+      "name_is_placeholder": false,
+      "developer": "Koperasi Simpan Pinjam Citra Abadi Jawa Timur",
+      "flags": []
+    },
+    {
+      "no": 511,
+      "url": "https://blocked-511.local",
+      "host": "blocked-511.local",
+      "channel": "softonic",
+      "name": "Dana Me - Pinjaman uang online",
+      "name_is_placeholder": false,
+      "developer": "Mindex Fincap Private Limited",
+      "flags": []
+    },
+    {
+      "no": 512,
+      "url": "https://blocked-512.local",
+      "host": "blocked-512.local",
+      "channel": "softonic",
+      "name": "Dana Now-Dana Credit Online",
+      "name_is_placeholder": false,
+      "developer": "Prime Caplease Private Limited",
+      "flags": []
+    },
+    {
+      "no": 513,
+      "url": "https://blocked-513.local",
+      "host": "blocked-513.local",
+      "channel": "softonic",
+      "name": "Dana Panas - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Koperasi Simpan Pinjam Dana Senja Indonesia",
+      "flags": []
+    },
+    {
+      "no": 514,
+      "url": "https://blocked-514.local",
+      "host": "blocked-514.local",
+      "channel": "softonic",
+      "name": "Dana Pro - Cepat Uang Dana",
+      "name_is_placeholder": false,
+      "developer": "Pt Kebijaksanaan International Indonesia",
+      "flags": []
+    },
+    {
+      "no": 515,
+      "url": "https://blocked-515.local",
+      "host": "blocked-515.local",
+      "channel": "softonic",
+      "name": "Dana Saya - Pinjaman online",
+      "name_is_placeholder": false,
+      "developer": "Prime Caplease Private Limited",
+      "flags": []
+    },
+    {
+      "no": 516,
+      "url": "https://blocked-516.local",
+      "host": "blocked-516.local",
+      "channel": "softonic",
+      "name": "Danafix - Pinjaman Online Uang",
+      "name_is_placeholder": false,
+      "developer": "Danafix Online Indonesia",
+      "flags": []
+    },
+    {
+      "no": 517,
+      "url": "https://blocked-517.local",
+      "host": "blocked-517.local",
+      "channel": "softonic",
+      "name": "DanaMu Pinjaman Online FAQ",
+      "name_is_placeholder": false,
+      "developer": "Jennie Dev",
+      "flags": []
+    },
+    {
+      "no": 518,
+      "url": "https://blocked-518.local",
+      "host": "blocked-518.local",
+      "channel": "softonic",
+      "name": "DuitKu - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Cashaman8",
+      "flags": []
+    },
+    {
+      "no": 519,
+      "url": "https://blocked-519.local",
+      "host": "blocked-519.local",
+      "channel": "softonic",
+      "name": "Cahir Kilat OJK Pinj4m Guide",
+      "name_is_placeholder": false,
+      "developer": "Arh Development",
+      "flags": []
+    },
+    {
+      "no": 520,
+      "url": "https://blocked-520.local",
+      "host": "blocked-520.local",
+      "channel": "softonic",
+      "name": "Pinjol 500Ribu Cair Info",
+      "name_is_placeholder": false,
+      "developer": "Team Gass",
+      "flags": []
+    },
+    {
+      "no": 521,
+      "url": "https://blocked-521.local",
+      "host": "blocked-521.local",
+      "channel": "softonic",
+      "name": "Pinjol 24jam Cepat Cair Hints",
+      "name_is_placeholder": false,
+      "developer": "Jumuahdev.Online",
+      "flags": []
+    },
+    {
+      "no": 522,
+      "url": "https://blocked-522.local",
+      "host": "blocked-522.local",
+      "channel": "softonic",
+      "name": "Tunai Swift - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Growth Well Finlease Private Limited",
+      "flags": []
+    },
+    {
+      "no": 523,
+      "url": "https://blocked-523.local",
+      "host": "blocked-523.local",
+      "channel": "softonic",
+      "name": "Dana Ekspres - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Jay Dee Ess Leasing Company Private Limited",
+      "flags": []
+    },
+    {
+      "no": 524,
+      "url": "https://blocked-524.local",
+      "host": "blocked-524.local",
+      "channel": "softonic",
+      "name": "Fast Pinjam - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Baba Basuki Commercial Private Limited",
+      "flags": []
+    },
+    {
+      "no": 525,
+      "url": "https://blocked-525.local",
+      "host": "blocked-525.local",
+      "channel": "softonic",
+      "name": "Pinjaman Online Terbaru Hint APK",
+      "name_is_placeholder": false,
+      "developer": "Win Digital Khatulistiwa",
+      "flags": []
+    },
+    {
+      "no": 526,
+      "url": "https://blocked-526.local",
+      "host": "blocked-526.local",
+      "channel": "softonic",
+      "name": "Cepat Uang - Pinjaman kredit",
+      "name_is_placeholder": false,
+      "developer": "Bairavi Finance Private Limite",
+      "flags": []
+    },
+    {
+      "no": 527,
+      "url": "https://blocked-527.local",
+      "host": "blocked-527.local",
+      "channel": "softonic",
+      "name": "Saku Dompet - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Gagalbhai Investments Private Limited",
+      "flags": []
+    },
+    {
+      "no": 528,
+      "url": "https://blocked-528.local",
+      "host": "blocked-528.local",
+      "channel": "softonic",
+      "name": "DanaKami : Pinjaman Uang",
+      "name_is_placeholder": false,
+      "developer": "Anshika Investments Private Limited",
+      "flags": []
+    },
+    {
+      "no": 529,
+      "url": "https://blocked-529.local",
+      "host": "blocked-529.local",
+      "channel": "softonic",
+      "name": "Tunai Kaya - Pinjaman kredit",
+      "name_is_placeholder": false,
+      "developer": "Supra Trafin Private Limited",
+      "flags": []
+    },
+    {
+      "no": 530,
+      "url": "https://blocked-530.local",
+      "host": "blocked-530.local",
+      "channel": "softonic",
+      "name": "DanaPlus-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Turbopower Viet Nam Company Limited",
+      "flags": []
+    },
+    {
+      "no": 531,
+      "url": "https://blocked-531.local",
+      "host": "blocked-531.local",
+      "channel": "softonic",
+      "name": "DanaPintar-Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "Kan Viet Nam Company Limited",
+      "flags": []
+    },
+    {
+      "no": 532,
+      "url": "https://blocked-532.local",
+      "host": "blocked-532.local",
+      "channel": "softonic",
+      "name": "MudahUang - pinjaman online",
+      "name_is_placeholder": false,
+      "developer": "Suguna Fincorp Private Limited",
+      "flags": []
+    },
+    {
+      "no": 533,
+      "url": "https://blocked-533.local",
+      "host": "blocked-533.local",
+      "channel": "softonic",
+      "name": "AdaCepat - Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "Julina Paulin",
+      "flags": []
+    },
+    {
+      "no": 534,
+      "url": "https://blocked-534.local",
+      "host": "blocked-534.local",
+      "channel": "softonic",
+      "name": "Uang Kilat - Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "Ilocandia Fast Cash Corporation",
+      "flags": []
+    },
+    {
+      "no": 535,
+      "url": "https://blocked-535.local",
+      "host": "blocked-535.local",
+      "channel": "softonic",
+      "name": "Rupiah Kilat - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Ruchika Growth Fund Private Limited",
+      "flags": []
+    },
+    {
+      "no": 536,
+      "url": "https://blocked-536.local",
+      "host": "blocked-536.local",
+      "channel": "softonic",
+      "name": "Kilat Cash - Uang Cash Online",
+      "name_is_placeholder": false,
+      "developer": "Calcutta Multimax Private Limited",
+      "flags": []
+    },
+    {
+      "no": 537,
+      "url": "https://blocked-537.local",
+      "host": "blocked-537.local",
+      "channel": "softonic",
+      "name": "Dana Instan - Dana Online App",
+      "name_is_placeholder": false,
+      "developer": "Dhanpaatra Capital Private Limited",
+      "flags": []
+    },
+    {
+      "no": 538,
+      "url": "https://blocked-538.local",
+      "host": "blocked-538.local",
+      "channel": "softonic",
+      "name": "Pinjaman Uang- Online Kredit",
+      "name_is_placeholder": false,
+      "developer": "Wu Mangga",
+      "flags": []
+    },
+    {
+      "no": 539,
+      "url": "https://blocked-539.local",
+      "host": "blocked-539.local",
+      "channel": "softonic",
+      "name": "Cash Advance Payday Advance APK",
+      "name_is_placeholder": false,
+      "developer": "Sanrus Inc",
+      "flags": []
+    },
+    {
+      "no": 540,
+      "url": "https://blocked-540.local",
+      "host": "blocked-540.local",
+      "channel": "softonic",
+      "name": "Cash To U",
+      "name_is_placeholder": false,
+      "developer": "Newmore Company Limited",
+      "flags": []
+    },
+    {
+      "no": 541,
+      "url": "https://blocked-541.local",
+      "host": "blocked-541.local",
+      "channel": "softonic",
+      "name": "CashBox Pro",
+      "name_is_placeholder": false,
+      "developer": "Smart-Tech Electro-Industrial Systems Inc.)",
+      "flags": []
+    },
+    {
+      "no": 542,
+      "url": "https://blocked-542.local",
+      "host": "blocked-542.local",
+      "channel": "softonic",
+      "name": "CashSumber - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Plaza Fincap Private Limited",
+      "flags": []
+    },
+    {
+      "no": 543,
+      "url": "https://blocked-543.local",
+      "host": "blocked-543.local",
+      "channel": "softonic",
+      "name": "Cepat Cash - pinjam online",
+      "name_is_placeholder": false,
+      "developer": "Girinandini Mercantile Private Limited",
+      "flags": []
+    },
+    {
+      "no": 544,
+      "url": "https://blocked-544.local",
+      "host": "blocked-544.local",
+      "channel": "softonic",
+      "name": "Tunai Flexi - pinjaman online",
+      "name_is_placeholder": false,
+      "developer": "Brightskies Technologies Sae",
+      "flags": []
+    },
+    {
+      "no": 545,
+      "url": "https://blocked-545.local",
+      "host": "blocked-545.local",
+      "channel": "softonic",
+      "name": "Tunai Swift - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Growth Well Finlease Private Limited",
+      "flags": []
+    },
+    {
+      "no": 546,
+      "url": "https://blocked-546.local",
+      "host": "blocked-546.local",
+      "channel": "softonic",
+      "name": "TuYo Cash",
+      "name_is_placeholder": false,
+      "developer": "Karla Igrecia",
+      "flags": []
+    },
+    {
+      "no": 547,
+      "url": "https://blocked-547.local",
+      "host": "blocked-547.local",
+      "channel": "softonic",
+      "name": "Uang Cair - Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "Madhuban Fincare Private Limited",
+      "flags": []
+    },
+    {
+      "no": 548,
+      "url": "https://blocked-548.local",
+      "host": "blocked-548.local",
+      "channel": "softonic",
+      "name": "Uang Easy - Dana Online App",
+      "name_is_placeholder": false,
+      "developer": "Calicut Mercantile Finance Limited",
+      "flags": []
+    },
+    {
+      "no": 549,
+      "url": "https://blocked-549.local",
+      "host": "blocked-549.local",
+      "channel": "softonic",
+      "name": "Pinjam Murah - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Ankit Financial Services Private Limited",
+      "flags": []
+    },
+    {
+      "no": 550,
+      "url": "https://blocked-550.local",
+      "host": "blocked-550.local",
+      "channel": "softonic",
+      "name": "CashMagnet - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Vikhyat Securities Private Limited",
+      "flags": []
+    },
+    {
+      "no": 551,
+      "url": "https://blocked-551.local",
+      "host": "blocked-551.local",
+      "channel": "softonic",
+      "name": "MoneyClub - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Gokulesh Commercial Private Limited",
+      "flags": []
+    },
+    {
+      "no": 552,
+      "url": "https://blocked-552.local",
+      "host": "blocked-552.local",
+      "channel": "softonic",
+      "name": "Retwets - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Sajid Rehman",
+      "flags": []
+    },
+    {
+      "no": 553,
+      "url": "https://blocked-553.local",
+      "host": "blocked-553.local",
+      "channel": "softonic",
+      "name": "DanaTunai - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Chorsiya Finvest Private Limited",
+      "flags": []
+    },
+    {
+      "no": 554,
+      "url": "https://blocked-554.local",
+      "host": "blocked-554.local",
+      "channel": "softonic",
+      "name": "Uang Kilat",
+      "name_is_placeholder": false,
+      "developer": "Wa Eye",
+      "flags": []
+    },
+    {
+      "no": 555,
+      "url": "https://blocked-555.local",
+      "host": "blocked-555.local",
+      "channel": "softonic",
+      "name": "Pinjam Uang-Uang Kilat",
+      "name_is_placeholder": false,
+      "developer": "Linnaeus Pendanaan Teknologi",
+      "flags": []
+    },
+    {
+      "no": 556,
+      "url": "https://blocked-556.local",
+      "host": "blocked-556.local",
+      "channel": "softonic",
+      "name": "Modal Kilat - Pinjaman Uang APK",
+      "name_is_placeholder": false,
+      "developer": "Asmunti Boi",
+      "flags": []
+    },
+    {
+      "no": 557,
+      "url": "https://blocked-557.local",
+      "host": "blocked-557.local",
+      "channel": "softonic",
+      "name": "Duit Sayang-Kredit Uang Kilat",
+      "name_is_placeholder": false,
+      "developer": "Pt.Duit Sayang Indonesia",
+      "flags": []
+    },
+    {
+      "no": 558,
+      "url": "https://blocked-558.local",
+      "host": "blocked-558.local",
+      "channel": "softonic",
+      "name": "Tunai Kita - Pinjam Uang Cepat Kilat dan Mudah",
+      "name_is_placeholder": false,
+      "developer": "Pack Tech",
+      "flags": []
+    },
+    {
+      "no": 559,
+      "url": "https://blocked-559.local",
+      "host": "blocked-559.local",
+      "channel": "softonic",
+      "name": "Dana Cepat - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Koperasi Simpan Pinjam Pulau Bidadari Indonesia",
+      "flags": []
+    },
+    {
+      "no": 560,
+      "url": "https://blocked-560.local",
+      "host": "blocked-560.local",
+      "channel": "softonic",
+      "name": "Fast Pinjam - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Baba Basuki Commercial Private Limited",
+      "flags": []
+    },
+    {
+      "no": 561,
+      "url": "https://blocked-561.local",
+      "host": "blocked-561.local",
+      "channel": "softonic",
+      "name": "Rupiah Kas - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Vinzol Capital And Finance Limited",
+      "flags": []
+    },
+    {
+      "no": 562,
+      "url": "https://blocked-562.local",
+      "host": "blocked-562.local",
+      "channel": "softonic",
+      "name": "Cicil Cepat - pinjaman online",
+      "name_is_placeholder": false,
+      "developer": "Hanurang Mercantiles Private Limited",
+      "flags": []
+    },
+    {
+      "no": 563,
+      "url": "https://blocked-563.local",
+      "host": "blocked-563.local",
+      "channel": "softonic",
+      "name": "DanaRupiah - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "Kalkut Vinimay Private Limited",
+      "flags": []
+    },
+    {
+      "no": 564,
+      "url": "https://blocked-564.local",
+      "host": "blocked-564.local",
+      "channel": "softonic",
+      "name": "Dana Rakyat Pinjam online tips",
+      "name_is_placeholder": false,
+      "developer": "Denim Market App",
+      "flags": []
+    },
+    {
+      "no": 565,
+      "url": "https://blocked-565.local",
+      "host": "blocked-565.local",
+      "channel": "softonic",
+      "name": "Dana Cash - Pinjol OJK guide",
+      "name_is_placeholder": false,
+      "developer": "Novembre Craft",
+      "flags": []
+    },
+    {
+      "no": 566,
+      "url": "https://blocked-566.local",
+      "host": "blocked-566.local",
+      "channel": "softonic",
+      "name": "Pinjam Dana Tanpa KTP App Info",
+      "name_is_placeholder": false,
+      "developer": "Apps Digitalize",
+      "flags": []
+    },
+    {
+      "no": 567,
+      "url": "https://blocked-567.local",
+      "host": "blocked-567.local",
+      "channel": "softonic",
+      "name": "Rupiah Plus Pinjaman-Clue",
+      "name_is_placeholder": false,
+      "developer": "Ldway",
+      "flags": []
+    },
+    {
+      "no": 568,
+      "url": "https://blocked-568.local",
+      "host": "blocked-568.local",
+      "channel": "softonic",
+      "name": "Rupiah Cash Cash Pro",
+      "name_is_placeholder": false,
+      "developer": "Rupiah Cash Ksp",
+      "flags": []
+    },
+    {
+      "no": 569,
+      "url": "https://blocked-569.local",
+      "host": "blocked-569.local",
+      "channel": "softonic",
+      "name": "Rupiah Amanah Uang Mudah APK",
+      "name_is_placeholder": false,
+      "developer": "Hett",
+      "flags": []
+    },
+    {
+      "no": 570,
+      "url": "https://blocked-570.local",
+      "host": "blocked-570.local",
+      "channel": "softonic",
+      "name": "DearRupiah - Kredit Uang Kilat",
+      "name_is_placeholder": false,
+      "developer": "PT.Money Cepat Indonesia",
+      "flags": []
+    },
+    {
+      "no": 571,
+      "url": "https://blocked-571.local",
+      "host": "blocked-571.local",
+      "channel": "softonic",
+      "name": "Dompet Emas Pinjama uang cepat",
+      "name_is_placeholder": false,
+      "developer": "Dompet Emas",
+      "flags": []
+    },
+    {
+      "no": 572,
+      "url": "https://blocked-572.local",
+      "host": "blocked-572.local",
+      "channel": "softonic",
+      "name": "Kredit Digital - Uang Kilat",
+      "name_is_placeholder": false,
+      "developer": "PT.Kreditsekali",
+      "flags": []
+    },
+    {
+      "no": 573,
+      "url": "https://blocked-573.local",
+      "host": "blocked-573.local",
+      "channel": "softonic",
+      "name": "Kredit Berlian - Pinjaman Uang",
+      "name_is_placeholder": false,
+      "developer": "PT.Kredit Berlian Indonesia",
+      "flags": []
+    },
+    {
+      "no": 574,
+      "url": "https://blocked-574.local",
+      "host": "blocked-574.local",
+      "channel": "softonic",
+      "name": "Lucky Uang - Pinjam Uang Murah",
+      "name_is_placeholder": false,
+      "developer": "PT. Lucky Uang",
+      "flags": []
+    },
+    {
+      "no": 575,
+      "url": "https://blocked-575.local",
+      "host": "blocked-575.local",
+      "channel": "softonic",
+      "name": "CePinjam - Pinjam Online Cepat",
+      "name_is_placeholder": false,
+      "developer": "Start Point For Call Center",
+      "flags": []
+    },
+    {
+      "no": 576,
+      "url": "https://blocked-576.local",
+      "host": "blocked-576.local",
+      "channel": "softonic",
+      "name": "Sarung Sakti -Tanpa KTP Clue",
+      "name_is_placeholder": false,
+      "developer": "Tor Labs",
+      "flags": []
+    },
+    {
+      "no": 577,
+      "url": "https://blocked-577.local",
+      "host": "blocked-577.local",
+      "channel": "softonic",
+      "name": "Naga Dana Pinjaman Advice",
+      "name_is_placeholder": false,
+      "developer": "Tor Labs",
+      "flags": []
+    },
+    {
+      "no": 578,
+      "url": "https://blocked-578.local",
+      "host": "blocked-578.local",
+      "channel": "softonic",
+      "name": "Pinjaman Cepat - Pinjaman Uang",
+      "name_is_placeholder": false,
+      "developer": "Dao Gu",
+      "flags": []
+    },
+    {
+      "no": 579,
+      "url": "https://blocked-579.local",
+      "host": "blocked-579.local",
+      "channel": "softonic",
+      "name": "Pinjam Cepat - Pinjam uang tunai tanpa jaminan cepat",
+      "name_is_placeholder": false,
+      "developer": "Aleshia McKinnon",
+      "flags": []
+    },
+    {
+      "no": 580,
+      "url": "https://blocked-580.local",
+      "host": "blocked-580.local",
+      "channel": "softonic",
+      "name": "D-duit pinjaman uang cepat",
+      "name_is_placeholder": false,
+      "developer": "Dasgupta Charles.rice",
+      "flags": []
+    },
+    {
+      "no": 581,
+      "url": "https://blocked-581.local",
+      "host": "blocked-581.local",
+      "channel": "softonic",
+      "name": "Dompet emas pinjama uang cepat",
+      "name_is_placeholder": false,
+      "developer": "Dompet emas",
+      "flags": []
+    },
+    {
+      "no": 582,
+      "url": "https://blocked-582.local",
+      "host": "blocked-582.local",
+      "channel": "softonic",
+      "name": "Pinjaman Uang - Tunai Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "Branches Studio",
+      "flags": []
+    },
+    {
+      "no": 587,
+      "url": "https://blocked-587.local",
+      "host": "blocked-587.local",
+      "channel": "softonic",
+      "name": "Cepat Kas - Pinjam Online",
+      "name_is_placeholder": false,
+      "developer": "Lakshmi Narsimha Finbiz Limited",
+      "flags": []
+    },
+    {
+      "no": 588,
+      "url": "https://blocked-588.local",
+      "host": "blocked-588.local",
+      "channel": "softonic",
+      "name": "KreditKaya-pinjaman online",
+      "name_is_placeholder": false,
+      "developer": "Quantum Holdings Inc",
+      "flags": []
+    },
+    {
+      "no": 602,
+      "url": "https://blocked-602.local",
+      "host": "blocked-602.local",
+      "channel": "softonic",
+      "name": "Dana Uang - Pinjam Online",
+      "name_is_placeholder": false,
+      "developer": "DAGDAKS LENDING CORPORATION",
+      "flags": []
+    },
+    {
+      "no": 603,
+      "url": "https://blocked-603.local",
+      "host": "blocked-603.local",
+      "channel": "softonic",
+      "name": "Tunai Instan - Dana Online App",
+      "name_is_placeholder": false,
+      "developer": "DAGA ENTRADE PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 604,
+      "url": "https://blocked-604.local",
+      "host": "blocked-604.local",
+      "channel": "softonic",
+      "name": "Dana Dana - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "STERLING MEGABUCKS PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 605,
+      "url": "https://blocked-605.local",
+      "host": "blocked-605.local",
+      "channel": "softonic",
+      "name": "Dana Now - Dana Credit Online",
+      "name_is_placeholder": false,
+      "developer": "KOPERASI SIMPAN PINJAM DANA SENJA INDONESIA",
+      "flags": []
+    },
+    {
+      "no": 606,
+      "url": "https://blocked-606.local",
+      "host": "blocked-606.local",
+      "channel": "softonic",
+      "name": "Dana Teratas - Dana Cepat Kredit",
+      "name_is_placeholder": false,
+      "developer": "PRINCEP TRADE AND FINANCE PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 629,
+      "url": "https://blocked-629.local",
+      "host": "blocked-629.local",
+      "channel": "softonic",
+      "name": "Pinjaman Online - Kilat Mudah",
+      "name_is_placeholder": false,
+      "developer": "Kesiapsiagaan7701",
+      "flags": []
+    },
+    {
+      "no": 630,
+      "url": "https://blocked-630.local",
+      "host": "blocked-630.local",
+      "channel": "softonic",
+      "name": "DearRupiah - Kredit Uang Kilat",
+      "name_is_placeholder": false,
+      "developer": "PT.Money Cepat Indonesia",
+      "flags": []
+    },
+    {
+      "no": 631,
+      "url": "https://blocked-631.local",
+      "host": "blocked-631.local",
+      "channel": "softonic",
+      "name": "Kantong Sukses - Pinjam Uang Tunai Rupiah Cepat",
+      "name_is_placeholder": false,
+      "developer": "Kantong Kilat",
+      "flags": []
+    },
+    {
+      "no": 632,
+      "url": "https://blocked-632.local",
+      "host": "blocked-632.local",
+      "channel": "softonic",
+      "name": "Pinjam Yuk - Pinjam Uang Kilat",
+      "name_is_placeholder": false,
+      "developer": "Solution Inc Developer",
+      "flags": []
+    },
+    {
+      "no": 633,
+      "url": "https://blocked-633.local",
+      "host": "blocked-633.local",
+      "channel": "softonic",
+      "name": "Kredit Digital - Uang Kilat",
+      "name_is_placeholder": false,
+      "developer": "PT.Kreditsekali | Program Lainnya (3)",
+      "flags": []
+    },
+    {
+      "no": 659,
+      "url": "https://blocked-659.local",
+      "host": "blocked-659.local",
+      "channel": "softonic",
+      "name": "Dana Instan - Dana Online App",
+      "name_is_placeholder": false,
+      "developer": "Dhanpaatra Capital Private Limited",
+      "flags": []
+    },
+    {
+      "no": 660,
+      "url": "https://blocked-660.local",
+      "host": "blocked-660.local",
+      "channel": "softonic",
+      "name": "Dana Fleksibel - Dana Online App",
+      "name_is_placeholder": false,
+      "developer": "JAIKAPEESH CAPITAL PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 661,
+      "url": "https://blocked-661.local",
+      "host": "blocked-661.local",
+      "channel": "softonic",
+      "name": "InstanRupiah - Dana Online",
+      "name_is_placeholder": false,
+      "developer": "MEGHANA CORPORATE PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 662,
+      "url": "https://blocked-662.local",
+      "host": "blocked-662.local",
+      "channel": "softonic",
+      "name": "Rupiah Kami - Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "CALLIGRAPHY LENDING INC",
+      "flags": []
+    },
+    {
+      "no": 663,
+      "url": "https://blocked-663.local",
+      "host": "blocked-663.local",
+      "channel": "softonic",
+      "name": "Halo Dana - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "SRIDHAR FINVEST LIMITED",
+      "flags": []
+    },
+    {
+      "no": 664,
+      "url": "https://blocked-664.local",
+      "host": "blocked-664.local",
+      "channel": "softonic",
+      "name": "Easy Dana - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "KHAZANA TRADELINKS PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 665,
+      "url": "https://blocked-665.local",
+      "host": "blocked-665.local",
+      "channel": "softonic",
+      "name": "Dana Saya - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "PRIME CAPLIASE PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 666,
+      "url": "https://blocked-666.local",
+      "host": "blocked-666.local",
+      "channel": "softonic",
+      "name": "Dana Baru - Pinjaman Pribadi",
+      "name_is_placeholder": false,
+      "developer": "JEWEL STRIPS PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 667,
+      "url": "https://blocked-667.local",
+      "host": "blocked-667.local",
+      "channel": "softonic",
+      "name": "Pinjam Ceria - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "SHANDYA FINANCE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 668,
+      "url": "https://blocked-668.local",
+      "host": "blocked-668.local",
+      "channel": "softonic",
+      "name": "Pinjam Nyaman - Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "ASAMI FARMER FINANCE PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 669,
+      "url": "https://blocked-669.local",
+      "host": "blocked-669.local",
+      "channel": "softonic",
+      "name": "Koperasi Simpan Pinjam APK",
+      "name_is_placeholder": false,
+      "developer": "PT Sinar Teknologi Retailindo",
+      "flags": []
+    },
+    {
+      "no": 670,
+      "url": "https://blocked-670.local",
+      "host": "blocked-670.local",
+      "channel": "softonic",
+      "name": "Uang Mudah - Ayo Pinjam",
+      "name_is_placeholder": false,
+      "developer": "PT Uang Mudah Indonesia",
+      "flags": []
+    },
+    {
+      "no": 671,
+      "url": "https://blocked-671.local",
+      "host": "blocked-671.local",
+      "channel": "softonic",
+      "name": "Pinjam Murah - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "ANKIT FINANCIAL SERVICE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 672,
+      "url": "https://blocked-672.local",
+      "host": "blocked-672.local",
+      "channel": "softonic",
+      "name": "New Cash - Pinjam Uang Kredit Dana Tunai",
+      "name_is_placeholder": false,
+      "developer": "Resolusiweb Developer",
+      "flags": []
+    },
+    {
+      "no": 673,
+      "url": "https://blocked-673.local",
+      "host": "blocked-673.local",
+      "channel": "softonic",
+      "name": "Cara Pinjam Saldo Dana APK",
+      "name_is_placeholder": false,
+      "developer": "TUNAY",
+      "flags": []
+    },
+    {
+      "no": 674,
+      "url": "https://blocked-674.local",
+      "host": "blocked-674.local",
+      "channel": "softonic",
+      "name": "Pinjam 3jt Cicil 40 Bulan Hint APK",
+      "name_is_placeholder": false,
+      "developer": "Apps Digitalize | More Programs",
+      "flags": []
+    },
+    {
+      "no": 675,
+      "url": "https://blocked-675.local",
+      "host": "blocked-675.local",
+      "channel": "softonic",
+      "name": "Tips Dana Rakyat Pinjam Online",
+      "name_is_placeholder": false,
+      "developer": "Babil Farisi",
+      "flags": []
+    },
+    {
+      "no": 679,
+      "url": "https://blocked-679.local",
+      "host": "blocked-679.local",
+      "channel": "softonic",
+      "name": "Dana Flexi - Uang Cepat",
+      "name_is_placeholder": false,
+      "developer": "The Hi-tech Gears Limited",
+      "flags": []
+    },
+    {
+      "no": 680,
+      "url": "https://blocked-680.local",
+      "host": "blocked-680.local",
+      "channel": "softonic",
+      "name": "DanaMitra - Pinjaman Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "Agung Raya",
+      "flags": []
+    },
+    {
+      "no": 681,
+      "url": "https://blocked-681.local",
+      "host": "blocked-681.local",
+      "channel": "softonic",
+      "name": "Dana Pintar: Pinjaman Cepat",
+      "name_is_placeholder": false,
+      "developer": "I.n.t Netlink Technologies Llc",
+      "flags": []
+    },
+    {
+      "no": 682,
+      "url": "https://blocked-682.local",
+      "host": "blocked-682.local",
+      "channel": "softonic",
+      "name": "Doku Cepat - Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": "MUTHALAGU FINANCE PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 683,
+      "url": "https://blocked-683.local",
+      "host": "blocked-683.local",
+      "channel": "softonic",
+      "name": "Pinjam Nyaman - Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": "ASAMI FARMER FINANCE PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 684,
+      "url": "https://blocked-684.local",
+      "host": "blocked-684.local",
+      "channel": "softonic",
+      "name": "Dana Kredit Uang Online Cash",
+      "name_is_placeholder": false,
+      "developer": "Combine Overseas Limited",
+      "flags": []
+    },
+    {
+      "no": 685,
+      "url": "https://blocked-685.local",
+      "host": "blocked-685.local",
+      "channel": "softonic",
+      "name": "KitaRupiah",
+      "name_is_placeholder": false,
+      "developer": "Indian Aviotronics A Division of DMG Finance Investments",
+      "flags": []
+    },
+    {
+      "no": 686,
+      "url": "https://blocked-686.local",
+      "host": "blocked-686.local",
+      "channel": "softonic",
+      "name": "Dompet Pulsa-Cepat Cash Online",
+      "name_is_placeholder": false,
+      "developer": "ASSETS FINANCE PRIVATE LIMITED",
+      "flags": []
+    },
+    {
+      "no": 687,
+      "url": "https://blocked-687.local",
+      "host": "blocked-687.local",
+      "channel": "softonic",
+      "name": "Cash Dana - Pinjaman Uang Tunai Dana Cepat Cair",
+      "name_is_placeholder": false,
+      "developer": "Zeli",
+      "flags": []
+    },
+    {
+      "no": 688,
+      "url": "https://blocked-688.local",
+      "host": "blocked-688.local",
+      "channel": "softonic",
+      "name": "Pintar Cair Pinjaman 24jam",
+      "name_is_placeholder": false,
+      "developer": "Pintar Cair",
+      "flags": []
+    },
+    {
+      "no": 689,
+      "url": "https://blocked-689.local",
+      "host": "blocked-689.local",
+      "channel": "softonic",
+      "name": "Aman Rupiah-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": "LUIS ALBERTO",
+      "flags": []
+    },
+    {
+      "no": 690,
+      "url": "https://blocked-690.local",
+      "host": "blocked-690.local",
+      "channel": "softonic",
+      "name": "Achilles Cepat - Pinjaman Dana Tunai cepat cair",
+      "name_is_placeholder": false,
+      "developer": "Ur Cashbank",
+      "flags": []
+    },
+    {
+      "no": 691,
+      "url": "https://blocked-691.local",
+      "host": "blocked-691.local",
+      "channel": "softonic",
+      "name": "Pinjol 600rb Cepat Cair Info",
+      "name_is_placeholder": false,
+      "developer": "Kucai",
+      "flags": []
+    },
+    {
+      "no": 692,
+      "url": "https://blocked-692.local",
+      "host": "blocked-692.local",
+      "channel": "softonic",
+      "name": "Pinjol Cepat Cair Aman Tips",
+      "name_is_placeholder": false,
+      "developer": "Pinjol Tech Helper",
+      "flags": []
+    },
+    {
+      "no": 693,
+      "url": "https://blocked-693.local",
+      "host": "blocked-693.local",
+      "channel": "softonic",
+      "name": "Tunai Instan",
+      "name_is_placeholder": false,
+      "developer": "Tunai Harian Lite",
+      "flags": []
+    },
+    {
+      "no": 694,
+      "url": "https://blocked-694.local",
+      "host": "blocked-694.local",
+      "channel": "softonic",
+      "name": "Uang Cepat - Mudah Pinjaman Uang Tunai Online",
+      "name_is_placeholder": false,
+      "developer": "Jeanetta Sellers",
+      "flags": []
+    },
+    {
+      "no": 695,
+      "url": "https://blocked-695.local",
+      "host": "blocked-695.local",
+      "channel": "softonic",
+      "name": "DanaSegera - Pinjaman Uang Dana Tunai Online Cepat APK",
+      "name_is_placeholder": false,
+      "developer": "KSP Dana Mitra Sejahtera Abadi",
+      "flags": []
+    },
+    {
+      "no": 696,
+      "url": "https://blocked-696.local",
+      "host": "blocked-696.local",
+      "channel": "softonic",
+      "name": "Neo Cash - Pinjaman Dana Tunai",
+      "name_is_placeholder": false,
+      "developer": "keep wang",
+      "flags": []
+    },
+    {
+      "no": 697,
+      "url": "https://blocked-697.local",
+      "host": "blocked-697.local",
+      "channel": "softonic",
+      "name": "Kantong Sahabat - Pinjam Uang Tunai Kredit Dana Cash",
+      "name_is_placeholder": false,
+      "developer": "Gold Park Like",
+      "flags": []
+    },
+    {
+      "no": 698,
+      "url": "https://blocked-698.local",
+      "host": "blocked-698.local",
+      "channel": "softonic",
+      "name": "Saya Modalin - Pinjaman Rupiah Uang Tunai Dana Idr",
+      "name_is_placeholder": false,
+      "developer": "PT. MINITECH FINANCE INDONESIA",
+      "flags": []
+    },
+    {
+      "no": 699,
+      "url": "https://blocked-699.local",
+      "host": "blocked-699.local",
+      "channel": "softonic",
+      "name": "Saku Tunai",
+      "name_is_placeholder": false,
+      "developer": "donaldmay4928",
+      "flags": []
+    },
+    {
+      "no": 700,
+      "url": "https://blocked-700.local",
+      "host": "blocked-700.local",
+      "channel": "softonic",
+      "name": "Rupiah Petir - Pinjam Uang Tunai Kredit Dana Cash",
+      "name_is_placeholder": false,
+      "developer": "Landi CONWELL",
+      "flags": []
+    },
+    {
+      "no": 701,
+      "url": "https://blocked-701.local",
+      "host": "blocked-701.local",
+      "channel": "softonic",
+      "name": "Rupiah Plus Pinjaman - Clue",
+      "name_is_placeholder": false,
+      "developer": "LDWay",
+      "flags": []
+    },
+    {
+      "no": 702,
+      "url": "https://blocked-702.local",
+      "host": "blocked-702.local",
+      "channel": "softonic",
+      "name": "Duit panas-pinjaman online",
+      "name_is_placeholder": false,
+      "developer": "KOPERASI SIMPAN PINJAM IDA WELAS RASA",
+      "flags": []
+    },
+    {
+      "no": 703,
+      "url": "https://blocked-703.local",
+      "host": "blocked-703.local",
+      "channel": "softonic",
+      "name": "Kredit Easy-Pinjam Dana Uang Cepat Online APK",
+      "name_is_placeholder": false,
+      "developer": "STACY FRANCIS",
+      "flags": []
+    },
+    {
+      "no": 704,
+      "url": "https://blocked-704.local",
+      "host": "blocked-704.local",
+      "channel": "softonic",
+      "name": "apelbox - dana dengan cepat",
+      "name_is_placeholder": false,
+      "developer": "Crosby Graza",
+      "flags": []
+    },
+    {
+      "no": 705,
+      "url": "https://blocked-705.local",
+      "host": "blocked-705.local",
+      "channel": "softonic",
+      "name": "Dana Cicil Online - Pinjam Cepat",
+      "name_is_placeholder": false,
+      "developer": "DanaCicil Pro",
+      "flags": []
+    },
+    {
+      "no": 795,
+      "url": "https://blocked-795.local",
+      "host": "blocked-795.local",
+      "channel": "website",
+      "name": "Ponsel Duit",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 796,
+      "url": "https://blocked-796.local",
+      "host": "blocked-796.local",
+      "channel": "sfile",
+      "name": "Ponsel Duit",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 797,
+      "url": "https://blocked-797.local",
+      "host": "blocked-797.local",
+      "channel": "app_store",
+      "name": "SwapGo",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 798,
+      "url": "https://blocked-798.local",
+      "host": "blocked-798.local",
+      "channel": "website",
+      "name": "Ponsel Duit",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 799,
+      "url": "https://blocked-799.local",
+      "host": "blocked-799.local",
+      "channel": "apkpure",
+      "name": "Tunai Cash Pinjaman Online Tip",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 800,
+      "url": "https://blocked-800.local",
+      "host": "blocked-800.local",
+      "channel": "website",
+      "name": "Gandeng : Pinjaman Rupiah Mudah",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 801,
+      "url": "https://blocked-801.local",
+      "host": "blocked-801.local",
+      "channel": "website",
+      "name": "Dana Go - Uang Pundi",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 802,
+      "url": "https://blocked-802.local",
+      "host": "blocked-802.local",
+      "channel": "website",
+      "name": "Dana Rupiah Loan",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 803,
+      "url": "https://blocked-803.local",
+      "host": "blocked-803.local",
+      "channel": "website",
+      "name": "Pinjamindo",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 804,
+      "url": "https://blocked-804.local",
+      "host": "blocked-804.local",
+      "channel": "website",
+      "name": "5 KREDIT PINJAM",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 805,
+      "url": "https://blocked-805.local",
+      "host": "blocked-805.local",
+      "channel": "website",
+      "name": "KREDIT KILAT",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 806,
+      "url": "https://blocked-806.local",
+      "host": "blocked-806.local",
+      "channel": "website",
+      "name": "UangMe",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 807,
+      "url": "https://blocked-807.local",
+      "host": "blocked-807.local",
+      "channel": "website",
+      "name": "RUPIAH KAS",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 808,
+      "url": "https://blocked-808.local",
+      "host": "blocked-808.local",
+      "channel": "website",
+      "name": "SOLUSI DANA",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 809,
+      "url": "https://blocked-809.local",
+      "host": "blocked-809.local",
+      "channel": "sfile",
+      "name": "Duit Nomplok",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 810,
+      "url": "https://blocked-810.local",
+      "host": "blocked-810.local",
+      "channel": "softonic",
+      "name": "TunaiKita Pinjaman Uang Tunai Online Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 811,
+      "url": "https://blocked-811.local",
+      "host": "blocked-811.local",
+      "channel": "app_store",
+      "name": "Touang - Easy Moyer",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 812,
+      "url": "https://blocked-812.local",
+      "host": "blocked-812.local",
+      "channel": "google_play",
+      "name": "So Easy",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 813,
+      "url": "https://blocked-813.local",
+      "host": "blocked-813.local",
+      "channel": "google_play",
+      "name": "Pinjam Fun - Bagikan Aplikasi",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 814,
+      "url": "https://blocked-814.local",
+      "host": "blocked-814.local",
+      "channel": "website",
+      "name": "DanaCita : Pinjaman Dana Cepat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 815,
+      "url": "https://blocked-815.local",
+      "host": "blocked-815.local",
+      "channel": "website",
+      "name": "KitaRupiah",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 816,
+      "url": "https://blocked-816.local",
+      "host": "blocked-816.local",
+      "channel": "apkcombo",
+      "name": "Uang Kilat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 817,
+      "url": "https://blocked-817.local",
+      "host": "blocked-817.local",
+      "channel": "softonic",
+      "name": "Fast Duit",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 818,
+      "url": "https://blocked-818.local",
+      "host": "blocked-818.local",
+      "channel": "website",
+      "name": "Loan Pal",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 819,
+      "url": "https://blocked-819.local",
+      "host": "blocked-819.local",
+      "channel": "website",
+      "name": "Rupiah Kas",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 820,
+      "url": "https://blocked-820.local",
+      "host": "blocked-820.local",
+      "channel": "website",
+      "name": "UANG MAJU",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 821,
+      "url": "https://blocked-821.local",
+      "host": "blocked-821.local",
+      "channel": "google_play",
+      "name": "PinjamAmanah - Perantara",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 822,
+      "url": "https://blocked-822.local",
+      "host": "blocked-822.local",
+      "channel": "website",
+      "name": "Kredit Praktis",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 823,
+      "url": "https://blocked-823.local",
+      "host": "blocked-823.local",
+      "channel": "website",
+      "name": "DANA EASY",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 824,
+      "url": "https://blocked-824.local",
+      "host": "blocked-824.local",
+      "channel": "website",
+      "name": "Pinjam Fun",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 825,
+      "url": "https://blocked-825.local",
+      "host": "blocked-825.local",
+      "channel": "website",
+      "name": "Gandeng : Pinjaman Rupiah Mudah",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 826,
+      "url": "https://blocked-826.local",
+      "host": "blocked-826.local",
+      "channel": "apksum",
+      "name": "Dana Tunai",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 827,
+      "url": "https://blocked-827.local",
+      "host": "blocked-827.local",
+      "channel": "softonic",
+      "name": "Uang Kilat - Pinjaman Dana",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 828,
+      "url": "https://blocked-828.local",
+      "host": "blocked-828.local",
+      "channel": "website",
+      "name": "AYO PINJAM",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 829,
+      "url": "https://blocked-829.local",
+      "host": "blocked-829.local",
+      "channel": "instagram",
+      "name": "AYO PINJAM ( TITISAN HUJAN)",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 830,
+      "url": "https://blocked-830.local",
+      "host": "blocked-830.local",
+      "channel": "website",
+      "name": "PINJAM UANG ONLINE",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 831,
+      "url": "https://blocked-831.local",
+      "host": "blocked-831.local",
+      "channel": "google_play",
+      "name": "Ada Dana-Pinjaman Cepat Loans",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 832,
+      "url": "https://blocked-832.local",
+      "host": "blocked-832.local",
+      "channel": "website",
+      "name": "HappyD",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 833,
+      "url": "https://blocked-833.local",
+      "host": "blocked-833.local",
+      "channel": "website",
+      "name": "DUIT PASTI",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 834,
+      "url": "https://blocked-834.local",
+      "host": "blocked-834.local",
+      "channel": "apkcombo",
+      "name": "Dana Online",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 835,
+      "url": "https://blocked-835.local",
+      "host": "blocked-835.local",
+      "channel": "sfile",
+      "name": "AKU CEPAT",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 836,
+      "url": "https://blocked-836.local",
+      "host": "blocked-836.local",
+      "channel": "website",
+      "name": "LoanPal – Pinjaman online",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 837,
+      "url": "https://blocked-837.local",
+      "host": "blocked-837.local",
+      "channel": "app_store",
+      "name": "UANG KILAT",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 838,
+      "url": "https://blocked-838.local",
+      "host": "blocked-838.local",
+      "channel": "softonic",
+      "name": "Danafix - Pinjaman Uang Online Kredit Tunai Cepat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 839,
+      "url": "https://blocked-839.local",
+      "host": "blocked-839.local",
+      "channel": "website",
+      "name": "Dompet Pinjaman",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 840,
+      "url": "https://blocked-840.local",
+      "host": "blocked-840.local",
+      "channel": "website",
+      "name": "Maskas",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 841,
+      "url": "https://blocked-841.local",
+      "host": "blocked-841.local",
+      "channel": "website",
+      "name": "KreditKaya",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 842,
+      "url": "https://blocked-842.local",
+      "host": "blocked-842.local",
+      "channel": "website",
+      "name": "LoanPal",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 843,
+      "url": "https://blocked-843.local",
+      "host": "blocked-843.local",
+      "channel": "website",
+      "name": "Cepatcair",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 844,
+      "url": "https://blocked-844.local",
+      "host": "blocked-844.local",
+      "channel": "website",
+      "name": "Kaspin Go-Dana cair",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 845,
+      "url": "https://blocked-845.local",
+      "host": "blocked-845.local",
+      "channel": "website",
+      "name": "Free Loan",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 846,
+      "url": "https://blocked-846.local",
+      "host": "blocked-846.local",
+      "channel": "website",
+      "name": "Pinjam Fun",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 847,
+      "url": "https://blocked-847.local",
+      "host": "blocked-847.local",
+      "channel": "website",
+      "name": "KamiKaya",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 848,
+      "url": "https://blocked-848.local",
+      "host": "blocked-848.local",
+      "channel": "website",
+      "name": "PinjamLink",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 849,
+      "url": "https://blocked-849.local",
+      "host": "blocked-849.local",
+      "channel": "sfile",
+      "name": "Pinjaman Bintang",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 850,
+      "url": "https://blocked-850.local",
+      "host": "blocked-850.local",
+      "channel": "apkpure",
+      "name": "Dompet Kredit",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 851,
+      "url": "https://blocked-851.local",
+      "host": "blocked-851.local",
+      "channel": "google_play",
+      "name": "Dana Digital-Pinjaman Uang",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 852,
+      "url": "https://blocked-852.local",
+      "host": "blocked-852.local",
+      "channel": "website",
+      "name": "Duit Pasti/ Dana Kilat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 853,
+      "url": "https://blocked-853.local",
+      "host": "blocked-853.local",
+      "channel": "website",
+      "name": "XTRA UANG NOW",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 854,
+      "url": "https://blocked-854.local",
+      "host": "blocked-854.local",
+      "channel": "app_store",
+      "name": "Credinex",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 855,
+      "url": "https://blocked-855.local",
+      "host": "blocked-855.local",
+      "channel": "link_shortener",
+      "name": "Rupiah Kas",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 856,
+      "url": "https://blocked-856.local",
+      "host": "blocked-856.local",
+      "channel": "website",
+      "name": "LOANPAL",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 857,
+      "url": "https://blocked-857.local",
+      "host": "blocked-857.local",
+      "channel": "website",
+      "name": "DANAKAMI",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 858,
+      "url": "https://blocked-858.local",
+      "host": "blocked-858.local",
+      "channel": "link_shortener",
+      "name": "SAYA KREDI",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 859,
+      "url": "https://blocked-859.local",
+      "host": "blocked-859.local",
+      "channel": "google_play",
+      "name": "Dana Cepat-Paylater & Pinjaman",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 860,
+      "url": "https://blocked-860.local",
+      "host": "blocked-860.local",
+      "channel": "website",
+      "name": "LOANPAL",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 861,
+      "url": "https://blocked-861.local",
+      "host": "blocked-861.local",
+      "channel": "google_play",
+      "name": "Kredit Kilat-Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 862,
+      "url": "https://blocked-862.local",
+      "host": "blocked-862.local",
+      "channel": "website",
+      "name": "Kredit Now",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 863,
+      "url": "https://blocked-863.local",
+      "host": "blocked-863.local",
+      "channel": "app_store",
+      "name": "Halogo",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 864,
+      "url": "https://blocked-864.local",
+      "host": "blocked-864.local",
+      "channel": "website",
+      "name": "KREDIT KAYA",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 865,
+      "url": "https://blocked-865.local",
+      "host": "blocked-865.local",
+      "channel": "google_play",
+      "name": "Ada Dana",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 866,
+      "url": "https://blocked-866.local",
+      "host": "blocked-866.local",
+      "channel": "google_play",
+      "name": "Uang Saya- Hitung Uang Tunai",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 867,
+      "url": "https://blocked-867.local",
+      "host": "blocked-867.local",
+      "channel": "website",
+      "name": "TOGU",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 868,
+      "url": "https://blocked-868.local",
+      "host": "blocked-868.local",
+      "channel": "website",
+      "name": "So Easy",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 869,
+      "url": "https://blocked-869.local",
+      "host": "blocked-869.local",
+      "channel": "uptodown",
+      "name": "UANG PLUS",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 870,
+      "url": "https://blocked-870.local",
+      "host": "blocked-870.local",
+      "channel": "website",
+      "name": "DANA KAMI",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 871,
+      "url": "https://blocked-871.local",
+      "host": "blocked-871.local",
+      "channel": "website",
+      "name": "Duit Pasti",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 872,
+      "url": "https://blocked-872.local",
+      "host": "blocked-872.local",
+      "channel": "website",
+      "name": "Ponsel Duit/ Modal Ku",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 873,
+      "url": "https://blocked-873.local",
+      "host": "blocked-873.local",
+      "channel": "google_play",
+      "name": "Dana Amanah",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 874,
+      "url": "https://blocked-874.local",
+      "host": "blocked-874.local",
+      "channel": "website",
+      "name": "Ponsel DUIT",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 875,
+      "url": "https://blocked-875.local",
+      "host": "blocked-875.local",
+      "channel": "website",
+      "name": "Dana Digital",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 876,
+      "url": "https://blocked-876.local",
+      "host": "blocked-876.local",
+      "channel": "softonic",
+      "name": "Tunai Instan",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 877,
+      "url": "https://blocked-877.local",
+      "host": "blocked-877.local",
+      "channel": "softonic",
+      "name": "TUNAI INSTAN DAN DANA SAKU",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 878,
+      "url": "https://blocked-878.local",
+      "host": "blocked-878.local",
+      "channel": "website",
+      "name": "POWERS",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 879,
+      "url": "https://blocked-879.local",
+      "host": "blocked-879.local",
+      "channel": "website",
+      "name": "KAYU API",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 880,
+      "url": "https://blocked-880.local",
+      "host": "blocked-880.local",
+      "channel": "google_play",
+      "name": "KREDIT KANCIL",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 881,
+      "url": "https://blocked-881.local",
+      "host": "blocked-881.local",
+      "channel": "app_store",
+      "name": "PRIMA KREDIT",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 882,
+      "url": "https://blocked-882.local",
+      "host": "blocked-882.local",
+      "channel": "google_play",
+      "name": "PINJAMPASTI (DOMPET AMAN)",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 883,
+      "url": "https://blocked-883.local",
+      "host": "blocked-883.local",
+      "channel": "website",
+      "name": "KREDIT KAYA (SUPER DANA)",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 884,
+      "url": "https://blocked-884.local",
+      "host": "blocked-884.local",
+      "channel": "website",
+      "name": "INDODANA",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 885,
+      "url": "https://blocked-885.local",
+      "host": "blocked-885.local",
+      "channel": "google_play",
+      "name": "MODALSIAP DAN DUITNOMPLOK",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 886,
+      "url": "https://blocked-886.local",
+      "host": "blocked-886.local",
+      "channel": "website",
+      "name": "MEKAR",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 887,
+      "url": "https://blocked-887.local",
+      "host": "blocked-887.local",
+      "channel": "instagram",
+      "name": "RUPIAH CAIR DOMPET PUAS",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 888,
+      "url": "https://blocked-888.local",
+      "host": "blocked-888.local",
+      "channel": "google_play",
+      "name": "UANG SAHABAT",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 889,
+      "url": "https://blocked-889.local",
+      "host": "blocked-889.local",
+      "channel": "instagram",
+      "name": "PINJAMAN PLANET",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 890,
+      "url": "https://blocked-890.local",
+      "host": "blocked-890.local",
+      "channel": "google_play",
+      "name": "UANG TRIP",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 891,
+      "url": "https://blocked-891.local",
+      "host": "blocked-891.local",
+      "channel": "website",
+      "name": "PT Media Grup ASIA",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 892,
+      "url": "https://blocked-892.local",
+      "host": "blocked-892.local",
+      "channel": "google_play",
+      "name": "TRUSTMINT",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 893,
+      "url": "https://blocked-893.local",
+      "host": "blocked-893.local",
+      "channel": "website",
+      "name": "DUIT PASTI",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 894,
+      "url": "https://blocked-894.local",
+      "host": "blocked-894.local",
+      "channel": "website",
+      "name": "RUPIAH BERSAMA / DANA FLEKSIBEL",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 895,
+      "url": "https://blocked-895.local",
+      "host": "blocked-895.local",
+      "channel": "website",
+      "name": "Modal Kilat - Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 896,
+      "url": "https://blocked-896.local",
+      "host": "blocked-896.local",
+      "channel": "website",
+      "name": "Kredit Ru piah / NUHA i-Tech",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 897,
+      "url": "https://blocked-897.local",
+      "host": "blocked-897.local",
+      "channel": "website",
+      "name": "Kredit Ru piah / NUHA i-Tech",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 898,
+      "url": "https://blocked-898.local",
+      "host": "blocked-898.local",
+      "channel": "website",
+      "name": "Pinjam Mudah",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 899,
+      "url": "https://blocked-899.local",
+      "host": "blocked-899.local",
+      "channel": "website",
+      "name": "Pinjam Tunai",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 900,
+      "url": "https://blocked-900.local",
+      "host": "blocked-900.local",
+      "channel": "website",
+      "name": "Dana Kami",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 901,
+      "url": "https://blocked-901.local",
+      "host": "blocked-901.local",
+      "channel": "website",
+      "name": "Dana Easy",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 902,
+      "url": "https://blocked-902.local",
+      "host": "blocked-902.local",
+      "channel": "website",
+      "name": "Dana Darurat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 903,
+      "url": "https://blocked-903.local",
+      "host": "blocked-903.local",
+      "channel": "website",
+      "name": "KreditKancil",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 904,
+      "url": "https://blocked-904.local",
+      "host": "blocked-904.local",
+      "channel": "website",
+      "name": "PinjamPlus",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 905,
+      "url": "https://blocked-905.local",
+      "host": "blocked-905.local",
+      "channel": "website",
+      "name": "DanaKita",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 906,
+      "url": "https://blocked-906.local",
+      "host": "blocked-906.local",
+      "channel": "website",
+      "name": "Modal Kilat -Pinjaman Online",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 907,
+      "url": "https://blocked-907.local",
+      "host": "blocked-907.local",
+      "channel": "website",
+      "name": "Dana Easy",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 908,
+      "url": "https://blocked-908.local",
+      "host": "blocked-908.local",
+      "channel": "website",
+      "name": "UangKuNow / PT Super Pinjaman Indonesia",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 909,
+      "url": "https://blocked-909.local",
+      "host": "blocked-909.local",
+      "channel": "website",
+      "name": "UangKuNow / PT Super Pinjaman Indonesia",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 910,
+      "url": "https://blocked-910.local",
+      "host": "blocked-910.local",
+      "channel": "website",
+      "name": "UangKuNow / PT Super Pinjaman Indonesia",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 911,
+      "url": "https://blocked-911.local",
+      "host": "blocked-911.local",
+      "channel": "website",
+      "name": "KreditKancil",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 912,
+      "url": "https://blocked-912.local",
+      "host": "blocked-912.local",
+      "channel": "website",
+      "name": "KreditKancil",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 913,
+      "url": "https://blocked-913.local",
+      "host": "blocked-913.local",
+      "channel": "website",
+      "name": "PinjamPlus",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 914,
+      "url": "https://blocked-914.local",
+      "host": "blocked-914.local",
+      "channel": "website",
+      "name": "PinjamPlus",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 915,
+      "url": "https://blocked-915.local",
+      "host": "blocked-915.local",
+      "channel": "website",
+      "name": "Pinjam Kredit",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 916,
+      "url": "https://blocked-916.local",
+      "host": "blocked-916.local",
+      "channel": "website",
+      "name": "PT. Dana Cep at Indonesia",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 917,
+      "url": "https://blocked-917.local",
+      "host": "blocked-917.local",
+      "channel": "website",
+      "name": "Rupiah Cair",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 918,
+      "url": "https://blocked-918.local",
+      "host": "blocked-918.local",
+      "channel": "website",
+      "name": "Tunai Yuk",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 919,
+      "url": "https://blocked-919.local",
+      "host": "blocked-919.local",
+      "channel": "website",
+      "name": "PT. Dana Cep at Indonesia",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 920,
+      "url": "https://blocked-920.local",
+      "host": "blocked-920.local",
+      "channel": "website",
+      "name": "Dana Kami",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 921,
+      "url": "https://blocked-921.local",
+      "host": "blocked-921.local",
+      "channel": "website",
+      "name": "Kredit Kilat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 922,
+      "url": "https://blocked-922.local",
+      "host": "blocked-922.local",
+      "channel": "website",
+      "name": "Rupiah Cair",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 923,
+      "url": "https://blocked-923.local",
+      "host": "blocked-923.local",
+      "channel": "website",
+      "name": "Dana Darurat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 924,
+      "url": "https://blocked-924.local",
+      "host": "blocked-924.local",
+      "channel": "website",
+      "name": "Kredit Kilat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 925,
+      "url": "https://blocked-925.local",
+      "host": "blocked-925.local",
+      "channel": "website",
+      "name": "Kredit Kilat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 926,
+      "url": "https://blocked-926.local",
+      "host": "blocked-926.local",
+      "channel": "google_play",
+      "name": "Kredit Kancil",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 927,
+      "url": "https://blocked-927.local",
+      "host": "blocked-927.local",
+      "channel": "google_play",
+      "name": "PinjamanPlus",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 928,
+      "url": "https://blocked-928.local",
+      "host": "blocked-928.local",
+      "channel": "google_play",
+      "name": "Dana Cepat-Paylater & Pinjaman",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 929,
+      "url": "https://blocked-929.local",
+      "host": "blocked-929.local",
+      "channel": "google_play",
+      "name": "Kredit Kilat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 930,
+      "url": "https://blocked-930.local",
+      "host": "blocked-930.local",
+      "channel": "instagram",
+      "name": "Dana Yuk",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 931,
+      "url": "https://blocked-931.local",
+      "host": "blocked-931.local",
+      "channel": "instagram",
+      "name": "Easy Dana",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 932,
+      "url": "https://blocked-932.local",
+      "host": "blocked-932.local",
+      "channel": "instagram",
+      "name": "Dana Baik",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 933,
+      "url": "https://blocked-933.local",
+      "host": "blocked-933.local",
+      "channel": "instagram",
+      "name": "Kredit Kilat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 934,
+      "url": "https://blocked-934.local",
+      "host": "blocked-934.local",
+      "channel": "instagram",
+      "name": "Kredit Kilat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 935,
+      "url": "https://blocked-935.local",
+      "host": "blocked-935.local",
+      "channel": "linkedin",
+      "name": "Kredit Kilat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 936,
+      "url": "https://blocked-936.local",
+      "host": "blocked-936.local",
+      "channel": "linkedin",
+      "name": "Kredit Kilat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 937,
+      "url": "https://blocked-937.local",
+      "host": "blocked-937.local",
+      "channel": "instagram",
+      "name": "Dana Digital",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 938,
+      "url": "https://blocked-938.local",
+      "host": "blocked-938.local",
+      "channel": "instagram",
+      "name": "Uang Indo",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 939,
+      "url": "https://blocked-939.local",
+      "host": "blocked-939.local",
+      "channel": "facebook",
+      "name": "Pinjam Mudah",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 940,
+      "url": "https://blocked-940.local",
+      "host": "blocked-940.local",
+      "channel": "instagram",
+      "name": "Pinjam Mudah",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 941,
+      "url": "https://blocked-941.local",
+      "host": "blocked-941.local",
+      "channel": "instagram",
+      "name": "Pinjam Tunai",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 942,
+      "url": "https://blocked-942.local",
+      "host": "blocked-942.local",
+      "channel": "instagram",
+      "name": "Pinjam Tunai",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 943,
+      "url": "https://blocked-943.local",
+      "host": "blocked-943.local",
+      "channel": "threads",
+      "name": "Dana Darurat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 944,
+      "url": "https://blocked-944.local",
+      "host": "blocked-944.local",
+      "channel": "instagram",
+      "name": "UangKuNow / PT Super Pinjaman Indonesia",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 945,
+      "url": "https://blocked-945.local",
+      "host": "blocked-945.local",
+      "channel": "threads",
+      "name": "UangKuNow / PT Super Pinjaman Indonesia",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 946,
+      "url": "https://blocked-946.local",
+      "host": "blocked-946.local",
+      "channel": "instagram",
+      "name": "Kredit Kancil",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 947,
+      "url": "https://blocked-947.local",
+      "host": "blocked-947.local",
+      "channel": "instagram",
+      "name": "Pinjaman Plus",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 948,
+      "url": "https://blocked-948.local",
+      "host": "blocked-948.local",
+      "channel": "instagram",
+      "name": "Pinjaman Plus",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 949,
+      "url": "https://blocked-949.local",
+      "host": "blocked-949.local",
+      "channel": "instagram",
+      "name": "PT Dana Cepat Indonesia",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 950,
+      "url": "https://blocked-950.local",
+      "host": "blocked-950.local",
+      "channel": "instagram",
+      "name": "Kredit Kilat",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    },
+    {
+      "no": 951,
+      "url": "https://blocked-951.local",
+      "host": "blocked-951.local",
+      "channel": "instagram",
+      "name": "Rupiah Cair",
+      "name_is_placeholder": false,
+      "developer": null,
+      "flags": []
+    }
+  ]
+}

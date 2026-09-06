@@ -1,0 +1,18 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.claude
+.playwright-mcp
+CLAUDE.MD
+# TypeScript incremental build cache — machine-specific, regenerated on build
+tsconfig.tsbuildinfo
+
+# Stale snapshot archive of the source tree; the working tree is authoritative
+claude_code_updates.zip
+
+# Firebase browser config — supplied via NEXT_PUBLIC_* env vars instead
+firebase-applet-config.json

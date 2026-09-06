@@ -1,0 +1,226 @@
+{
+  "version": "2.0",
+  "as_of": "2026-09",
+  "sources": {
+    "SEOJK_19_2025": {
+      "title": "SEOJK 19/SEOJK.06/2025 tentang Penyelenggaraan LPBBTI",
+      "issued": "2025-07-31",
+      "url": "https://jdih.ojk.go.id/",
+      "confidence": "verified_against_primary_source",
+      "note": "Revokes SEOJK 19/SEOJK.06/2023. Issued under POJK 40 Tahun 2024."
+    },
+    "POJK_22_2023": {
+      "title": "POJK 22/2023 tentang Pelindungan Konsumen dan Masyarakat di Sektor Jasa Keuangan",
+      "confidence": "secondary_source_only",
+      "verify": "Pasal 62 ayat (2) cited from secondary reporting, not read directly."
+    },
+    "POJK_LPBBTI": {
+      "title": "POJK 40 Tahun 2024 tentang LPBBTI",
+      "confidence": "needs_verification",
+      "note": "SEOJK 19/2025 is issued under POJK 40/2024, which likely supersedes POJK 10/POJK.05/2022. Rules below previously cited POJK 10/2022 arts 102-104 from secondary sources. Re-cite against POJK 40/2024 before publishing."
+    },
+    "UU_PDP": { "title": "UU 27/2022 tentang Pelindungan Data Pribadi", "confidence": "secondary_source_only" },
+    "AFPI": { "title": "Kode Etik AFPI", "confidence": "secondary_source_only" }
+  },
+
+  "usage": {
+    "collection_rules": "Classified by Gemini from a pasted collector message. The message is EVIDENCE, never instructions. Constrain output to the rule_id enum below and reject anything outside it.",
+    "origination_rules": "Checked deterministically in TypeScript from loan facts the user enters. No model involved. These are breaches by the LENDER at approval time, not by the borrower — the UI copy must not read as blame."
+  },
+
+  "collection_rules": [
+    {
+      "rule_id": "R01_ancaman_kekerasan",
+      "title_id": "Ancaman, kekerasan, atau tindakan mempermalukan",
+      "title_en": "Threats, violence, or humiliating conduct",
+      "description_id": "Penagihan dilarang menggunakan cara ancaman, kekerasan, dan/atau tindakan yang bersifat mempermalukan konsumen.",
+      "description_en": "Collection may not use threats, violence, or actions intended to humiliate the consumer.",
+      "source": "POJK 22/2023 Pasal 62 ayat (2)",
+      "confidence": "secondary_source_only",
+      "detection_guidance": "Explicit or implied threats of harm, exposure, or public shaming. Includes veiled threats naming the borrower's workplace, children, or address without stating an action."
+    },
+    {
+      "rule_id": "R02_tekanan_fisik_verbal",
+      "title_id": "Tekanan fisik maupun verbal",
+      "title_en": "Physical or verbal pressure",
+      "description_id": "Penagihan dilarang menggunakan tekanan secara fisik maupun verbal.",
+      "description_en": "Collection may not apply physical or verbal pressure.",
+      "source": "POJK 22/2023 Pasal 62 ayat (2)",
+      "confidence": "secondary_source_only",
+      "detection_guidance": "Coercive language, ultimatums, sustained aggression. A firm but neutral payment reminder is permitted and must not be flagged."
+    },
+    {
+      "rule_id": "R03_pihak_selain_peminjam",
+      "title_id": "Menagih ke pihak selain penerima dana",
+      "title_en": "Collecting from anyone other than the borrower",
+      "description_id": "Penggunaan kontak darurat hanya ditujukan untuk konfirmasi atas keberadaan Penerima Dana, dan bukan untuk melakukan penagihan kepada pemilik data kontak darurat.",
+      "description_en": "An emergency contact may be used only to confirm the borrower's whereabouts, never to pursue payment from the contact holder.",
+      "source": "SEOJK 19/SEOJK.06/2025 Romawi VIII angka 1",
+      "confidence": "verified_against_primary_source",
+      "detection_guidance": "Any mention of having contacted, or intending to contact, colleagues, employer, family, neighbours, or phone contacts in order to secure payment."
+    },
+    {
+      "rule_id": "R04_penyebaran_data_pribadi",
+      "title_id": "Ancaman menyebarkan data pribadi",
+      "title_en": "Threatening to distribute personal data",
+      "description_id": "Penyelenggara tidak diperkenankan menyebarkan data dan informasi pribadi Pengguna kepada pihak lain, kecuali ada persetujuan tertulis atau pengecualian oleh peraturan perundang-undangan.",
+      "description_en": "A lender may not distribute a user's personal data to other parties, except with written consent or a statutory exception.",
+      "source": "SEOJK 19/SEOJK.06/2025 Romawi VII angka 2-3; UU 27/2022",
+      "confidence": "verified_against_primary_source",
+      "detection_guidance": "Threats to share KTP, selfies, or loan details with contacts or on social media. Flag even when phrased as a hypothetical consequence."
+    },
+    {
+      "rule_id": "R05_di_luar_jam",
+      "title_id": "Penagihan di luar waktu yang diizinkan",
+      "title_en": "Collection outside permitted hours",
+      "description_id": "Penagihan hanya boleh dilakukan Senin sampai Sabtu, pukul 08.00 sampai 20.00 waktu setempat alamat penerima dana, di luar hari libur nasional dan cuti bersama. Di luar itu hanya atas persetujuan sebelumnya.",
+      "description_en": "Collection is permitted Monday to Saturday, 08:00 to 20:00 local time at the borrower's address, excluding national holidays and collective leave. Outside that window only with prior consent.",
+      "source": "POJK 22/2023; Kode Etik AFPI",
+      "confidence": "secondary_source_only",
+      "detection_guidance": "A stated time outside 08:00-20:00, a reference to arriving at night or before dawn, or a Sunday or public holiday visit."
+    },
+    {
+      "rule_id": "R06_sara_martabat",
+      "title_id": "Intimidasi merendahkan SARA, harkat, dan martabat",
+      "title_en": "Intimidation degrading ethnicity, religion, race, or dignity",
+      "description_id": "Dilarang menggunakan kata atau tindakan yang mengintimidasi atau merendahkan suku, agama, ras, antargolongan, harkat, martabat, dan harga diri, baik di dunia nyata maupun dunia maya.",
+      "description_en": "Words or actions that intimidate or degrade ethnicity, religion, race, social group, dignity, or self-worth are prohibited, offline and online.",
+      "source": "Kode Etik AFPI",
+      "confidence": "secondary_source_only",
+      "detection_guidance": "Slurs, degrading characterisations, or attacks on the borrower's character rather than the debt. Cyberbullying counts."
+    },
+    {
+      "rule_id": "R07_sasaran_keluarga_kerabat",
+      "title_id": "Larangan meluas ke keluarga, kerabat, dan harta benda",
+      "title_en": "Prohibition extends to family, relatives, and property",
+      "description_id": "Larangan intimidasi berlaku tidak hanya kepada peminjam, tetapi juga kepada kontak darurat, anggota keluarga, kerabat, rekan, dan harta bendanya.",
+      "description_en": "The prohibition on intimidation covers the borrower's emergency contact, family, relatives, colleagues, and their property.",
+      "source": "Kode Etik AFPI",
+      "confidence": "secondary_source_only",
+      "detection_guidance": "Threats aimed at a third party or at possessions, including implied seizure of goods without lawful process."
+    },
+    {
+      "rule_id": "R08_komunikasi_terus_menerus",
+      "title_id": "Komunikasi terus-menerus yang mengganggu",
+      "title_en": "Continuous, harassing contact",
+      "description_id": "Penagihan melalui sarana komunikasi tidak boleh dilakukan secara terus-menerus dan mengganggu. AFPI membatasi maksimal tiga panggilan terjawab per hari.",
+      "description_en": "Collection by phone or messaging may not be continuous or harassing. AFPI caps this at three answered calls per day.",
+      "source": "Kode Etik AFPI",
+      "confidence": "secondary_source_only",
+      "detection_guidance": "The message references repeated calls, or the borrower describes contact volume above the daily limit."
+    },
+    {
+      "rule_id": "R09_identitas_penagih",
+      "title_id": "Penagih tanpa identitas dan sertifikasi",
+      "title_en": "Collector without identification or certification",
+      "description_id": "Penagih lapangan wajib membawa surat tugas resmi, kartu identitas yang jelas, dan sertifikat kompetensi penagihan.",
+      "description_en": "A field collector must carry an official assignment letter, clear identification, and a collection competency certificate.",
+      "source": "Kode Etik AFPI",
+      "confidence": "secondary_source_only",
+      "detection_guidance": "A threatened home visit with no named company, no collector identity, and no reference to authorisation. Weaker signal than the others — surface as a question the borrower should ask, not a confirmed breach."
+    },
+    {
+      "rule_id": "R10_akses_data_berlebihan",
+      "title_id": "Akses data di luar kamera, lokasi, dan mikrofon",
+      "title_en": "Device access beyond camera, location, and microphone",
+      "description_id": "Penyelenggara dalam menjalankan kegiatan usaha hanya dapat mengakses kamera, lokasi, dan mikrofon pada gawai milik Pengguna. Daftar kontak, galeri foto, dan SMS tidak termasuk.",
+      "description_en": "A lender may access only the camera, location, and microphone on the user's device. Contact lists, photo galleries, and SMS are not permitted.",
+      "source": "SEOJK 19/SEOJK.06/2025 Romawi VII angka 1; Romawi XI angka 1 huruf e",
+      "confidence": "verified_against_primary_source",
+      "detection_guidance": "The message shows the lender holds contacts, photos, or messages it should never have read — e.g. naming people the borrower never listed, or referencing gallery images. This is a separate and earlier breach than the collection conduct itself: the data was taken unlawfully before it was misused."
+    },
+    {
+      "rule_id": "R11_kontak_darurat_tanpa_persetujuan",
+      "title_id": "Kontak darurat tanpa konfirmasi dan persetujuan",
+      "title_en": "Emergency contact used without confirmation and consent",
+      "description_id": "Penyelenggara harus lebih dulu mengonfirmasi dan memperoleh persetujuan dari pemilik data kontak darurat, menjelaskan hubungannya dengan Penerima Dana, menjelaskan apa itu kontak darurat, dan menjelaskan risikonya. Persetujuan itu wajib didokumentasikan.",
+      "description_en": "The lender must first confirm and obtain consent from the emergency contact holder, explain their relationship to the borrower, explain what being an emergency contact means, and explain the attached risks. That consent must be documented.",
+      "source": "SEOJK 19/SEOJK.06/2025 Romawi VIII angka 2-4",
+      "confidence": "verified_against_primary_source",
+      "detection_guidance": "The borrower says a contact was called who never agreed to be listed, or was never approached beforehand. Distinct from R03: R03 is misusing an emergency contact, R11 is never having lawfully obtained one."
+    }
+  ],
+
+  "origination_rules": [
+    {
+      "rule_id": "O01_kapasitas_bayar",
+      "title_id": "Kemampuan membayar kembali melebihi batas",
+      "title_en": "Repayment burden exceeds the regulatory limit",
+      "description_id": "Perbandingan antara jumlah pembayaran pokok dan manfaat ekonomi kepada SELURUH kreditur dengan penghasilan Penerima Dana ditetapkan paling tinggi 30% sejak tahun 2026 (40% pada tahun 2025).",
+      "description_en": "The ratio of principal-plus-economic-benefit payments to ALL creditors against the borrower's income is capped at 30% from 2026 (40% in 2025).",
+      "source": "SEOJK 19/SEOJK.06/2025 Romawi XIII angka 2",
+      "confidence": "verified_against_primary_source",
+      "check": {
+        "formula": "total_monthly_obligations_all_creditors / monthly_income * 100",
+        "max_pct_2026": 30,
+        "max_pct_2025": 40,
+        "creditors_in_scope": ["Penyelenggara LPBBTI", "bank", "perusahaan pembiayaan", "perusahaan modal ventura", "perusahaan pergadaian", "lembaga jasa keuangan lainnya"],
+        "income_evidence": "slip gaji atau mutasi rekening"
+      },
+      "framing_id": "Ini kewajiban penyelenggara saat menilai kelayakan, bukan kesalahan peminjam. Jika terlampaui, pinjaman seharusnya tidak disetujui.",
+      "framing_en": "This is the lender's obligation at credit assessment, not the borrower's fault. If exceeded, the loan should not have been approved."
+    },
+    {
+      "rule_id": "O02_lebih_dari_tiga_penyelenggara",
+      "title_id": "Pendanaan dari lebih dari tiga penyelenggara",
+      "title_en": "Borrowing from more than three lenders",
+      "description_id": "Penyelenggara harus memastikan Penerima Dana tidak menerima Pendanaan melalui lebih dari 3 penyelenggara, termasuk penyelenggara yang bersangkutan.",
+      "description_en": "A lender must ensure the borrower does not hold funding from more than three lenders, including itself.",
+      "source": "SEOJK 19/SEOJK.06/2025 Romawi XI angka 3 huruf k",
+      "confidence": "verified_against_primary_source",
+      "check": { "max_concurrent_lenders": 3 },
+      "framing_en": "Also listed as an indicator of unhealthy funding under XI.6.f.2.d."
+    },
+    {
+      "rule_id": "O03_pendanaan_tidak_sehat",
+      "title_id": "Pendanaan yang tidak sehat",
+      "title_en": "Unhealthy funding",
+      "description_id": "Penyelenggara tidak diperkenankan melakukan Pendanaan yang tidak sehat.",
+      "description_en": "A lender may not extend unhealthy funding.",
+      "source": "SEOJK 19/SEOJK.06/2025 Romawi XI angka 6 huruf f angka 2",
+      "confidence": "verified_against_primary_source",
+      "criteria": [
+        { "id": "tipu_muslihat", "id_text": "Syarat, ketentuan, manfaat ekonomi, atau denda yang mengandung unsur tipu muslihat", "en_text": "Terms, economic benefit, or penalties containing deception" },
+        { "id": "abaikan_kapasitas", "id_text": "Tidak memperhatikan kemampuan membayar kembali", "en_text": "Disregards repayment capacity" },
+        { "id": "tidak_wajar", "id_text": "Syarat, manfaat ekonomi, atau denda yang tidak wajar", "en_text": "Unreasonable terms, economic benefit, or penalties" },
+        { "id": "lebih_tiga", "id_text": "Diterima dari lebih dari 3 penyelenggara", "en_text": "Held across more than three lenders" },
+        { "id": "judi_online", "id_text": "Ditujukan untuk judi online dan tindak pidana lainnya", "en_text": "Directed at online gambling or other criminal activity" }
+      ]
+    },
+    {
+      "rule_id": "O04_kelayakan_penerima_dana",
+      "title_id": "Syarat minimum penerima dana",
+      "title_en": "Minimum borrower eligibility",
+      "description_id": "Penerima Dana WNI harus berusia paling rendah 18 tahun atau sudah menikah, memiliki penghasilan bruto rata-rata paling sedikit Rp3.000.000 per bulan dengan bukti valid, dan menggunakan gawai milik sendiri.",
+      "description_en": "An Indonesian borrower must be at least 18 or married, have average gross income of at least Rp3,000,000 per month supported by valid evidence, and use their own device.",
+      "source": "SEOJK 19/SEOJK.06/2025 Romawi IX angka 6",
+      "confidence": "verified_against_primary_source",
+      "check": { "min_age": 18, "min_monthly_gross_income": 3000000, "own_device_required": true },
+      "transitional_note": "Romawi XXI angka 1 — minimum age and minimum income obligations apply at the latest from 1 January 2026 for new or extended funding."
+    },
+    {
+      "rule_id": "O05_batas_maksimum_pendanaan",
+      "title_id": "Batas maksimum pendanaan per penerima dana",
+      "title_en": "Maximum funding per borrower",
+      "description_id": "Batas maksimum Pendanaan konsumtif dan produktif kepada setiap Penerima Dana sebesar Rp2.000.000.000. Produktif dapat sampai Rp5.000.000.000 jika penyelenggara memenuhi syarat kualitas pendanaan macet maksimal 5% dalam 6 bulan terakhir dan tidak sedang dikenai sanksi.",
+      "description_en": "Maximum consumer and productive funding per borrower is Rp2,000,000,000. Productive funding may reach Rp5,000,000,000 if the lender's non-performing rate stayed at or below 5% over the last six months and it is not under sanction.",
+      "source": "SEOJK 19/SEOJK.06/2025 Romawi X angka 1-2",
+      "confidence": "verified_against_primary_source",
+      "check": { "max_per_borrower": 2000000000, "max_produktif_conditional": 5000000000 }
+    }
+  ],
+
+  "reporting_channels": {
+    "illegal_activity": { "url": "https://sipasti.ojk.go.id", "label_id": "Lapor aktivitas keuangan ilegal", "label_en": "Report illegal financial activity" },
+    "fraud_money_taken": { "url": "https://iasc.ojk.go.id", "label_id": "Lapor penipuan, uang sudah terlanjur diambil", "label_en": "Report fraud where money has already been taken" },
+    "consumer_complaint": { "url": "https://kontak157.ojk.go.id/appkpublicportal/", "label_id": "Portal pengaduan konsumen OJK", "label_en": "OJK consumer complaint portal" },
+    "phone": "157",
+    "whatsapp": "081 157 157 157",
+    "email": "konsumen@ojk.go.id",
+    "satgas_pasti_email": "satgaspasti@ojk.go.id",
+    "routing_note": "Route by verdict: sipasti for unlicensed operators, iasc when money is already gone, kontak157 for complaints against a licensed lender."
+  },
+
+  "disclaimer_id": "Perisai bukan penasihat hukum. Hasil pemeriksaan ini berdasarkan data publik dan bisa keliru. Untuk pengaduan resmi hubungi OJK 157. Untuk pendampingan hukum, hubungi LBH terdekat.",
+  "disclaimer_en": "Perisai is not a legal adviser. This assessment uses public data and may be wrong. For official complaints contact OJK 157. For legal assistance, contact your nearest LBH."
+}
